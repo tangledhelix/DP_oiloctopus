@@ -22,7 +22,7 @@ cd ~/dp/util
 
 ### Sequential Inspection of Text
 * [x] Turn on `Auto Img`
-* [ ] Check for chapter/section spacing (2,4). Regex: `(^$\n^$\n^$\n^$\n|^$\n^$\n)` and use "Highlight All".
+* [x] Check for chapter/section spacing (2,4). Regex: `(^$\n^$\n^$\n^$\n|^$\n^$\n)` and use "Highlight All".
 
 Check for:
 
@@ -50,23 +50,23 @@ Check for:
 * Note any illustrations in a list in `README.md` for later handling
 
 ### Basic Fixup
-* [ ] If project has Greek charset enabled, regex search `\p{Greek}` to look for Greek characters where they shouldn't be.
-* [ ] Use `Tools → Basic Fixup`.
-* [ ] Remove any remaining `[Blank Page]` lines
+* [x] If project has Greek charset enabled, regex search `\p{Greek}` to look for Greek characters where they shouldn't be.
+* [x] Use `Tools → Basic Fixup`.
+* [x] Remove any remaining `[Blank Page]` lines
 
 ### Errata
-* [ ] If original book had errata, apply it and note in TN
+* [x] If original book had errata, apply it and note in TN
 
 ### Fix Block Markups and Proofer Notes
 Instructions for `/* */` and `/# #/` blocks:
 * Check for a blank line before and after markup
 * If specific [rewrap markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) should be used, don't change them now, but add a note to your list for later handling, after page separators are removed.
 * For blocks that span a page boundary: if the next-page opening marker is on the second line with one blank before it, but it's still part of the same block from the previous page, move the wrap marker to the first line of the page, next to the page separator. This will make it easier to remove them during the removal of page separators.
-* [ ] Use the `Search` menu to step through all `/* */` blocks.
+* [x] Use the `Search` menu to step through all `/* */` blocks.
   * Regex: `^(/\*|\*/)`
   * Apply specific [indent value](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Table_Indent) if desired
   * Make sure poetry line numbers are at least two spaces to the right of the line.
-* [ ] Use the `Search` menu to step through all `/#..#/` blocks.
+* [x] Use the `Search` menu to step through all `/#..#/` blocks.
   * Regex: `^(/#|#/)`
   * Check consistent indentation of block text
   * Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
