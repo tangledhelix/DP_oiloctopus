@@ -15,6 +15,35 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [ ] From project notes: Please use " for the low level ditto.
+* [ ] drop-caps; first instance on 005; start of each chapter
+* [ ] lot of places where paragraph is noindent after a blockquote or table.
+  * [ ] 016
+  * [ ] 017
+  * [ ] 018
+  * [ ] 020
+  * [ ] 038
+  * [ ] 060
+  * [ ] 118
+  * [ ] 119 (2)
+  * [ ] 184
+  * [ ] 193
+  * [ ] 199
+  * [ ] 236
+  * [ ] 240
+* [ ] some blockquotes are noindent
+  * [ ] 037
+  * [ ] 038 (2)
+* [ ] 007-008: ToC
+* [ ] book divides into major sections; should these be h2, chapters h3?
+  * first example, 009-011
+* [ ] 020: tables (2)
+* [ ] 022: table
+* [ ] quite a few short letters (blockquotes with special formatting inside)
+* [ ] 115: tables (2); smaller text on 116, part of table bits too?
+* [ ] 173: F rounds have left section dividers here. are they h3 or h4?
+* [ ] 181: table
+* [ ] 197-199: tables
+* [ ] 251-255: index
 
 ### Project manager notes ###
 
