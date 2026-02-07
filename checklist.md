@@ -70,8 +70,8 @@ Instructions for `/* */` and `/# #/` blocks:
   * Regex: `^(/#|#/)`
   * Check consistent indentation of block text
   * Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
-* [ ] Find and fix any single-asterisk Proofer Comments: Search regex `\[\*[^*]`
-* [ ] `Search → Find Proofer Comments`. Resolve all proofer's notes.
+* [x] Find and fix any single-asterisk Proofer Comments: Search regex `\[\*[^*]`
+* [x] `Search → Find Proofer Comments`. Resolve all proofer's notes.
 * [ ] `Tools → Unmatched → Block Markup`
 * [ ] `Tools → Unmatched → DP Markup`.
 * [ ] Search `(</i>)([!?;:])` & replace `\2\1` to find punct that should move inside quotes

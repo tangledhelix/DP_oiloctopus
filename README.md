@@ -109,6 +109,20 @@ Images from [TIA](https://archive.org/details/greatoiloctopus00trutrich).
 
 ### Transcriber's notes ###
 
+p. 72: changed “Insterstate” to “Interstate” (the Interstate Commerce Commission)
+
+p. 112: changed “o” to “of” (pretty close track of companies)
+
+p. 115: changed shares total from “722,507” to “722,509”, correcting a math error.
+
+p. 144: changed “monoply” to “monopoly” (fighting this American monopoly)
+
+p. 165: changed “Campany” to “Company” (the Vacuum Oil Company, of Rochester)
+
+p. 178: changed “Engine F” to “Engine I” (Gas Engine I and Heavy" respectively)
+
+p. 200: changed “varies” to “various” (the various groups of middlemen)
+
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
 
