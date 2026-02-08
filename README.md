@@ -109,6 +109,8 @@ Images from [TIA](https://archive.org/details/greatoiloctopus00trutrich).
 
 ### Transcriber's notes ###
 
+p. 7: changed Chapters VII, VIII to match title of chapter
+
 p. 72: changed “Insterstate” to “Interstate” (the Interstate Commerce Commission)
 
 p. 112: changed “o” to “of” (pretty close track of companies)
