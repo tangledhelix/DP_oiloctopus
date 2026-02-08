@@ -115,9 +115,9 @@ THE MEN AND THE MONOPOLY
 /#
 "The oil business belongs to us."
 
-/*
+/R
 <sc>John D. Rockefeller</sc> <i>to an independent refiner</i>.
-*/
+R/
 #/
 
 
@@ -410,7 +410,7 @@ Bedford. This Company controls nine companies
 which are principally engaged in refining
 oils:--
 
-/*
+/x
                                            Capital.
                                              Dols.
 Atlantic Refining Company, Pennsylvania   5,000,000
@@ -422,18 +422,18 @@ Standard Oil Company of New York         15,000,000
 Security Oil Company, Texas               3,000,000
 Standard Oil Company of Ohio              3,500,000
 Corsicana Refining Company               partnership
-*/
+x/
 
 Then comes a group of lubricating oil companies:--
 
-/*
+/x
                                            Dols.
 Vacuum Oil Company, N.Y.                  2,500,000
 Borne, Scrymser & Co., N.J.                 200,000
 Chesebrough Manufacturing Company, N.Y.     500,000
 Galena Signal Oil Company, Penn.         10,000,000
 Swan and Finch Company, N.Y.              1,000,000
-*/
+x/
 
 It will surprise many readers on this side to
 find in this list the name of the Chesebrough
@@ -485,7 +485,7 @@ following foreign marketing companies, the
 first two of which are duly recorded in the files
 at Somerset House:--
 
-/*
+/x
                                                    Capital.
 Anglo-American Oil Company (London)               £1,000,000
 Vacuum Oil Company, Ltd. (London)                    £55,000
@@ -504,7 +504,7 @@ Vacuum Oil Company (Austria)                   Kr.10,000,000
 International Oil Company (Japan)             Yen.12,000,000
 Imperial Oil Company (Canada)                     Not stated
 Colonial Oil Company (Africa and Australasia)       $250,000
-*/
+x/
 
 But even this long list does not complete the
 companies in this combination. It does not
@@ -542,9 +542,9 @@ stronger than his sense of justice, his humanity, his affections,
 his joy in life, which is the one tyrannous insatiable force of
 his being."
 
-/*
+/R
 <sc>Ida M. Tarbell</sc> <i>in</i> "<i>McClure's Magazine</i>."
-*/
+R/
 #/
 
 
@@ -1016,9 +1016,9 @@ LINES
 "A dollar in those days (1871) looked as large as a cart
 wheel."
 
-/*
+/R
 <sc>John D. Rockefeller</sc> <i>in</i> "<i>Random Reminiscences</i>."
-*/
+R/
 #/
 
 
@@ -1589,10 +1589,10 @@ THE BIRTH OF THE TRUST
 and fragrance only by sacrificing the early buds which
 grow up around it."
 
-/*
+/R
 <sc>J. D. Rockefeller</sc>, Jun., <i>to the students
 of Brown University</i>.
-*/
+R/
 #/
 
 
@@ -1741,10 +1741,10 @@ my mind his persuasiveness is on a par with
 that of the bold highwayman sung of in the
 "Pickwick Papers":--
 
-/*
+/p
 But Dick put a couple of balls in his nob
 And perwailed on him to stop.
-*/
+p/
 
 The Standard Oil Trust has been repeatedly
 and publicly charged in America with using in
@@ -1955,9 +1955,9 @@ which in the late afternoon play around its impassive
 cornices. The building is No. 26, Broadway, New York City,
 home of the Standard Oil."
 
-/*
+/R
 <sc>T. W. Lawson</sc> <i>in</i> "<i>Frenzied Finance</i>."
-*/
+R/A
 #/
 
 
@@ -1996,10 +1996,10 @@ Ohio, and one of the leading members of the
 Republican party. It was as follows:--
 
 /#
-/*
+/x
 26, <sc>Broadway, New York</sc>,
 <i>March 9, 1900</i>.
-*/
+x/
 
 <sc>My dear Senator</sc>,--I have your favour of last night with
 inclosure, which latter, with letter from Mr. Elliott commenting
@@ -2012,10 +2012,10 @@ in which the same objectionable clause occurs. Am
 glad to hear that you think that the situation is fairly well
 in hand.
 
-/*
+/x
 Very truly yours,
 <sc>Jno. D. Archbold</sc>.
-*/
+x/
 
 Hon. J. B. Foraker, Washington, D.C.
 
@@ -2026,28 +2026,28 @@ for the Standard Oil Company.]
 Here are some more letters of this series:--
 
 /#
-/*
+/x
 26, <sc>Broadway, New York</sc>,
 <i>March 26, 1900</i>.
 
 Hon. J. B. Foraker, 1500, Sixteenth Street, Washington, D.C.
-*/
+x/
 
 <sc>Dear Senator</sc>,--In accordance with our understanding, now
 beg to enclose you certificate of deposit to your favour for
 $15,000. Kindly acknowledge receipt and oblige.
 
-/*
+/x
 Yours very truly,
 <sc>Jno. D. Archbold</sc>.
-*/
+x/
 #/
 
 /#
-/*
+/x
 <sc>26, Broadway, New York</sc>,
 <i>April 17, 1900</i>.
-*/
+x/
 
 <sc>My dear Senator</sc>,--I enclose you certificate of deposit to
 your favour of $14,500. We are really at a loss in the matter,
@@ -2056,18 +2056,18 @@ you when opportunity offers, if you so desire. I need scarcely
 again express our great gratification over the favourable outcome
 of affairs.
 
-/*
+/x
 Very truly yours,
 <sc>Jno. D. Archbold</sc>.
-*/
+x/
 
 Hon. J. B. Foraker, 1500, Sixteenth Street, Washington, D.C.
 #/
 
 /#
-/*
+/x
 <i>January 27, 1902.</i>
-*/
+x/
 
 <sc>My dear Senator</sc>,--Responding to your favour of the 25th,
 it gives me pleasure to hand you herewith certificate of deposit
@@ -2075,19 +2075,19 @@ for $50,000 in accordance with our understanding. Your letter
 states the conditions correctly, and I trust the transaction will
 be successfully consummated.
 
-/*
+/x
 Very truly yours,
 <sc>John D. Archbold</sc>.
-*/
+x/
 
 Hon. J. B. Foraker, Washington, D.C.
 #/
 
 /#
-/*
+/x
 <sc>26, Broadway</sc>,
 <i>February 25, 1902</i>.
-*/
+x/
 
 <sc>My dear Senator</sc>,--I venture to write you a word regarding
 the Bill introduced by Senator Jones, of Arkansas, known as
@@ -2102,10 +2102,10 @@ will feel so about it, and I will be greatly pleased to have a
 word from you on the subject. The Bill, I believe, is still
 in committee.
 
-/*
+/x
 With kind regards, I am, very truly yours,
 John D. Archbold.
-*/
+x/
 
 Hon. J. B. Foraker, Washington, D.C.
 #/
@@ -2133,10 +2133,10 @@ show how that consummation has been
 reached:--
 
 /#
-/*
+/x
 26, <sc>Broadway</sc>,
 <i>December 18, 1902</i>.
-*/
+x/
 
 <sc>My dear Senator</sc>,--You, of course, know of Judge Burket's
 candidacy for re-election to the Supreme Court Bench of Ohio.
@@ -2149,17 +2149,17 @@ We most earnestly hope that you agree with this view, and
 will favour and aid his re-election. Mr. Rogers joins me most
 heartily in this expression to you.
 
-/*
+/x
 With kind regards, I am, very sincerely yours,
 <sc>John D. Archbold</sc>.
-*/
+x/
 #/
 
 /#
-/*
+/x
 26, <sc>Broadway</sc>,
 <i>March 20, 1903</i>.
-*/
+x/
 
 <sc>My dear Senator</sc>,--We are surprised beyond measure to
 learn that Smith W. Bennett, brother-in-law of F. S. Monnett,
@@ -2176,9 +2176,9 @@ view.
 I would esteem it a favour to have a line from you on the
 subject.
 
-/*
+/x
 <sc>Jno. D. Archbold.</sc>
-*/
+x/
 #/
 
 Mr. F. S. Monnett, whose brother-in-law is
@@ -2255,10 +2255,10 @@ by him to the Hon. W. A. Stone, Governor of
 Pennsylvania:--
 
 /#
-/*
+/x
 26, <sc>Broadway</sc>,
 <i>December 5, 1902</i>.
-*/
+x/
 
 <sc>My dear Governor</sc>,--I am sure you will pardon any seeming
 presumption on my part in writing you on a subject in
@@ -2276,21 +2276,21 @@ of the Court from that section.
 Hoping that it may prove possible for you to favourably
 consider Judge Morrison's appointment.
 
-/*
+/x
 I am, with very high regard, sincerely yours,
 <sc>Jno. D. Archbold</sc>.
-*/
+x/
 
 Hon. Wm. A. Stone, Harrisburg, Pa.
 #/
 
 /#
-/*
+/x
 26, <sc>Broadway</sc>,
 <i>September 5, 1900</i>.
 
 Hon. Wm. A. Stone, Harrisburg, Pa.
-*/
+x/
 
 <sc>My dear Governor</sc>,--Will you permit me to say that if it
 seems consistent for you to appoint Judge John Henderson, of
@@ -2300,10 +2300,10 @@ personal satisfaction to me. I am sure I need not occupy your
 time with any argument as to Judge Henderson's fitness, either
 as to character or legal qualification.
 
-/*
+/x
 With high regard, I am, very truly yours,
 <sc>Jno. D. Archbold</sc>.
-*/
+x/
 #/
 
 Both Judge Morrison and Judge Henderson
@@ -2328,64 +2328,64 @@ also to the Bench of the Supreme Court of
 Pennsylvania:--
 
 /#
-/*
+/x
 Telegram.
 
 <i>March 15, 1900.</i>
 
 Hon. John P. Elkin, Indiana, Pa.
-*/
+x/
 
 Telegram received. Will do as requested.
 
-/*
+/x
 <sc>Jno. D. Archbold</sc>.
-*/
+x/
 #/
 
 /#
-/*
+/x
 26, Broadway,
 <i>March 15, 1900</i>.
 
 Hon. John P. Elkin, Indiana, Pa.
 Personal.
-*/
+x/
 
 <sc>My dear General</sc>,--In accordance with your telegraphic
 request of to-day, I beg to enclose you certificate of deposit to
 your favour for $5,000, in fulfilment of our understandings.
 
-/*
+/x
 Very truly yours,
 <sc>Jno. D. Archbold</sc>.
-*/
+x/
 #/
 
 /#
-/*
+/x
 26, Broadway,
 <i>February 5, 1900</i>.
-*/
+x/
 
 <sc>My dear General</sc>,--In accordance with the request in your
 telegram of to-day, I now beg to enclose you certificate of
 deposit to your favour for $10,000, kind acknowledgment of
 which will oblige.
 
-/*
+/x
 Yours very truly,
 <sc>Jno. D. Archbold</sc>.
-*/
+x/
 
 To Hon. John P. Elkin, Indiana, Pa.
 #/
 
 /#
-/*
+/x
 26, Broadway,
 <i>May 9, 1901</i>.
-*/
+x/
 
 <sc>My dear General</sc>,--I enclose copy of a measure pending--I
 am not sure whether in the House or Senate--being an Act
@@ -2394,13 +2394,13 @@ seem to us potent, we would greatly like to have this proposed
 amendment killed. Won't you kindly tell me about it and
 advise me what you think the chances are?
 
-/*
+/x
 Very truly yours,
 <sc>Jno. D. Archbold</sc>.
 
 To the Hon. John P. Elkin, Attorney-General,
 Harrisburg, Pa.
-*/
+x/
 #/
 
 This is the sort of campaign the Standard Oil
@@ -2414,48 +2414,48 @@ interesting letters which show how public
 opinion may be manufactured by that process:--
 
 /#
-/*
+/x
 26, <sc>Broadway</sc>,
 <i>October 10, 1902</i>.
 
 Mr. H. H. Edmonds, Baltimore, Md.
-*/
+x/
 
 <sc>Dear Sir</sc>,--Responding to your favour of the 9th, it gives
 me pleasure to enclose you herewith certificate of deposit to
 your favour for $3,000, covering a year's subscription to the
 <i>Manufacturers' Record</i>.--Truly yours,
 
-/*
+/x
 <sc>Jno. D. Archbold.</sc>
-*/
+x/
 #/
 
 /#
-/*
+/x
 26, Broadway,
 <i>January 17, 1899</i>.
 
 Hon. W. A. Magee, <i>Pittsburg Times</i>, Pittsburg, Pa.
-*/
+x/
 
 <sc>Dear Sir</sc>,--As per understanding, herewith enclosed find
 certificate of deposit to your order for $1,250, the receipt of
 which kindly acknowledge.--Truly yours,
 
-/*
+/x
 <sc>Jno. D. Archbold.</sc>
-*/
+x/
 #/
 
 /#
-/*
+/x
 26, <sc>Broadway</sc>,
 <i>December 18, 1901</i>.
 
 Mr. Thomas P. Grasty, care of Buck & Pratt, Room 1,203,
 27, William Street, City.
-*/
+x/
 
 <sc>Dear Mr. Grasty</sc>,--I have your favour of yesterday, and
 beg to return you herewith the telegram from Mr. Edmonds to
@@ -2467,9 +2467,9 @@ South is of the most helpful character.
 
 With good wishes, I am, very truly yours,
 
-/*
+/x
 <sc>Jno. D. Archbold.</sc>
-*/
+x/
 #/
 
 These sums are called "subscriptions," but
@@ -2496,7 +2496,9 @@ ARSON AND ESPIONAGE
 "The Oil Trust is evangelical at one end and explosive at
 the other."
 
+/R
 <sc>Henry D. Lloyd</sc> <i>in</i> "<i>Wealth against Commonwealth</i>."
+R/
 #/
 
 
@@ -2792,12 +2794,12 @@ has been "persuaded" to countermand the
 order:--
 
 /#
-/*
+/x
 <sc>Des Moines, Iowa</sc>,
 <i>January 14, 1891</i>.
 
 John Fowler, Hampton, Iowa.
-*/
+x/
 
 <sc>Dear Sir</sc>,--Our Marshallstown manager, Mr. Ruth, has
 explained the circumstances regarding the purchase and subsequent
@@ -2818,10 +2820,10 @@ back of you in this matter, and will protect you in every
 way, and would kindly ask you to keep this letter strictly
 confidential.
 
-/*
+/x
 Yours truly,
 <sc>E. P. Pratt</sc>.
-*/
+x/
 #/
 
 Another typical example of Standard methods
@@ -2830,10 +2832,10 @@ the Independent Oil Company, of Mansfield,
 Ohio, by one of its customers:--
 
 /#
-/*
+/x
 <sc>Tiffin, Ohio</sc>,
 <i>January 24, 1898</i>.
-*/
+x/
 
 <sc>Dear Sirs</sc>,--I am sorry to say that a Standard Oil man from
 your city followed that oil car and oil to my place, and told me
@@ -2848,10 +2850,10 @@ oil was all right. I now see the mistake, and that is of getting
 a carload. Two carloads coming in here inside of a week is
 more than the other company will stand....
 
-/*
+/x
 Yours truly,
 <sc>H. A. Eirick</sc>.
-*/
+x/
 #/
 
 Chess, Carley & Co., the Standard marketing
@@ -2947,9 +2949,9 @@ they get pleasure from the possession of money it comes from
 their ability to do things which give satisfaction to some one
 besides themselves."
 
-/*
+/R
 <sc>John D. Rockefeller</sc> <i>in</i> "<i>Random Reminiscences</i>."
-*/
+R/
 #/
 
 
@@ -3234,7 +3236,7 @@ case contains some remarkable resemblances.
 In the case of the General Industrials Development
 Syndicate it was as follows:--
 
-/*
+/x
                                                             Shares.
 Henry Hassall, 32, Dartmouth Park Road                         1
 E. G. Flower, Elm Villa, Elm Road, Sidcup                      1
@@ -3249,12 +3251,12 @@ Herbert Walter Johnson}   solicitors, jointly            399,993
 Arthur Statham Jecks  }
                                                          -------
                                                          400,000
-*/
+x/
 
 Turning to the London Commercial Trading
 Company, we find the following names:--
 
-/*
+/x
                                                            Shares.
 Henry Hassall, 5, Florence Road, Finsbury Park                1
 E. G. Flower, 279, High Road, Lee                             1
@@ -3269,7 +3271,7 @@ Herbert Walter Johnson}
 Arthur Statham Jecks  }
 
                                                         722,509
-*/
+x/
 
 /#
 (On February 23, 1904, 2,493 more shares were allotted to
@@ -3490,9 +3492,9 @@ Members, or servants, of this modern industrial
 in Washington. They have had Presidents of
 the Republic at their beck and call."
 
-/*
+/R
 <i>Investors' Review</i>, 1897.
-*/
+R/
 #/
 
 
@@ -3856,9 +3858,9 @@ AND ASIA
 man who devotes all the waking hours of the day to making
 money for money's sake."
 
-/*
+/R
 <sc>John D. Rockefeller</sc> <i>in</i> "<i>Random Reminiscences</i>."
-*/
+R/
 #/
 
 
@@ -4347,9 +4349,9 @@ in Washington. Our ambassadors and ministers and consuls
 have aided to push our way into new markets to the utmost
 corners of the world."
 
-/*
+/R
 <sc>John D. Rockefeller</sc> <i>in</i> "<i>Random Reminiscences</i>."
-*/
+R/
 #/
 
 
@@ -4808,7 +4810,9 @@ to whom work is a pleasure; above all, men who have no
 price but our price. To such men we can afford to give the
 only things they have not got--power and money."
 
+/R
 <sc>H. H. Rogers</sc> <i>to T. W. Lawson in</i> "<i>Frenzied Finance</i>."
+R/
 #/
 
 
@@ -5102,11 +5106,11 @@ Vacuum oils, when no chemical test known to
 science will indicate any superiority. Its translation
 is as follows:--
 
-/*
+/x
                                                    M.
 Evening with Mr. Pampel and Obersteiger Hohner     42
 Evening with Mr. Mié                               28
-*/
+x/
 
 /#
 [<sc>Note.</sc>--We had invited these gentlemen, and threw
@@ -5117,7 +5121,7 @@ pocket, which I have had entered in my
 own account.--(<i>Signed</i>) <sc>Mié</sc>.]
 #/
 
-/*
+/x
 Cash, Mr. Müller, foreman                        100
 Cash, Mr. Plaintz, engineer, of Gustav Toelle     50
 Foreman of S. Wolle                                5
@@ -5128,7 +5132,7 @@ Wine, dinner, cigars, &c., with Hortenbach        35.20
 Cash, Mr. Hortenbach                              20.00
                                                  ------
                     Total                     M. 309.25
-*/
+x/
 
 Mr. Hortenbach seems to have taken a good
 deal of lubricating. Apparently his machinery
@@ -5162,11 +5166,11 @@ representatives, which seems to have
 attracted some attention in Kiel:--
 
 /#
-/*
+/x
 <sc>Kiel</sc>, <i>November 12, 1903</i>.
 
 The German Vacuum Oil Company, Hamburg.
-*/
+x/
 
 I beg to acknowledge receipt of yours of the 10th of this
 month, the contents of which I note. With reference to my
@@ -5178,10 +5182,10 @@ to the smaller expenses incurred as your representative, I
 cannot remember them now, but they will be found in my
 memoranda of extra expenses.
 
-/*
+/x
 Yours truly,
 <sc>Hugo Cohr</sc>.
-*/
+x/
 #/
 
 The Vacuum Oil people have always liked
@@ -5331,9 +5335,9 @@ ENGLAND
 "According as you put something into the Church or the
 Sunday-school work the greater will be your dividends of salvation."
 
-/*
+/R
 <sc>John D. Rockefeller</sc> <i>in a Sunday-school address</i>.
-*/
+R/
 #/
 
 
@@ -5538,7 +5542,7 @@ address of the Standard:--
 
 <sc>American Shareholders.</sc>
 
-/*
+/x
                                                             Shares.
 H. M. Flagler and J. D. Archbold                             10,239
 John D. Rockefeller                                           6,867
@@ -5589,23 +5593,23 @@ C. F. Akerman                                                     1
 A. J. Pouch                                                       1
 T. C. Bushnell                                                    1
 Livingston Roe                                                    1
-*/
+x/
 
 
 <sc>London Shareholders.</sc>
 
-/*
+/x
 Frank E. Bliss                                                    1
 James Macdonald                                                   1
 J. H. Usmar                                                       1
 W. A. Hawkins                                                     1
-*/
+x/
 
 There have been various changes in the share
 list, and on June 30, 1910, the following were
 the principal shareholders:--
 
-/*
+/x
                                                             Shares.
 Standard Oil Company of New Jersey                           49,993
 Trustees Standard Oil Trust                                       1
@@ -5617,7 +5621,7 @@ James Hamilton, 22, Billiter Street, merchant                     1
 William E. Bemis, 26, Broadway, New York                          1
                                                              ------
                                                              50,000
-*/
+x/
 
 The capital of the Company was at that date
 £1,000,000 in £20 shares. It is worthy of
@@ -5888,9 +5892,9 @@ temperatures commonly above 73 deg., and, therefore, you
 are dealing in every lamp so used with an oil beneath your
 flame which is in a condition of danger."
 
-/*
+/R
 <sc>Professor Attfield, F.R.S.</sc>, <i>Select Committee on Petroleum, 1896 Report</i>.
-*/
+R/
 #/
 
 
@@ -6130,9 +6134,9 @@ HOME OFFICE
 "You have been in politics long enough to know that no man
 in public office owes the public anything."
 
-/*
+/R
 <sc>Senator Mark Hanna</sc> <i>to the Ohio Attorney-General</i>.
-*/
+R/
 #/
 
 
@@ -6728,9 +6732,9 @@ THE LUBRICATING OIL TRADE
 piety are the tricks which deceive the most people the longest
 time?"
 
-/*
+/R
 <sc>Ida M. Tarbell</sc> <i>in</i> "<i>McClure's Magazine</i>."
-*/
+R/
 #/
 
 
@@ -6755,13 +6759,13 @@ company in the United Kingdom for £29,947.
 Up to October, 1905, its five directors were as
 follows--
 
-/*
+/x
 John Dustin Archbold, 26, Broadway, N.Y.
 Charles Millard Pratt, 26, Broadway, N.Y.
 Charles Marvin Everest, Rochester, N.Y.
 Howard B. Case, Norfolk Street, Strand.
 Henry Forster Grierson, Farnborough, Hants.
-*/
+x/
 
 Charles M. Pratt is a son of the late Mr.
 Charles Pratt, who founded the refinery already
@@ -6779,7 +6783,7 @@ refuse to register any transfer of shares without
 giving their reasons. The following were
 the shareholders on November, 30, 1909:--
 
-/*
+/x
                                           Shares.
 Vacuum Oil Company of Rochester, N.Y.     50,000
 Charles Marvin Everest, Rochester, N.Y.    2,000
@@ -6791,7 +6795,7 @@ Ernest Michaelson, Copenhagen, merchant       50
 Everett Oscar Wader, 29, Broadway, N.Y.       50
                                           ------
                                 Total     55,000
-*/
+x/
 
 Mr. Archbold and Mr. Pratt have left the
 board of directors, which included in November,

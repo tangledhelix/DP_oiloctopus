@@ -111,7 +111,7 @@ Instructions for `/* */` and `/# #/` blocks:
 * [x] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions. Protect with `/X...X/`.
 
 ### Add Noted Rewrap Markers
-* [ ] If the to-do list has any notes about adding [rewrap markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) (such as indexes or poetry), make those changes.
+* [x] If the to-do list has any notes about adding [rewrap markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) (such as indexes or poetry), make those changes.
 
 ### Apply Word-Frequency Checks
 * [ ] Open `Tools → Word Frequency`. Click on an entry to jump to it.

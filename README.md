@@ -36,8 +36,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] 037
   * [ ] 038 (2)
 * [ ] Book divides into major sections; should these be h2, chapters h3?
-  * [ ] Or is the start of *every* chapter??
-  * [ ] Yes, it is. How very dramatic. Someone was flexing on how little they cared about the cost of paper, perhaps.
+  * [x] Or is the start of *every* chapter??
+  * [x] Yes, it is. How very dramatic. Someone was flexing on how little they cared about the cost of paper, perhaps.
   * [ ] 009-011 chapter 1
   * [ ] 025-027 chapter 2
   * [ ] 043-045 chapter 3
