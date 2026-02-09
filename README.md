@@ -109,13 +109,15 @@ Images from [TIA](https://archive.org/details/greatoiloctopus00trutrich).
 
 ### Transcriber's notes ###
 
-p. 7: changed Chapters VII, VIII to match title of chapter
+p. 7: changed location of quotation marks for Chapters VII, VIII entries to match the chapter titles
 
 p. 72: changed “Insterstate” to “Interstate” (the Interstate Commerce Commission)
 
 p. 112: changed “o” to “of” (pretty close track of companies)
 
 p. 115: changed shares total from “722,507” to “722,509”, correcting a math error.
+
+p. 129: changed “Stark’s” to “Starks’s” for consistency (cart it round after Starks’s wagon)
 
 p. 144: changed “monoply” to “monopoly” (fighting this American monopoly)
 
