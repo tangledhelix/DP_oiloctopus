@@ -2045,7 +2045,7 @@ x/
 
 /#
 /x
-<sc>26, Broadway, New York</sc>,
+26, <sc>Broadway, New York</sc>,
 <i>April 17, 1900</i>.
 x/
 
@@ -2085,7 +2085,7 @@ Hon. J. B. Foraker, Washington, D.C.
 
 /#
 /x
-<sc>26, Broadway</sc>,
+26, <sc>Broadway</sc>,
 <i>February 25, 1902</i>.
 x/
 
@@ -2104,7 +2104,7 @@ in committee.
 
 /x
 With kind regards, I am, very truly yours,
-John D. Archbold.
+<sc>John D. Archbold</sc>.
 x/
 
 Hon. J. B. Foraker, Washington, D.C.
@@ -2345,7 +2345,7 @@ x/
 
 /#
 /x
-26, Broadway,
+26, <sc>Broadway</sc>,
 <i>March 15, 1900</i>.
 
 Hon. John P. Elkin, Indiana, Pa.
@@ -2364,7 +2364,7 @@ x/
 
 /#
 /x
-26, Broadway,
+26, <sc>Broadway</sc>,
 <i>February 5, 1900</i>.
 x/
 
@@ -2383,7 +2383,7 @@ To Hon. John P. Elkin, Indiana, Pa.
 
 /#
 /x
-26, Broadway,
+26, <sc>Broadway</sc>,
 <i>May 9, 1901</i>.
 x/
 
@@ -2433,7 +2433,7 @@ x/
 
 /#
 /x
-26, Broadway,
+26, <sc>Broadway</sc>,
 <i>January 17, 1899</i>.
 
 Hon. W. A. Magee, <i>Pittsburg Times</i>, Pittsburg, Pa.
@@ -7122,9 +7122,9 @@ Andrews, Samuel, 15, 29, 193
 
 Anglo-American Oil Company, Ltd., 11, 22, 111, 196, 241
 
-"  Caucasian Oil Company, Ltd., 163
+" Caucasian Oil Company, Ltd., 163
 
-"  Saxon Petroleum Company, 148, 170
+" Saxon Petroleum Company, 148, 170
 
 Archbold, John D., 18, 19, 67, 78, 94, 97, 110, 175, 196, 239
 
