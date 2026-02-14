@@ -142,11 +142,11 @@ Instructions for `/* */` and `/# #/` blocks:
   * [x] Search based on `en-common.json`. Work through the list.
   * [x] Search based on `misspelled.json`. Work through the list.
   * [x] Search based on `regex.json`. Work through the list.
-* [ ] `Tools → Jeebies`. Examine its report of possible `he/be` errors.
-* [ ] `Tools → Regex Library`. Run my custom `misc_checks.json`.
+* [x] `Tools → Jeebies`. Examine its report of possible `he/be` errors.
+* [x] `Tools → Regex Library`. Run my custom `misc_checks.json`.
 
 ### Apply Bookloupe
-* [ ] `Tools → Bookloupe`.
+* [x] `Tools → Bookloupe`.
 
 ### Spelling and Distance Checks
 * [ ] Use `Tools → Spelling`. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
