@@ -109,6 +109,8 @@ Images from [TIA](https://archive.org/details/greatoiloctopus00trutrich).
 
 ### Transcriber's notes ###
 
+smallcaps in use.
+
 p. 7: changed location of quotation marks for Chapters VII, VIII entries to match the chapter titles
 
 p. 72: changed “Insterstate” to “Interstate” (the Interstate Commerce Commission)
