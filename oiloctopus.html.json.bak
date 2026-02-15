@@ -1,6 +1,6 @@
 {
-  "md5checksum": "7f8196b5dbd19d308d960ee002acafae",
-  "insertpos": "660.37",
+  "md5checksum": "22cfa224cbb6898c81f3e1605198a7c1",
+  "insertpos": "6318.2",
   "insertpospeer": "7105.0",
   "pagedetails": {
     "001": {
@@ -1546,6 +1546,8 @@
   "charsuites": {
     "Basic Latin": true
   },
-  "bookmarks": {},
+  "bookmarks": {
+    "Bookmark1": "1.0"
+  },
   "imagerotate": {}
 }
