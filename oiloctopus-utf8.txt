@@ -22,7 +22,7 @@ LEIPSIC: INSELSTRASSE 20
 X/
 
 
-(<i>All rights reserved.</i>)
+(_All rights reserved._)
 
 
 
@@ -30,7 +30,7 @@ X/
 PREFACE
 
 
-The appearance in <i>Truth</i> of the articles
+The appearance in _Truth_ of the articles
 which form the greater portion of this
 volume has been followed by a wish expressed
 in many quarters that they might be republished
@@ -116,7 +116,7 @@ THE MEN AND THE MONOPOLY
 “The oil business belongs to us.”
 
 /R
-<sc>John D. Rockefeller</sc> <i>to an independent refiner</i>.
+<sc>John D. Rockefeller</sc> _to an independent refiner_.
 R/
 #/
 
@@ -296,7 +296,7 @@ him of notions of justice and regard for the rights of others.
 #/
 
 In a character sketch of Mr. Rockefeller which
-she contributed to <i>McClure’s Magazine</i> in
+she contributed to _McClure’s Magazine_ in
 January, 1905, Miss Tarbell tells this story:--
 
 /#
@@ -315,8 +315,8 @@ counts. The next figure in the gallery of oils
 is that of the late Mr. Henry H. Rogers, who
 died a few months ago--the “Iron Man” of
 the Standard directorate. Writing in Chapter
-III. of “Frenzied Finance” in <i>Everybody’s
-Magazine</i> for August, 1904, Mr. T. W. Lawson,
+III. of “Frenzied Finance” in _Everybody’s
+Magazine_ for August, 1904, Mr. T. W. Lawson,
 who knew him well, thus described Mr.
 Rogers:--
 
@@ -543,7 +543,7 @@ his joy in life, which is the one tyrannous insatiable force of
 his being.”
 
 /R
-<sc>Ida M. Tarbell</sc> <i>in</i> “<i>McClure’s Magazine</i>.”
+<sc>Ida M. Tarbell</sc> _in_ “_McClure’s Magazine_.”
 R/
 #/
 
@@ -599,9 +599,9 @@ these discriminations affect enormous areas.
 
 Not only has this resulted in great direct pecuniary
 advantage in transportation cost to the Standard, but it has
-had the far more important effect of <i>giving that Company
+had the far more important effect of _giving that Company
 practically unassailable monopolistic control of the oil
-market</i> throughout large sections of the country.
+market_ throughout large sections of the country.
 #/
 
 Of course, it was just as iniquitous for an
@@ -675,7 +675,7 @@ had granted secret rebates as vice-president of
 the Lake Shore Railroad in 1868, offered a
 defence of his conduct by means of an affidavit
 which he made in the case of the Standard Oil
-Company <i>v.</i> William C. Scofield et al. in the
+Company _v._ William C. Scofield et al. in the
 Court of Common Pleas, Cuyahoga County,
 Ohio, November 13, 1880. This affidavit states
 that “such rates and arrangements were made
@@ -722,8 +722,8 @@ of illuminating oil to the consumer. Any one
 who takes the trouble to study the matter from
 the beginning will see that the Company’s
 primary object, on which it concentrated all
-its early efforts, has always been <i>to raise the
-price for the consumer</i>. By 1870 the general competition
+its early efforts, has always been _to raise the
+price for the consumer_. By 1870 the general competition
 among oilmen, together with the vast
 additional supplies of oil discovered, had brought
 prices down enormously since the time oil was
@@ -733,7 +733,7 @@ gallon for the oil he exported in 1865, the year
 he went into business, in 1870 he received only
 26³⁄₈ cents (1s. 1¹⁄₄d.). It was proved beyond
 doubt by competent testimony during the
-Missouri suit of the United States <i>v.</i> the
+Missouri suit of the United States _v._ the
 Standard Oil Company of New Jersey that a
 wholesale price of 1 cent (¹⁄₂d.) a gallon allows an
 excellent margin of profit for an oil refiner.
@@ -748,7 +748,7 @@ oath as to what they meant to do, he replied,
 “Simply to hold up the price of oil--to get all we
 can for it.” And Mr. Rogers declared to the
 Industrial Commission in 1875 that “oil to yield
-a fair profit should be sold for <i>25 cents</i> per
+a fair profit should be sold for _25 cents_ per
 gallon!”
 
 Prices being “ruinously low” from the oilman’s
@@ -783,16 +783,16 @@ each road was to get, or to be paid for whether
 it got it or not. The discrimination in favour
 of the South Improvement Company was to be
 effected by a secret return to it of from 25 to 50
-per cent. of <i>all the money paid to the roads for
+per cent. of _all the money paid to the roads for
 oil freight either by itself or by any firm or company
-in the trade</i>. How this iniquitous idea
+in the trade_. How this iniquitous idea
 could ever have been developed, much less acted
 upon, it is difficult to imagine from a bald
 recital of the facts. But the railroads, I find
 from evidence before the Hepburn Committee
 in 1879, either believed, or affected to believe,
 that the South Improvement Company represented
-practically the whole oil trade, <i>was</i> the
+practically the whole oil trade, _was_ the
 oil trade in fact; other firms were, or were to
 be regarded as, merely unrecognised, unqualified
 practitioners, who carried on their avocation
@@ -822,8 +822,8 @@ your own shipments cost you nothing at all,
 and you are in the enviable position not only
 of carrying on business without working expenses,
 but of being paid handsomely by your
-rivals for doing so. Something like this <i>reductio
-ad absurdum</i> in trading must have been actually
+rivals for doing so. Something like this _reductio
+ad absurdum_ in trading must have been actually
 approached in the case now under consideration,
 for as a matter of fact the South Improvement
 Company did not control one-tenth of the refining
@@ -839,8 +839,8 @@ business of the United States amounted to from
 stockholders of the South Improvement Company
 when formed owned a combined capacity
 of not over 4,600 barrels--less than one-tenth.
-This they increased, as we shall see, <i>in three
-months time</i>, to a capacity of one-fifth.
+This they increased, as we shall see, _in three
+months time_, to a capacity of one-fifth.
 
 The stockholders in the South Improvement
 Company held shares as follows:--
@@ -888,14 +888,14 @@ contained in Art. 4, whereby each railroad was
 bound to co-operate
 
 /#
-<i>as far as it legally might</i> to maintain the business of the South
+_as far as it legally might_ to maintain the business of the South
 Improvement Company against loss or injury by competition,
 to the end that it may keep up a remunerative and so a full
 and regular business, and to that end shall lower or raise the
 gross rates of transportation over its railroads and connections,
 as far as it legally may, for such times and to such extent as
 may be necessary to overcome such competition, the rebates
-and drawbacks to be varied <i>pari passu</i> with the gross rates.
+and drawbacks to be varied _pari passu_ with the gross rates.
 #/
 
 This makes it clear that Art. 3, providing that
@@ -963,10 +963,10 @@ pamphlet on the Standard Oil Railway Discriminations
 /#
 By the Chairman:
 
-<i>Q.</i> What do you mean by the pool--a pool amongst the railroads
+_Q._ What do you mean by the pool--a pool amongst the railroads
 or amongst the oil men?
 
-<i>A.</i> I don’t give this as a positive fact, but as I understand
+_A._ I don’t give this as a positive fact, but as I understand
 the arrangement, the New York Central, the Erie, the Atlantic
 and Great Western, the Pennsylvania Railroad, the Cleveland,
 Columbus and Cincinnati, and the Baltimore and Ohio roads
@@ -982,17 +982,17 @@ pool, over whichever road the oil may go, and that rebate is
 divided up between the Standard Oil Company and the railroad
 officials.
 
-<i>Q.</i> The railroad officials, do you say?
+_Q._ The railroad officials, do you say?
 
-<i>A.</i> So I understand it. I don’t say that of my own knowledge.
+_A._ So I understand it. I don’t say that of my own knowledge.
 
-<i>Q.</i> Then it does not go to the railroads themselves?
+_Q._ Then it does not go to the railroads themselves?
 
-<i>A.</i> No, sir.
+_A._ No, sir.
 
-<i>Q.</i> But to the railroad officials?
+_Q._ But to the railroad officials?
 
-<i>A.</i> To the railroad officials.
+_A._ To the railroad officials.
 #/
 
 There the matter was left by the Committee
@@ -1017,7 +1017,7 @@ LINES
 wheel.”
 
 /R
-<sc>John D. Rockefeller</sc> <i>in</i> “<i>Random Reminiscences</i>.”
+<sc>John D. Rockefeller</sc> _in_ “_Random Reminiscences_.”
 R/
 #/
 
@@ -1084,7 +1084,7 @@ and W. H. Vanderbilt (New York
 Central) all sent emphatic messages to the
 Petroleum Producers’ Union declaring that their
 roads had no understanding of any nature in
-regard to freights with the <i>Standard Oil Company</i>.
+regard to freights with the _Standard Oil Company_.
 On April 8th John D. Rockefeller
 telegraphed to the Petroleum Producers’ Union:
 “In answer to your telegram, this Company
@@ -1110,14 +1110,14 @@ in his lifetime, but he did achieve one
 at this early date in his career. He talked
 under the smart of his rebuff, and so did others
 of his colleagues in the late South Improvement
-Company. He was reported in the <i>Oil
-City Derrick</i> to have said to a prominent man
+Company. He was reported in the _Oil
+City Derrick_ to have said to a prominent man
 of Oil City that the South Improvement Company
 could work under the charter of the
 Standard Oil Company, and to have added that
 in less than two months his auditor would be
 glad to join him. One of his colleagues simply
-said: “The business <i>now</i> will be done by the
+said: “The business _now_ will be done by the
 Standard Oil Company.... We mean to show
 the world that the South Improvement Company
 was organised for business, and means
@@ -1215,7 +1215,7 @@ been haled before this court and asked to
 explain these contracts on oath, all he could
 urge in his favour was that “the Standard
 interests were handling very large quantities
-of oil, and were the <i>natural parties</i> to have
+of oil, and were the _natural parties_ to have
 control of the warehousing, receiving, and
 shipping of oil.” Cross-examination could
 extract very little from him. He could not
@@ -1368,7 +1368,7 @@ the Allegheny Valley Railroad Company, controlled by the
 Pennsylvania), telling him that the idea of a scarcity of cars on
 daily shipments of less than 30,000 barrels a day was such an
 absurd, barefaced pretence that he could not expect men of
-ordinary intelligence to accept it, as the preceding fall (<i>anglice</i>,
+ordinary intelligence to accept it, as the preceding fall (_anglice_,
 autumn), when business required, the railroads could carry day
 after day from 50,000 to 60,000 barrels of oil.... I requested
 him to be the vehicle of communicating to the Pennsylvania
@@ -1380,7 +1380,7 @@ Redbank, where the low-grade road, the connecting-link
 between the Valley Road and the Philadelphia and Erie Road,
 meets the Valley Road--between that point and Parker--the
 express train was delayed for over half an hour in passing
-through <i>hundreds of empty oil cars</i>!”
+through _hundreds of empty oil cars_!”
 #/
 
 In August, 1872, Mr. Rockefeller, as the result
@@ -1449,8 +1449,8 @@ accept. The “treaty” was signed on December
 19, 1872. The producers had shipped about
 50,000 of the barrels ordered by Mr. Rockefeller,
 when, on January 14, 1873, they were suddenly
-electrified to hear that that gentleman <i>refused
-to take any more of the contract oil</i>!
+electrified to hear that that gentleman _refused
+to take any more of the contract oil_!
 
 When taken to task Mr. Rockefeller urged in
 his defence the pitiful plea that the producers had
@@ -1590,8 +1590,8 @@ and fragrance only by sacrificing the early buds which
 grow up around it.”
 
 /R
-<sc>J. D. Rockefeller</sc>, Jun., <i>to the students
-of Brown University</i>.
+<sc>J. D. Rockefeller</sc>, Jun., _to the students
+of Brown University_.
 R/
 #/
 
@@ -1649,7 +1649,7 @@ famous H. H. Rogers was one of the most
 considerable assets. This firm sold itself more
 or less voluntarily to the Standard Oil for
 stock at 265. The absorption of the “Creek”
-refineries, <i>i.e.</i>, those in the Oil Regions, was
+refineries, _i.e._, those in the Oil Regions, was
 conducted by the scarcely less famous J. D.
 Archbold, who appeared in Titusville as the
 representative of a Standard Oil offshoot, since
@@ -1761,18 +1761,18 @@ of the Standard ring caused the Senate of
 New York State to order an “Investigation
 Relative to Trusts,” and before the Commission
 entrusted with this investigation Mr. Rockefeller
-appeared and was questioned as to the <i>initium
-malorum</i>--the South Improvement Company.
+appeared and was questioned as to the _initium
+malorum_--the South Improvement Company.
 I quote from the official report of this investigation:--
 
 /#
-<i>Q.</i> There was such a company?
+_Q._ There was such a company?
 
-<i>A.</i> I have heard of such a company.
+_A._ I have heard of such a company.
 
-<i>Q.</i> Were you not in it?
+_Q._ Were you not in it?
 
-<i>A.</i> I was not.
+_A._ I was not.
 #/
 
 As pointed out in my former articles, Mr. J. D.
@@ -1785,13 +1785,13 @@ the House of Representatives at Washington,
 and the following colloquy took place:--
 
 /#
-<i>Q.</i> I want the names particularly of gentlemen who either
+_Q._ I want the names particularly of gentlemen who either
 now or in the past have been interested with you gentlemen
 who were in the South Improvement Company?
 
-<i>A.</i> I think they were O. T. Waring, W. P. Logan, John
+_A._ I think they were O. T. Waring, W. P. Logan, John
 Logan, W. G. Warden, O. H. Payne, H. M. Flagler, William
-Rockefeller, J. A. Bostwick, and--<i>myself</i>.
+Rockefeller, J. A. Bostwick, and--_myself_.
 #/
 
 A direct contradiction of his own words within
@@ -1815,60 +1815,60 @@ and Mr. Rockefeller, after much wriggling and
 evasion, practically admitted the contrary:--
 
 /#
-<i>Q.</i> Has not some company or companies embraced within
+_Q._ Has not some company or companies embraced within
 this Trust enjoyed from railroads more favourable freight rates
 than those rates accorded to refineries not in the Trust?
 
-<i>A.</i> I do not recall anything of that kind.
+_A._ I do not recall anything of that kind.
 
-<i>Q.</i> You have heard of such things?
+_Q._ You have heard of such things?
 
-<i>A.</i> I have heard much in the papers about it.
+_A._ I have heard much in the papers about it.
 
-<i>Q.</i> Was there not such an allegation as that in the litigation
+_Q._ Was there not such an allegation as that in the litigation
 or controversy recently disposed of by the Interstate Commerce
 Commission, Mr. Rice’s suit; was not there a charge in Mr.
 Rice’s petition that companies embraced within your Trust
 enjoyed from railroad companies more favourable freight rates?
 
-<i>A.</i> I think Mr. Rice made such a claim. Yes, sir.
+_A._ I think Mr. Rice made such a claim. Yes, sir.
 
-<i>Q.</i> Did not the Commission find the claim true?
+_Q._ Did not the Commission find the claim true?
 
-<i>A.</i> I think the return of the Commission is a matter of record.
+_A._ I think the return of the Commission is a matter of record.
 I could not give it.
 
-<i>Q.</i> You don’t know it; you haven’t seen that they did so
+_Q._ You don’t know it; you haven’t seen that they did so
 find?
 
-<i>A.</i> It is a matter of record.
+_A._ It is a matter of record.
 
-<i>Q.</i> Haven’t you read that the Interstate Commerce Commission
+_Q._ Haven’t you read that the Interstate Commerce Commission
 did find that charge to be true?
 
-<i>A.</i> No, sir; I don’t think I could say that. I read that they
+_A._ No, sir; I don’t think I could say that. I read that they
 made a decision, but I am really unable to say what that
 decision was.
 
-<i>Q.</i> You did not feel interested enough in the litigation to see
+_Q._ You did not feel interested enough in the litigation to see
 what the decision was?
 
-<i>A.</i> I felt an interest in the litigation. I don’t mean to say I
+_A._ I felt an interest in the litigation. I don’t mean to say I
 did not feel an interest in it.
 
-<i>Q.</i> Do you mean to say that you don’t know what the
+_Q._ Do you mean to say that you don’t know what the
 decision was?
 
-<i>A.</i> I don’t say that. I know that the Interstate Commerce
+_A._ I don’t say that. I know that the Interstate Commerce
 Commission had made a decision. The decision is quite a comprehensive
 one, but it is questionable whether it could be said
 that that decision in all its features results as I understand you
 to claim.
 
-<i>Q.</i> You don’t so understand it? Will you say, as a matter
+_Q._ You don’t so understand it? Will you say, as a matter
 of fact, that it is not so?
 
-<i>A.</i> I stated in my testimony this morning that I had known
+_A._ I stated in my testimony this morning that I had known
 of instances where companies altogether outside of the Trust
 had enjoyed more favourable freights than companies in this
 Trust, and I am not able to state that there may not have been
@@ -1924,13 +1924,13 @@ when Standard witnesses were under the
 necessity of answering questions categorically.
 Henry M. Flagler, for instance, swore in 1880 in
 the Court of Common Pleas (Standard Oil Company
-<i>v.</i> W. C. Scofield <i>et al.</i>) that the Standard
+_v._ W. C. Scofield _et al._) that the Standard
 Oil Company neither owned, operated, nor controlled
 refineries elsewhere than at Cleveland,
 Ohio, and Bayonne, N.J., whereas before the
 Investigation Relative to Trusts, New York
 Senate, 1888, he testified that in 1874 the Standard
-Oil Company <i>purchased</i> the refineries of
+Oil Company _purchased_ the refineries of
 Lockhart, Frew & Co., of Pittsburg; Warden,
 Frew & Co., of Philadelphia; and Chas. Pratt
 & Co., of New York. Mr. Rockefeller also swore
@@ -1956,7 +1956,7 @@ cornices. The building is No. 26, Broadway, New York City,
 home of the Standard Oil.”
 
 /R
-<sc>T. W. Lawson</sc> <i>in</i> “<i>Frenzied Finance</i>.”
+<sc>T. W. Lawson</sc> _in_ “_Frenzied Finance_.”
 R/
 #/
 
@@ -1985,7 +1985,7 @@ although the persons implicated made some
 feeble attempts to put a less invidious explanation
 upon them. It was stated that one of the
 Standard Oil Company’s letter-books had been
-stolen, and the <i>Times</i> editorially remarked that
+stolen, and the _Times_ editorially remarked that
 there had been “nothing approaching the disclosures
 in sensational rapidity of action in the
 history of the American Presidential elections.”
@@ -1998,7 +1998,7 @@ Republican party. It was as follows:--
 /#
 /x
 26, <sc>Broadway, New York</sc>,
-<i>March 9, 1900</i>.
+_March 9, 1900_.
 x/
 
 <sc>My dear Senator</sc>,--I have your favour of last night with
@@ -2028,7 +2028,7 @@ Here are some more letters of this series:--
 /#
 /x
 26, <sc>Broadway, New York</sc>,
-<i>March 26, 1900</i>.
+_March 26, 1900_.
 
 Hon. J. B. Foraker, 1500, Sixteenth Street, Washington, D.C.
 x/
@@ -2046,7 +2046,7 @@ x/
 /#
 /x
 26, <sc>Broadway, New York</sc>,
-<i>April 17, 1900</i>.
+_April 17, 1900_.
 x/
 
 <sc>My dear Senator</sc>,--I enclose you certificate of deposit to
@@ -2066,7 +2066,7 @@ Hon. J. B. Foraker, 1500, Sixteenth Street, Washington, D.C.
 
 /#
 /x
-<i>January 27, 1902.</i>
+_January 27, 1902._
 x/
 
 <sc>My dear Senator</sc>,--Responding to your favour of the 25th,
@@ -2086,7 +2086,7 @@ Hon. J. B. Foraker, Washington, D.C.
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>February 25, 1902</i>.
+_February 25, 1902_.
 x/
 
 <sc>My dear Senator</sc>,--I venture to write you a word regarding
@@ -2135,7 +2135,7 @@ reached:--
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>December 18, 1902</i>.
+_December 18, 1902_.
 x/
 
 <sc>My dear Senator</sc>,--You, of course, know of Judge Burket’s
@@ -2158,7 +2158,7 @@ x/
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>March 20, 1903</i>.
+_March 20, 1903_.
 x/
 
 <sc>My dear Senator</sc>,--We are surprised beyond measure to
@@ -2225,7 +2225,7 @@ Trust.
 
 In fact, in that year--1899--the Annual Report
 of Mr. Monnett to the Governor of the State of
-Ohio contains detailed charges of <i>six</i> deliberate
+Ohio contains detailed charges of _six_ deliberate
 attempts to bribe Mr. David K. Watson, his
 predecessor in office, to withdraw suits entered
 against the Standard Oil Company of Ohio.
@@ -2241,9 +2241,9 @@ intimate that unless the suit against the
 Standard was withdrawn Watson would be the
 object of vengeance by the Corporation and its
 friends for ever after. As if to clinch his threat
-and argument, Hanna wrote, “<i>You have been in
+and argument, Hanna wrote, “_You have been in
 politics long enough to know that no man in
-public office owes the public anything.</i>” This last
+public office owes the public anything._” This last
 phrase remained a potent weapon in the hands
 of Mr. Hanna’s enemies till the day of his
 death.
@@ -2257,7 +2257,7 @@ Pennsylvania:--
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>December 5, 1902</i>.
+_December 5, 1902_.
 x/
 
 <sc>My dear Governor</sc>,--I am sure you will pardon any seeming
@@ -2287,7 +2287,7 @@ Hon. Wm. A. Stone, Harrisburg, Pa.
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>September 5, 1900</i>.
+_September 5, 1900_.
 
 Hon. Wm. A. Stone, Harrisburg, Pa.
 x/
@@ -2331,7 +2331,7 @@ Pennsylvania:--
 /x
 Telegram.
 
-<i>March 15, 1900.</i>
+_March 15, 1900._
 
 Hon. John P. Elkin, Indiana, Pa.
 x/
@@ -2346,7 +2346,7 @@ x/
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>March 15, 1900</i>.
+_March 15, 1900_.
 
 Hon. John P. Elkin, Indiana, Pa.
 Personal.
@@ -2365,7 +2365,7 @@ x/
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>February 5, 1900</i>.
+_February 5, 1900_.
 x/
 
 <sc>My dear General</sc>,--In accordance with the request in your
@@ -2384,7 +2384,7 @@ To Hon. John P. Elkin, Indiana, Pa.
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>May 9, 1901</i>.
+_May 9, 1901_.
 x/
 
 <sc>My dear General</sc>,--I enclose copy of a measure pending--I
@@ -2416,7 +2416,7 @@ opinion may be manufactured by that process:--
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>October 10, 1902</i>.
+_October 10, 1902_.
 
 Mr. H. H. Edmonds, Baltimore, Md.
 x/
@@ -2424,7 +2424,7 @@ x/
 <sc>Dear Sir</sc>,--Responding to your favour of the 9th, it gives
 me pleasure to enclose you herewith certificate of deposit to
 your favour for $3,000, covering a year’s subscription to the
-<i>Manufacturers’ Record</i>.--Truly yours,
+_Manufacturers’ Record_.--Truly yours,
 
 /x
 <sc>Jno. D. Archbold.</sc>
@@ -2434,9 +2434,9 @@ x/
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>January 17, 1899</i>.
+_January 17, 1899_.
 
-Hon. W. A. Magee, <i>Pittsburg Times</i>, Pittsburg, Pa.
+Hon. W. A. Magee, _Pittsburg Times_, Pittsburg, Pa.
 x/
 
 <sc>Dear Sir</sc>,--As per understanding, herewith enclosed find
@@ -2451,7 +2451,7 @@ x/
 /#
 /x
 26, <sc>Broadway</sc>,
-<i>December 18, 1901</i>.
+_December 18, 1901_.
 
 Mr. Thomas P. Grasty, care of Buck & Pratt, Room 1,203,
 27, William Street, City.
@@ -2460,7 +2460,7 @@ x/
 <sc>Dear Mr. Grasty</sc>,--I have your favour of yesterday, and
 beg to return you herewith the telegram from Mr. Edmonds to
 you. We are willing to continue the subscription of $5,000 to
-the <i>Southern Farm Magazine</i> for another year, payments to be
+the _Southern Farm Magazine_ for another year, payments to be
 made the same as they have been this year. We do not doubt
 but that the influence of your publications throughout the
 South is of the most helpful character.
@@ -2474,7 +2474,7 @@ x/
 
 These sums are called “subscriptions,” but
 their real character appears from the case of
-the <i>Southern Farm Magazine</i>, the price of which
+the _Southern Farm Magazine_, the price of which
 is 50 cents a year. Mr. Archbold was therefore
 “subscribing” for 10,000 years! We have only
 to remember that the anti-Trust feeling is very
@@ -2497,7 +2497,7 @@ ARSON AND ESPIONAGE
 the other.”
 
 /R
-<sc>Henry D. Lloyd</sc> <i>in</i> “<i>Wealth against Commonwealth</i>.”
+<sc>Henry D. Lloyd</sc> _in_ “_Wealth against Commonwealth_.”
 R/
 #/
 
@@ -2796,7 +2796,7 @@ order:--
 /#
 /x
 <sc>Des Moines, Iowa</sc>,
-<i>January 14, 1891</i>.
+_January 14, 1891_.
 
 John Fowler, Hampton, Iowa.
 x/
@@ -2811,7 +2811,7 @@ to do this; we have the best legal advice which can be obtained
 in Iowa bearing on the points in this case. An order can be
 countermanded either before or after the goods have been
 shipped, and, in fact, can be countermanded even if the goods
-have already arrived and are at the depôt [<i>anglice</i>, railway
+have already arrived and are at the depôt [_anglice_, railway
 station]. A firm is absolutely obliged to accept a countermand.
 The fact that the order has been signed does not make
 any difference. We want you to absolutely refuse under any
@@ -2834,7 +2834,7 @@ Ohio, by one of its customers:--
 /#
 /x
 <sc>Tiffin, Ohio</sc>,
-<i>January 24, 1898</i>.
+_January 24, 1898_.
 x/
 
 <sc>Dear Sirs</sc>,--I am sorry to say that a Standard Oil man from
@@ -2950,7 +2950,7 @@ their ability to do things which give satisfaction to some one
 besides themselves.”
 
 /R
-<sc>John D. Rockefeller</sc> <i>in</i> “<i>Random Reminiscences</i>.”
+<sc>John D. Rockefeller</sc> _in_ “_Random Reminiscences_.”
 R/
 #/
 
@@ -3066,49 +3066,49 @@ came the delicate question as to who owned it!
 Here is an extract from Mr. Archbold’s cross-examination:--
 
 /#
-<i>Q.</i> Do you know the General Industrials Development Syndicate,
+_Q._ Do you know the General Industrials Development Syndicate,
 Limited, of London?
 
-<i>A.</i> I do not.
+_A._ I do not.
 
-<i>Q.</i> Of London, England?
+_Q._ Of London, England?
 
-<i>A.</i> I do not.
+_A._ I do not.
 
-<i>Q.</i> You know nothing about it?
+_Q._ You know nothing about it?
 
-<i>A.</i> I do not.
+_A._ I do not.
 
-<i>Q.</i> Is it owned or controlled, directly or indirectly, by any
+_Q._ Is it owned or controlled, directly or indirectly, by any
 company of the Standard Oil combination?
 
-<i>A.</i> Not to my knowledge.
+_A._ Not to my knowledge.
 
-<i>Q.</i> You would be apt to know it, wouldn’t you, if it was?
+_Q._ You would be apt to know it, wouldn’t you, if it was?
 
-<i>A.</i> I think I would.
+_A._ I think I would.
 
-<i>Q.</i> Do you know the firm of Budd, Johnson and Jecks, London,
+_Q._ Do you know the firm of Budd, Johnson and Jecks, London,
 solicitors?
 
-<i>A.</i> I don’t know them.
+_A._ I don’t know them.
 
-<i>Q.</i> Did you ever hear of them?
+_Q._ Did you ever hear of them?
 
-<i>A.</i> I may have heard of them in connection with this inquiry.
+_A._ I may have heard of them in connection with this inquiry.
 
-<i>Q.</i> Do you know Mr. Maxwell?
+_Q._ Do you know Mr. Maxwell?
 
-<i>A.</i> I do not.
+_A._ I do not.
 
-<i>Q.</i> Connected with the firm. Mr. Maxwell or Mr. Herbert
+_Q._ Connected with the firm. Mr. Maxwell or Mr. Herbert
 Johnson?
 
-<i>A.</i> I do not know either of them.
+_A._ I do not know either of them.
 
-<i>Q.</i> Did you ever hear of them?
+_Q._ Did you ever hear of them?
 
-<i>A.</i> I may, in connection with this firm. I don’t even recall
+_A._ I may, in connection with this firm. I don’t even recall
 the names now.
 #/
 
@@ -3123,7 +3123,7 @@ that it was to provide the money to enable the
 General Industrials Development Syndicate to
 buy the Manhattan and yet conceal that the
 Standard were the purchasers. Mr. Archbold
-was in his best <i>non mi ricordo</i> vein. Although
+was in his best _non mi ricordo_ vein. Although
 he was a director of the Anglo-American Oil
 Company up to 1907 he could not tell for what
 purpose that large sum of money was lent to
@@ -3136,40 +3136,40 @@ repaid! He was still more pointedly questioned
 about the matter:--
 
 /#
-<i>Q.</i> Isn’t it a fact, Mr. Archbold, that the Standard Oil Company,
+_Q._ Isn’t it a fact, Mr. Archbold, that the Standard Oil Company,
 or some of its companies, indirectly owns the Industrials
 Development Syndicate, Limited, and organised it?
 
-<i>A.</i> Not to my knowledge.
+_A._ Not to my knowledge.
 
-<i>Q.</i> You keep pretty close track of companies starting business
+_Q._ You keep pretty close track of companies starting business
 in competition with you in this country, don’t you?
 
-<i>A.</i> We do.
+_A._ We do.
 
-<i>Q.</i> You seem to be able to produce a list here of every
+_Q._ You seem to be able to produce a list here of every
 concern engaged in the oil business in the country, didn’t
 you?
 
-<i>A.</i> As nearly as we can keep track of it; yes.
+_A._ As nearly as we can keep track of it; yes.
 
-<i>Q.</i> Is this General Industrials Development Syndicate,
+_Q._ Is this General Industrials Development Syndicate,
 Limited, engaged in the oil business anywhere else?
 
-<i>A.</i> I do not know.
+_A._ I do not know.
 
-<i>Q.</i> You never investigated it?
+_Q._ You never investigated it?
 
-<i>A.</i> I never heard of their being in any place else. They may.
+_A._ I never heard of their being in any place else. They may.
 I never have heard of it.
 
-<i>Q.</i> And yet it bought the Manhattan Company and then
+_Q._ And yet it bought the Manhattan Company and then
 caused the Manhattan to sell you the refineries, the producing
 wells, the cars, and continued doing business with you, and you
 never looked into the Development Company.... You never
 investigated to find out who the English company was?
 
-<i>A.</i> No, not beyond that.
+_A._ No, not beyond that.
 #/
 
 The last question of counsel is a sufficient commentary
@@ -3337,19 +3337,19 @@ company, with wells, and land, and cars, and
 pipe lines.”
 
 /#
-<i>Q.</i> And refineries?
+_Q._ And refineries?
 
-<i>A.</i> Refineries.
+_A._ Refineries.
 
-<i>Q.</i> Now if he wished to purchase a going business, why did
+_Q._ Now if he wished to purchase a going business, why did
 they sell their wells and tank cars and refineries?
 
 Mr. Milburn (Standard Oil counsel): Does Mr. Brady know
 that?
 
-<i>Q.</i> Do you know?
+_Q._ Do you know?
 
-<i>A.</i> No, I do not know that they did.
+_A._ No, I do not know that they did.
 #/
 
 One other remarkable feature about this
@@ -3380,31 +3380,31 @@ as ever:--
 /#
 Who was Mr. Cuthbert? Do you know him?
 
-<i>A.</i> I knew a Mr. Cuthbert.
+_A._ I knew a Mr. Cuthbert.
 
-<i>Q.</i> In 1899 he was in the employ of the Standard Oil Company,
+_Q._ In 1899 he was in the employ of the Standard Oil Company,
 wasn’t he--John H. Cuthbert?
 
-<i>A.</i> I do not recall that he was.
+_A._ I do not recall that he was.
 
-<i>Q.</i> He had been in your employ, hadn’t he, in some of your
+_Q._ He had been in your employ, hadn’t he, in some of your
 companies?
 
-<i>A.</i> I do not recall that he had been.
+_A._ I do not recall that he had been.
 
-<i>Q.</i> Do you know him?
+_Q._ Do you know him?
 
-<i>A.</i> I did know him.
+_A._ I did know him.
 
-<i>Q.</i> Where was his place of business?
+_Q._ Where was his place of business?
 
-<i>A.</i> My recollection would be that he was employed with
+_A._ My recollection would be that he was employed with
 the Tide Water Oil Company.
 
-<i>Q.</i> Didn’t he use to be employed by one of the Standard
+_Q._ Didn’t he use to be employed by one of the Standard
 Oil companies?
 
-<i>A.</i> He may have been earlier, away back. I do not remember
+_A._ He may have been earlier, away back. I do not remember
 distinctly. I am inclined to think that he was--in the
 earlier years--employed by one of our companies.
 #/
@@ -3414,20 +3414,20 @@ day, however, Mr. Archbold’s memory somewhat
 improved:--
 
 /#
-<i>Q.</i> Isn’t it a fact that Mr. John H. Cuthbert was the
+_Q._ Isn’t it a fact that Mr. John H. Cuthbert was the
 Standard’s representative in the Tide Water Company as
 director?
 
-<i>A.</i> He went there not specially as our representative, but
+_A._ He went there not specially as our representative, but
 left our employ and went to them, because I imagine they
 offered him greater inducement in the way of salary. I know
 of no other reason.
 
-<i>Q.</i> Is it not a matter of fact that he solely represented
+_Q._ Is it not a matter of fact that he solely represented
 the Standard Oil Company as a director in the Tide Water
 Company?
 
-<i>A.</i> I think he was there as a servant of the business.
+_A._ I think he was there as a servant of the business.
 #/
 
 The truth about Mr. John H. Cuthbert’s position
@@ -3443,8 +3443,8 @@ acquiring a minority interest in the Tide Water Company’s
 stock. This move, coupled with the continual hostility of
 the railroads, led to a virtual surrender of the Tide Water
 interests, and an agreement was reached in 1883 by which
-they substantially became, and have since remained, <i>a part
-of the Standard Oil system</i>.
+they substantially became, and have since remained, _a part
+of the Standard Oil system_.
 #/
 
 To sum up the history of this General Industrials
@@ -3488,12 +3488,12 @@ THE STANDARD’S “INVENTIONS”
 but a natural progression to rise to the control of legislatures,
 judges, and the executives of the State and Federal Governments.
 Members, or servants, of this modern industrial
-<i>Camorra</i> have been Cabinet ministers of the Supreme Administration
+_Camorra_ have been Cabinet ministers of the Supreme Administration
 in Washington. They have had Presidents of
 the Republic at their beck and call.”
 
 /R
-<i>Investors’ Review</i>, 1897.
+_Investors’ Review_, 1897.
 R/
 #/
 
@@ -3514,11 +3514,11 @@ bought oil from the genuine independents,
 and proceeded to retail it at the wholesale
 price. As the genuine independents then came
 down a peg or two in their retail price to meet
-this competition, and lowered their <i>wholesale</i>
+this competition, and lowered their _wholesale_
 price correspondingly, the bogus concerns
 bought more at the new wholesale level, and
-then retailed it at that, and so <i>ad infinitum</i>--or,
-rather, <i>ad infimum</i>--till the bottom was
+then retailed it at that, and so _ad infinitum_--or,
+rather, _ad infimum_--till the bottom was
 reached, without their losing a cent in the
 process. Meantime the Standard virtuously
 kept its prices up to its own customers in
@@ -3720,61 +3720,61 @@ in the Missouri case. Here is the official record
 of evidence on these points:--
 
 /#
-<i>Q.</i> The Standard Oil Company did not discover the process
+_Q._ The Standard Oil Company did not discover the process
 at all, did it?
 
-<i>A.</i> Oh, no.
+_A._ Oh, no.
 
-<i>Q.</i> The process of making paraffin wax was in existence as
+_Q._ The process of making paraffin wax was in existence as
 early as thirty years ago, wasn’t it?
 
-<i>A.</i> Oh, it has been in existence a long time from the coal
+_A._ Oh, it has been in existence a long time from the coal
 shales.
 
-<i>Q.</i> Now, in the matter of a great many of these by-products,
+_Q._ Now, in the matter of a great many of these by-products,
 the independent refineries, so called, have done the same as
 you have, haven’t they?
 
-<i>A.</i> Oh, they have, undoubtedly.
+_A._ Oh, they have, undoubtedly.
 
-<i>Q.</i> Take many of those that you testified to the other
+_Q._ Take many of those that you testified to the other
 day--for instance, cylinder oil. The earliest manufacturers
 of cylinder oil were at Binghamton, N. Y., were they not--a
 Mr. Brill?
 
-<i>A.</i> There was a very early concern there--a small concern.
+_A._ There was a very early concern there--a small concern.
 
-<i>Q.</i> And he is still in business, isn’t he, in Philadelphia?
+_Q._ And he is still in business, isn’t he, in Philadelphia?
 
-<i>A.</i> I don’t know.
+_A._ I don’t know.
 
-<i>Q.</i> Leonard and Ellis were very early manufacturers of
+_Q._ Leonard and Ellis were very early manufacturers of
 cylinder oil; isn’t that true?
 
-<i>A.</i> They were--yes.
+_A._ They were--yes.
 
-<i>Q.</i> Then lubricating oil--it was made from the petroleum
+_Q._ Then lubricating oil--it was made from the petroleum
 stock before 1870, wasn’t it?
 
-<i>A.</i> It was to an extent--yes.
+_A._ It was to an extent--yes.
 
-<i>Q.</i> Spindle oil, I think, is one thing you testified about the
+_Q._ Spindle oil, I think, is one thing you testified about the
 other day. Wasn’t that first introduced by the Downer Manufacturing
 Company, of Boston?
 
-<i>A.</i> I think it likely. I do not know definitely. It probably
+_A._ I think it likely. I do not know definitely. It probably
 was.
 
-<i>Q.</i> Wool oil--wasn’t that sold or manufactured by Paine,
+_Q._ Wool oil--wasn’t that sold or manufactured by Paine,
 Ablett & Co., long before the Standard Oil Company combination
 or interests got hold of it?
 
-<i>A.</i> It may have been. I could not say.
+_A._ It may have been. I could not say.
 
-<i>Q.</i> Was not vaseline made as early as 1860 by chemists in
+_Q._ Was not vaseline made as early as 1860 by chemists in
 Cincinnati, Ohio, from petroleum products?
 
-<i>A.</i> If it was I never heard of it. I did not know of it.
+_A._ If it was I never heard of it. I did not know of it.
 #/
 
 Such being the Standard Oil people’s methods
@@ -3859,7 +3859,7 @@ man who devotes all the waking hours of the day to making
 money for money’s sake.”
 
 /R
-<sc>John D. Rockefeller</sc> <i>in</i> “<i>Random Reminiscences</i>.”
+<sc>John D. Rockefeller</sc> _in_ “_Random Reminiscences_.”
 R/
 #/
 
@@ -3910,7 +3910,7 @@ of those pure-souled patriots who denounce in
 public the trusts and monopolies, Senator Bailey
 was exactly the man the Standard wanted.
 The full facts are given by Miss Ida M. Tarbell
-in an article in the <i>American Magazine</i> for
+in an article in the _American Magazine_ for
 January, 1908. The Texas Legislature passed
 a sweeping anti-Trust law; under it the Waters-Pierce
 Company was prosecuted from court to
@@ -4020,7 +4020,7 @@ campaign was opened in newspapers
 and magazines of the United States of America
 against the alleged harsh treatment of the
 Yaqui Indians by the Mexican Government. In
-the <i>Cosmopolitan Magazine</i> of March, 1910, it
+the _Cosmopolitan Magazine_ of March, 1910, it
 was categorically asserted by Mr. Alfred H.
 Lewis, one of the foremost American magazine
 writers, that this campaign had been inspired
@@ -4044,7 +4044,7 @@ Lord Cowdray visited New York in June, 1910,
 he was shadowed by their detectives. The
 Standard Oil Trust issued a formal denial of
 this charge, but Lord Cowdray repeated it and
-reaffirmed it in the <i>Daily Mail</i>.
+reaffirmed it in the _Daily Mail_.
 
 Turning next to Canada, we find that the
 British flag has been no protection against the
@@ -4235,7 +4235,7 @@ Standard is reduced for benzine.
 
 This is not the first time the Standard has
 come into collision with the Shell. In September,
-1904, the <i>New York Herald</i> published
+1904, the _New York Herald_ published
 an interview with Mr. W. H. Libby, the foreign
 marketing agent of the Standard in New York.
 This was a long “puff” of the Standard, and
@@ -4245,7 +4245,7 @@ Shell Company had been reduced to serious
 financial straits, and were selling oil falsely
 branded. As these allegations were entirely
 false, the Shell Company brought an action
-against the <i>New York Herald</i> in the English
+against the _New York Herald_ in the English
 Courts for libel, which ended in 1905 in a
 complete victory for the victims of Standard
 Oil calumny. Mr. J. Eldon Bankes, K.C. (now
@@ -4287,7 +4287,7 @@ Burma, and was much grieved when the Indian
 Government refused it. We come across that
 same Mr. W. H. Libby flitting about India.
 In November, 1902, the Calcutta correspondent
-of the <i>Financial News</i> reports that this gentleman
+of the _Financial News_ reports that this gentleman
 was trying to induce the Bengal Chamber
 of Commerce to support his little scheme
 against the Indian Government. The correspondent
@@ -4350,7 +4350,7 @@ have aided to push our way into new markets to the utmost
 corners of the world.”
 
 /R
-<sc>John D. Rockefeller</sc> <i>in</i> “<i>Random Reminiscences</i>.”
+<sc>John D. Rockefeller</sc> _in_ “_Random Reminiscences_.”
 R/
 #/
 
@@ -4460,7 +4460,7 @@ the scene is sufficient to satisfy anybody in the
 oil trade as to what was the real origin of this
 benevolent agitation against tank steamers.
 While this gentleman was still in Egypt Sir
-Marcus Samuel artfully published in the <i>Times</i>
+Marcus Samuel artfully published in the _Times_
 an extract from a paper Mr. Redwood read to
 the Institution of Civil Engineers, in which he
 said:--
@@ -4483,9 +4483,9 @@ report when they replied:--
 /#
 Without entering into the question whether the work of Sir
 F. Abel and Mr. Boverton Redwood is not merely a criticism
-of our regulations <i>bearing too exclusively the impression of
+of our regulations _bearing too exclusively the impression of
 the anxiety of parties interested in the present mode of transporting
-petroleum to the East</i>, we, &c.
+petroleum to the East_, we, &c.
 #/
 
 After this the agitation fizzled out, and the
@@ -4496,10 +4496,10 @@ Civil Engineers in February, 1894, when Mr.
 Boverton Redwood to state how his prophecies
 on the carriage of bulk oil through the Canal
 had been fulfilled. Mr. Redwood replied thus
-(<i>Proceedings Inst. C.E.</i>, vol. cxvi. p. 250):--
+(_Proceedings Inst. C.E._, vol. cxvi. p. 250):--
 
 /#
-He could only say that if, <i>as appeared to be the case</i>, the
+He could only say that if, _as appeared to be the case_, the
 transport of petroleum through the canal had been going on
 with entire absence of anything approaching to an accident, he
 was very glad to hear it. He did not know, however, that
@@ -4630,7 +4630,7 @@ entirely excluded from the business of supplying the State railways
 with oil; but the Austrian Government has gone further
 in its desire to protect the Austrian oil industry from the competition
 of the American Trust, which is represented here by
-an affiliated company [<i>i.e.</i>, the Vacuum Oil Company, of
+an affiliated company [_i.e._, the Vacuum Oil Company, of
 Austria, a branch of the Vacuum Oil Company, of Rochester,
 N.Y.], and has introduced a Bill in the Reichsrat containing
 various provisions aimed directly at the Standard Oil Company.
@@ -4646,7 +4646,7 @@ the middleman superfluous, and there is little doubt that the
 Ministry will not give the permission required.
 #/
 
-The <i>Times</i> Vienna correspondent on September
+The _Times_ Vienna correspondent on September
 14, 1910, reported further developments
 of this war against the Standard. It appears
 that there is also operating in Galicia a certain
@@ -4655,7 +4655,7 @@ registered as an Austrian company, has about
 £500,000 of French capital invested in it. It
 has been working “in some sort of unconfessed
 relationship with the Vacuum Oil Company,”
-and the <i>Times</i> correspondent tells us how the
+and the _Times_ correspondent tells us how the
 Rockefellers have been forced to swallow their
 favourite medicine. He writes:--
 
@@ -4701,8 +4701,8 @@ consumer was to pay more for the petroleum
 products, ozokerit, &c., that he buys from
 Austria. But this scheme has failed, for on
 November 9, 1910, it was announced in the
-<i>Neue Freie Press</i> (quoted here by the <i>Financial
-Times</i>) that the Limanova Company had surrendered.
+_Neue Freie Press_ (quoted here by the _Financial
+Times_) that the Limanova Company had surrendered.
 It has agreed to give up all business
 transactions with the Vacuum Company, not
 to sell directly or indirectly to them either crude
@@ -4811,7 +4811,7 @@ price but our price. To such men we can afford to give the
 only things they have not got--power and money.”
 
 /R
-<sc>H. H. Rogers</sc> <i>to T. W. Lawson in</i> “<i>Frenzied Finance</i>.”
+<sc>H. H. Rogers</sc> _to T. W. Lawson in_ “_Frenzied Finance_.”
 R/
 #/
 
@@ -4865,7 +4865,7 @@ is so close to our own doors the lesson
 is one we may well take home to ourselves.
 
 In the early autumn of 1909 Mr. F. Hildebrandt,
-the editor of the <i>Hamburger Fremdenblatt</i>,
+the editor of the _Hamburger Fremdenblatt_,
 whose attention had been called to the
 doings of the German Vacuum Oil Company,
 and who had been led to investigate the matter,
@@ -4900,7 +4900,7 @@ German Vacuum Oil Company, J. C. Moffet
 and C. E. Bedford, also belong to the Standard.
 
 The main allegation put forward in the
-<i>Fremdenblatt</i> by Mr. Hildebrandt was that
+_Fremdenblatt_ by Mr. Hildebrandt was that
 the German Vacuum Oil Company was selling
 precisely the same quality of lubricating oil
 under various fancy names and at different
@@ -5017,7 +5017,7 @@ of these two brands.
 Hamburg, May 30, 1910.
 
 The Landgericht, Second Criminal Chamber,
-(<i>Signed</i>) <sc>Goslich</sc>, <sc>Lohmeyer</sc>, <sc>Sick</sc>.
+(_Signed_) <sc>Goslich</sc>, <sc>Lohmeyer</sc>, <sc>Sick</sc>.
 */
 
 For the correctness of the copy:
@@ -5026,7 +5026,7 @@ For the correctness of the copy:
 Hamburg, July 9, 1910.
 
 The Chancery of Public Prosecution,
-(<i>Signed</i>) Voss, Chancery Clerk.
+(_Signed_) Voss, Chancery Clerk.
 */
 #/
 
@@ -5077,7 +5077,7 @@ any new orders, and would have lost the old business connection.
 /*
 Dresden, November 4, 1909.
 
-(<i>Signed</i>) <sc>Hans Schnell</sc>.
+(_Signed_) <sc>Hans Schnell</sc>.
 */
 
 The above signature of Mr. Hans Schnell, Wilhelmruh, near
@@ -5087,7 +5087,7 @@ officially certify that it is genuine.
 /*
 Dresden, November 5, 1909.
 
-(<i>Signed</i>) <sc>Horst von Mueller-Berneck</sc>,
+(_Signed_) <sc>Horst von Mueller-Berneck</sc>,
 Royal Saxon Notary, Dresden.
 */
 #/
@@ -5118,7 +5118,7 @@ about a good deal of money in order to
 accomplish something. Besides the M. 28
 entered here I added M. 48 out of my own
 pocket, which I have had entered in my
-own account.--(<i>Signed</i>) <sc>Mié</sc>.]
+own account.--(_Signed_) <sc>Mié</sc>.]
 #/
 
 /x
@@ -5167,7 +5167,7 @@ attracted some attention in Kiel:--
 
 /#
 /x
-<sc>Kiel</sc>, <i>November 12, 1903</i>.
+<sc>Kiel</sc>, _November 12, 1903_.
 
 The German Vacuum Oil Company, Hamburg.
 x/
@@ -5250,9 +5250,9 @@ affection for the German working man.
 These revelations are the more interesting
 because there are similar stories from other
 countries where the Vacuum methods have
-been introduced. The <i>Morgenblad</i>, of Stockholm
+been introduced. The _Morgenblad_, of Stockholm
 (quoted in the English shipping organ
-<i>Fairplay</i> of July 22, 1909), gives an account
+_Fairplay_ of July 22, 1909), gives an account
 of the methods of the Vacuum Oil Company,
 of Sweden, another of the Everest group.
 The Stockholm newspaper states that the Civil
@@ -5336,7 +5336,7 @@ ENGLAND
 Sunday-school work the greater will be your dividends of salvation.”
 
 /R
-<sc>John D. Rockefeller</sc> <i>in a Sunday-school address</i>.
+<sc>John D. Rockefeller</sc> _in a Sunday-school address_.
 R/
 #/
 
@@ -5435,7 +5435,7 @@ Standard Oil expert, was sent here to gammon
 the Petroleum Association with some cock-and-bull
 story. The second visit is referred to by
 Mr. Boverton Redwood in a report to the
-Petroleum Association, published in the <i>Grocer</i>
+Petroleum Association, published in the _Grocer_
 of May 3, 1884. In it he explained that Mr.
 Lockwood attributed the complaints about the
 oil to the use of damp-clogged or hard lamp-wicks.
@@ -5493,7 +5493,7 @@ an American gentleman named Frank E. Bliss,
 who had been connected with the business of
 Charles Pratt & Co. Nobody knew what
 his London business was, but one day there
-appeared in the <i>Financial News</i> the brief record
+appeared in the _Financial News_ the brief record
 of the registration at Somerset House on April
 27, 1888, of the Anglo-American Oil Company,
 Limited. It had a capital of £500,000 in £20
@@ -5672,19 +5672,19 @@ The Chairman: I want to know what there is to prevent
 you importing oil into Liverpool in competition with the
 Anglo-American Oil Company?
 
-<i>A.</i> If we did this of course the Anglo-American Oil Company
-would at once put down their price, <i>so that we should have to
+_A._ If we did this of course the Anglo-American Oil Company
+would at once put down their price, _so that we should have to
 sell at a ruinous loss, and we cannot afford to compete with
-them; I mean, we are all afraid of them</i>. If we sent oil to
+them; I mean, we are all afraid of them_. If we sent oil to
 Liverpool the Anglo-American price, instead of being nearly
 ³⁄₄d. a gallon more than the price in London, would probably
 be something like ³⁄₄d. a gallon less than the price in London.
 That would be the immediate effect.
 
-<i>Q.</i> Yes, but is there not a regular importation, and an
+_Q._ Yes, but is there not a regular importation, and an
 increasing importation, of Russian oil?
 
-<i>A.</i> No, it is not an increasing importation; it is not,
+_A._ No, it is not an increasing importation; it is not,
 certainly. Of course the Anglo-American Company are
 getting the whole business practically (Report and Evidence,
 1897, Q. 4,834).
@@ -5755,7 +5755,7 @@ Have you a general freedom to use Russian oil, for example,
 if you choose?--We don’t like Russian oil.
 
 Are you bound to any particular dealer? Are you bound
-to use American oil?--<i>Yes, that is so.</i> That is largely because
+to use American oil?--_Yes, that is so._ That is largely because
 of choice.
 
 You are under contract?--Yes.
@@ -5783,7 +5783,7 @@ Company and its customers?--I don’t know.
 Does it specify any price?--No.
 
 Does it preclude you from dealing in the oil of any other
-company?--<i>Well, yes, it does to a certain extent.</i>
+company?--_Well, yes, it does to a certain extent._
 
 What happens supposing you have oil from any other company?--That
 I can hardly say, but I am perfectly at liberty
@@ -5803,7 +5803,7 @@ reasons for it. Is it in writing?--In print.
 So that a great number of people enter into the same kind
 of agreement, apparently?--No, I think not. Of course, I
 have no personal knowledge (Report and Evidence, 1897, Q.
-3,475 <i>et seq.</i>).
+3,475 _et seq._).
 #/
 
 We have only to read the evidence of Mr.
@@ -5893,7 +5893,7 @@ are dealing in every lamp so used with an oil beneath your
 flame which is in a condition of danger.”
 
 /R
-<sc>Professor Attfield, F.R.S.</sc>, <i>Select Committee on Petroleum, 1896 Report</i>.
+<sc>Professor Attfield, F.R.S.</sc>, _Select Committee on Petroleum, 1896 Report_.
 R/
 #/
 
@@ -5978,9 +5978,9 @@ to give way on any point affecting the efficiency of the test.
 He did give way; and in the result a test was prescribed
 which he himself subsequently described as “untrustworthy,”
 “open to manipulation,” and “not of such a nature as uniformly
-to ensure reliable and satisfactory results.” <i>Why Dr.
+to ensure reliable and satisfactory results.” _Why Dr.
 Lethaby and Dr. Attfield were not consulted has not been
-explained to your Committee.</i> It is certain that if they had
+explained to your Committee._ It is certain that if they had
 been consulted, the change could never have been made.
 Whenever it came to his knowledge Dr. Attfield at once
 informed the Government that the test was far less stringent
@@ -6093,8 +6093,8 @@ the reduction of the flash-point from 100 deg. to
 73 deg. In it he wrote:--
 
 /#
-The figure is one to which the Petroleum Association, <i>the
-body really interested</i>, are prepared to assent, and although
+The figure is one to which the Petroleum Association, _the
+body really interested_, are prepared to assent, and although
 the Scottish Mineral Oil Association desire a higher flashing-point,
 it is really a matter in which they have very little
 concern, except in so far as the adoption of a higher flashing-point
@@ -6135,7 +6135,7 @@ HOME OFFICE
 in public office owes the public anything.”
 
 /R
-<sc>Senator Mark Hanna</sc> <i>to the Ohio Attorney-General</i>.
+<sc>Senator Mark Hanna</sc> _to the Ohio Attorney-General_.
 R/
 #/
 
@@ -6162,25 +6162,25 @@ no means of knowing whether Mr. Redwood
 was able to obtain the same letters of introduction
 from Mr. Wm. Rockefeller which he had
 secured in 1877, but I do know that there was
-one subject the pair did <i>not</i> inquire into. It
+one subject the pair did _not_ inquire into. It
 appears in Colonel Majendie’s examination
 before the Select Committee on Petroleum by
 Captain Hope (Report and Evidence, 1894, Q.
 206–212):--
 
 /#
-<i>Q.</i> Are you aware that in Scotland, where Scotch oil has been
+_Q._ Are you aware that in Scotland, where Scotch oil has been
 mostly in use, there have hitherto been very few fires or lamp
 accidents?
 
-<i>A.</i> No, I have no statistics of lamp accidents. I have only
+_A._ No, I have no statistics of lamp accidents. I have only
 a general knowledge derived from newspapers and from those
 who have given to the subject a larger study.
 
-<i>Q.</i> When you were making your inquiries in America did you
+_Q._ When you were making your inquiries in America did you
 go into the question of the frequency of lamp accidents?
 
-<i>A.</i> <i>Not lamp accidents, I think, at all.</i>
+_A._ _Not lamp accidents, I think, at all._
 #/
 
 While this surprising omission was occurring
@@ -6316,8 +6316,8 @@ Billiter Street that 73 deg. oil was as safe as
 hand. He turned the card over carefully, and
 then remarked that it was “merely advertising
 bankum,” and that it was issued by the Anglo-American
-Oil Company, “<i>who no doubt bought
-the oil of us</i>.” This was fairly cool in view of
+Oil Company, “_who no doubt bought
+the oil of us_.” This was fairly cool in view of
 the fact that the Standard owns all the shares
 in the Anglo-American, but it is even cooler
 when we examine the orange-coloured barrel
@@ -6343,8 +6343,8 @@ raised. Sir Henry Roscoe said:--
 
 /#
 I think that Americans send over so much mixed oil of the
-character of this “Tea Rose” oil <i>only became our flash-point
-is so low</i>.
+character of this “Tea Rose” oil _only became our flash-point
+is so low_.
 #/
 
 Lord Kelvin told the Select Committee:--
@@ -6357,7 +6357,7 @@ will meet the difficulty.
 
 The Select Committee at last reported in
 favour of raising the flash-point, and an
-agitation started by the <i>Star</i> newspaper in
+agitation started by the _Star_ newspaper in
 support of this course received the adhesion
 of a large number of newspapers, coroners,
 and of the London County Council. At the
@@ -6373,7 +6373,7 @@ done. The result was that M.P.s were bombarded
 with petitions from their constituencies,
 and Standard Oil agents filled the lobbies. A
 well-known Standard Oil “expert” contributed
-anonymously a long article to the <i>Times</i>, in
+anonymously a long article to the _Times_, in
 which it was represented that the safe-oil
 agitation was due to a desire to secure “protection”
 for the Scottish trade. It is amusing
@@ -6421,7 +6421,7 @@ a few capitals, you will find the representatives
 of the Rockefellers. Their proceedings and those
 of the rivals who sought to checkmate them
 elicited a severe rebuke from that cautious
-journal the <i>Spectator</i> on the occasion of the
+journal the _Spectator_ on the occasion of the
 debate upon the Flash-point Bill. Writing on
 March 25, 1899, my contemporary observed:--
 
@@ -6548,7 +6548,7 @@ its 73 deg. oil so explosive and dangerous
 without adding to the cost to the consumer.
 Since then there has arisen the demand for
 benzine or petrol for the motor industry, and
-the Standard finds that it <i>can</i> take out that
+the Standard finds that it _can_ take out that
 naphtha. Accordingly a friend of mine who
 has studied this subject as a chemist tells me
 that whereas the “Tea Rose” oil used to have
@@ -6583,7 +6583,7 @@ it is perfectly true. A conclusive proof of its
 truth is furnished by that interview with Mr.
 W. H. Libby, the Standard’s foreign marketing
 agent (to which I referred in a former chapter)
-appearing in the <i>New York Herald</i> of September
+appearing in the _New York Herald_ of September
 3, 1905. After describing in Mr. Libby’s
 words their struggles with Russia for the
 European oil market, the interviewer goes on
@@ -6595,12 +6595,12 @@ business that the great and important reason for the Standard’s
 activity in Europe is largely due to the fact that the European
 tests on oil are not as stringent as they are in the United
 States. In this country (U.S.A.) the first run of oil, or what is
-known as the flash-test at a high rate, <i>is the only oil that is
-allowed to be marketed</i>. The second run of oil contains much
+known as the flash-test at a high rate, _is the only oil that is
+allowed to be marketed_. The second run of oil contains much
 more inflammable ingredients, and when tested with the flash will
-explode at a much lower temperature. <i>It is this oil that finds
+explode at a much lower temperature. _It is this oil that finds
 a market abroad, and the laws there do not demand the higher
-test of the product.</i> To get rid of its second run the Standard
+test of the product._ To get rid of its second run the Standard
 naturally has to look to other markets than the domestic, and
 that is why it is so anxious to extend its operations in Europe
 and Asia, as otherwise the oil would be a drug on its hands.
@@ -6632,7 +6632,7 @@ letter:--
 For the above reasons the application of the legal flashing
 test as prescribed by the Act to the examination of petroleum
 samples which are solid or viscid at a temperature about 60
-deg. Fahr. <i>must give entirely fallacious results</i>.
+deg. Fahr. _must give entirely fallacious results_.
 #/
 
 Then he goes on to suggest a “modification”
@@ -6659,7 +6659,7 @@ theory that it would not give off explosive
 vapour below 73 deg. Fahr. But to admit that
 would have been too awkward for the whole
 flash-point camarilla, and Sir Frederick Abel,
-in the <i>Journal of the Society of Chemical Industry</i>,
+in the _Journal of the Society of Chemical Industry_,
 a few years before the safe-oil agitation
 started, stated that oil which in New York was
 exported as 73 deg. oil was found in India to
@@ -6733,7 +6733,7 @@ piety are the tricks which deceive the most people the longest
 time?”
 
 /R
-<sc>Ida M. Tarbell</sc> <i>in</i> “<i>McClure’s Magazine</i>.”
+<sc>Ida M. Tarbell</sc> _in_ “_McClure’s Magazine_.”
 R/
 #/
 
@@ -6815,7 +6815,7 @@ through the Vacuum Oil Company, it goes to
 the customers of these firms and offers to
 undersell them, saying that it can supply the
 oils direct. A great deal of correspondence
-appeared in the <i>Oil and Colourman’s Journal</i>
+appeared in the _Oil and Colourman’s Journal_
 on this subject in 1905. For example, one
 correspondent told this story of his experience
 with the Standard. He was dealing in illuminating
@@ -6896,8 +6896,8 @@ lines:--
 /#
 It is possible to exactly duplicate a fine lubricating oil on
 the basis of chemical tests with an improperly manufactured
-article. The results from the use of both oils, <i>while the
-chemical readings show they are exactly the same</i>, are widely
+article. The results from the use of both oils, _while the
+chemical readings show they are exactly the same_, are widely
 different when applied to actual work.
 #/
 
@@ -6968,7 +6968,7 @@ association a very useful argument in justifying
 their exclusive use of Vacuum lubricants.
 
 Before I leave this subject I may note that
-<i>Fairplay</i>, the well-known shipping journal, has
+_Fairplay_, the well-known shipping journal, has
 drawn attention to another aspect of this
 question, and that is how the Inland Revenue
 collects income-tax from this combination. As
@@ -7214,9 +7214,9 @@ Galicia, discriminations against the Standard, 166
 
 Garfield, J. R. (United States Commissioner of Corporations), 28
 
-General Industrials Development Syndicate (of London), 108 <i>et seq.</i>
+General Industrials Development Syndicate (of London), 108 _et seq._
 
-German Vacuum Oil Company, 170 <i>et seq.</i>
+German Vacuum Oil Company, 170 _et seq._
 
 Gould, Jay (the late), 37
 
@@ -7256,7 +7256,7 @@ Lockhart, Charles, 65, 193
 
 Lockwood, F. W. (Standard Oil agent), on wicks, 194
 
-London Commercial Trading and Investment Company, Ltd., 113 <i>et seq.</i>
+London Commercial Trading and Investment Company, Ltd., 113 _et seq._
 
 
 Macdonald, Jas. H., 111, 199
@@ -7265,7 +7265,7 @@ Maikop field, the new, 164
 
 Majendie, Sir V. (the late), 214, 219
 
-Manhattan Oil Company, 108 <i>et seq.</i>
+Manhattan Oil Company, 108 _et seq._
 
 Mantascheffs of Baku, the, 164, 169
 
@@ -7372,7 +7372,7 @@ Sone & Fleming Company, New York, 224
 
 South Improvement Company, 34, 36, 46, 48
 
-<i>Spectator</i>, the, on “lobbying,” 227
+_Spectator_, the, on “lobbying,” 227
 
 Standard Oil Company, of New Jersey, 19, 50, 135, 199
 
@@ -7382,7 +7382,7 @@ Standard Oil Company, of New Jersey, 19, 50, 135, 199
 
 ” ” of Ohio, 20, 29, 134
 
-<i>Star</i> newspaper and the flash-point, 225
+_Star_ newspaper and the flash-point, 225
 
 Steana Romana, the, 169
 
@@ -7421,7 +7421,7 @@ Ure, Alexander, K.C., M.P., 210, 212
 
 Vacuum Oil Company, of Rochester, 20, 21, 94
 
-” ” Ltd., 239 <i>et seq.</i>
+” ” Ltd., 239 _et seq._
 
 ” ” of Vienna, 165
 
