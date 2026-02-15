@@ -233,8 +233,8 @@ We now proceed to create a Plain Text Version of the book.
 * [x] Check "things to revisit" list for anything lingering in the text version
 
 ### Add TN
-* [ ] Add transcriber's notes, example follows. Use 4+2 blank lines as in new chapter.
-* [ ] Rewrap this section of text when finished.
+* [x] Add transcriber's notes, example follows. Use 4+2 blank lines as in new chapter.
+* [x] Rewrap this section of text when finished.
 
 ```text
 Transcriber’s Note
@@ -257,7 +257,7 @@ p. 123: changed “foo” to “fool” (the fool and his money)
 ```
 
 ### Final review
-* [ ] Skim over text file to find any obvious issues
+* [x] Skim over text file to find any obvious issues
 
 ### Validation
 * [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check

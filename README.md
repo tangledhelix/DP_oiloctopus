@@ -125,7 +125,7 @@ p. 144: changed “monoply” to “monopoly” (fighting this American monopoly
 
 p. 165: changed “Campany” to “Company” (the Vacuum Oil Company, of Rochester)
 
-p. 178: changed “Engine F” to “Engine I” (Gas Engine I and Heavy" respectively)
+p. 178: changed “Engine F” to “Engine I” (Gas Engine I and Heavy” respectively)
 
 p. 200: changed “varies” to “various” (the various groups of middlemen)
 
