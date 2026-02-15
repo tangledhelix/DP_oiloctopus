@@ -129,6 +129,8 @@ p. 178: changed “Engine F” to “Engine I” (Gas Engine I and Heavy” resp
 
 p. 200: changed “varies” to “various” (the various groups of middlemen)
 
+p. 224: changed “bankum” to “bunkum” (“merely advertising bunkum,”)
+
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
 

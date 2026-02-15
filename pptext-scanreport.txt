@@ -1,3 +1,7 @@
+﻿SMART QUOTE CHECKS (overlay format)
+suspect punctuation marked with '@' character
+-------------------------------------------------------------------
+
 
 
 
@@ -1534,7 +1538,7 @@ Senator he was being asked to oppose anti-trust legislation in the
 interests of the Standard.
 
 But even the Bench itself was not secure from the influence of Mr.
-Archbold. “Th’ Supreem Court is full of Standard Ile,” says Mr. Dooley,
+Archbold. “Th[@UCSQ]’ Supreem Court is full of Standard Ile,” says Mr. Dooley,
 the American humorist, and two other letters addressed by Mr. Archbold
 to Senator Foraker show how that consummation has been reached:--
 
@@ -4147,10 +4151,10 @@ to capture, were allowed to remain as “tied houses” in the trade.
 Some evidence was with difficulty extracted by the Lord Advocate and
 Mr. M‘Killop, M.P., at the same committee from Mr. Geo. Base, a large
 “independent” oil dealer of Norwich, who had come up to give evidence
-in support of the Standard’s views against raising the flash-point:--
+in support of the Standard’s views against raising the flash-point:--[@NESK ‘]
 
   Mr. M‘Killop, M.P.: Have you any freedom to use any class of oil you
-  like?--We prefer American oil. In fact, we have dealt in nothing else.
+  like?--We prefer American oil. In fact, we have dealt in nothing else.[@NESK ‘]
 
   Have you a general freedom to use Russian oil, for example, if you
   choose?--We don’t like Russian oil.
@@ -4498,7 +4502,7 @@ accidents by any lamp law are these:--
   refined, the remedy has been sought, not in a lamp law, but in
   raising the flash-point.
 
-While the British officials were chasing the lamp-law will o’ th’ wisp
+While the British officials were chasing the lamp-law will o’ th[@UCSQ]’ wisp
 Mr. Rockefeller was sending over here petroleum oil which could not
 be sold in most of the States of the Union, and the number of lamp
 accidents here was still rising. In London they rose from 271 in 1890
@@ -5141,9 +5145,9 @@ induce the world to forget.
 
   Anglo-American Oil Company, Ltd., 11, 22, 111, 196, 241
 
-    ”   Caucasian Oil Company, Ltd., 163
+    [@UCDQ]”   Caucasian Oil Company, Ltd., 163
 
-    ”   Saxon Petroleum Company, 148, 170
+    [@UCDQ]”   Saxon Petroleum Company, 148, 170
 
   Archbold, John D., 18, 19, 67, 78, 94, 97, 110, 175, 196, 239
 
@@ -5223,7 +5227,7 @@ induce the world to forget.
 
   Flash-point scandal in Great Britain, 209
 
-    ”                 in India, 233
+    [@UCDQ]”                 in India, 233
 
   Foraker, Senator, J. B., 78
 
@@ -5326,11 +5330,11 @@ induce the world to forget.
 
   Petroleum Association (of London), 160, 210, 214
 
-    ”       Committee (recommendation on flash-point), 225
+    [@UCDQ]”       Committee (recommendation on flash-point), 225
 
-    ”       Producers’ Union, the, 46, 133
+    [@UCDQ]”       Producers’ Union, the, 46, 133
 
-    ”       wax, 152, 206
+    [@UCDQ]”       wax, 152, 206
 
   Pierce, Henry Clay, 141
 
@@ -5340,7 +5344,7 @@ induce the world to forget.
 
   Pratt, Charles, 66
 
-    ”    Charles M., 20, 175, 239
+    [@UCDQ]”    Charles M., 20, 175, 239
 
   “Protection,” the cry of, 226
 
@@ -5359,11 +5363,11 @@ induce the world to forget.
 
   Rockefeller, Frank, 39
 
-    ”          John D., 15, 29, 33, 47, 51, 58, 67, 71, 197
+    [@UCDQ]”          John D., 15, 29, 33, 47, 51, 58, 67, 71, 197
 
-    ”          John D., jun., 20
+    [@UCDQ]”          John D., jun., 20
 
-    ”          William, 19, 29, 37, 193
+    [@UCDQ]”          William, 19, 29, 37, 193
 
   Rogers, H. H., 17, 33, 94, 97, 172, 195
 
@@ -5396,11 +5400,11 @@ induce the world to forget.
 
   Standard Oil Company, of New Jersey, 19, 50, 135, 199
 
-    ”       ”           of New York, 48
+    [@UCDQ]”[@UCDQ]       ”           of New York, 48
 
-    ”       ”           of Indiana, 134
+    [@UCDQ]”[@UCDQ]       ”           of Indiana, 134
 
-    ”       ”           of Ohio, 20, 29, 134
+    [@UCDQ]”[@UCDQ]       ”           of Ohio, 20, 29, 134
 
   _Star_ newspaper and the flash-point, 225
 
@@ -5415,7 +5419,7 @@ induce the world to forget.
 
   Tank steamers and the Suez Canal, 158
 
-    ”  wagons and retailers, 127, 166, 202, 205
+    [@UCDQ]”  wagons and retailers, 127, 166, 202, 205
 
   Tarbell, Miss Ida M., 5, 16
 
@@ -5434,16 +5438,16 @@ induce the world to forget.
 
   United Pipe lines, 54, 60
 
-    ”    States Pipe Line, 92
+    [@UCDQ]”    States Pipe Line, 92
 
   Ure, Alexander, K.C., M.P., 210, 212
 
 
   Vacuum Oil Company, of Rochester, 20, 21, 94
 
-    ”     ”           Ltd., 239 _et seq._
+    [@UCDQ]�[@UCDQ]��     ”           Ltd., 239 _et seq._
 
-    ”     ”           of Vienna, 165
+    [@UCDQ]�[@UCDQ]��     ”           of Vienna, 165
 
   Van Buren (Mr. Archbold’s son-in-law), 142
 
@@ -5456,7 +5460,7 @@ induce the world to forget.
 
   Warden, W. G. (South Improvement Company), 36, 65
 
-    ”     Frew & Co., 74, 193
+    [@UCDQ]”     Frew & Co., 74, 193
 
   Wardwell, William T. (the late), 18, 198
 
@@ -5464,7 +5468,7 @@ induce the world to forget.
 
   Watson, D. K., Attorney-General of Ohio, 82, 134
 
-    ”     P. H., President South Improvement Company, 37
+    [@UCDQ]”     P. H., President South Improvement Company, 37
 
 
 
@@ -5505,7 +5509,7 @@ monopoly)
 p. 165: changed “Campany” to “Company” (the Vacuum Oil Company, of
 Rochester)
 
-p. 178: changed “Engine F” to “Engine I” (Gas Engine I and Heavy”
+p. 178: changed “Engine F” to “Engine I” (Gas Engine I and Heavy[@UCDQ]”
 respectively)
 
 p. 200: changed “varies” to “various” (the various groups of middlemen)
