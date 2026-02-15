@@ -16,11 +16,11 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 * [x] From project notes: Please use " for the low level ditto.
 * [ ] 007-008: ToC
-* [ ] Chapters start with drop-caps; first instance on 005
-* [ ] Many blockquotes have a font-size change to smaller font, though they don't indent margins.
-* [ ] Some things marked as blockquotes have non-uniform indent
+* [ ] (HTML) Chapters start with drop-caps; first instance on 005
+* [ ] (HTML) Many blockquotes have a font-size change to smaller font, though they don't indent margins.
+* [ ] (HTML) Some things marked as blockquotes have non-uniform indent
   * [ ] 010
-* [ ] Paragraph is `noindent` after a blockquote or table:
+* [ ] (HTML) Paragraph is `noindent` after a blockquote or table:
   * [ ] 016-018
   * [ ] 020
   * [ ] 038
@@ -32,10 +32,10 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] 199
   * [ ] 236
   * [ ] 240
-* [ ] Some blockquotes are noindent
+* [ ] (HTML) Some blockquotes are noindent
   * [ ] 037
   * [ ] 038 (2)
-* [ ] Book divides into major sections; should these be h2, chapters h3?
+* [ ] (HTML) Book divides into major sections; should these be h2, chapters h3?
   * [x] Or is the start of *every* chapter??
   * [x] Yes, it is. How very dramatic. Someone was flexing on how little they cared about the cost of paper, perhaps.
   * [ ] 009-011 chapter 1
@@ -81,8 +81,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] 238
 * [ ] Poetry:
   * [ ] 069
-* [ ] 173: F rounds have left section dividers here. are they h3 or h4?
-* [ ] 178, 180: some signature blocks after quoted text?
+* [x] 173: F rounds have left section dividers here. are they h3 or h4?
+* [x] 178, 180: some signature blocks after quoted text?
 * [ ] 251-255: index
 
 ### Project manager notes ###
