@@ -7,7 +7,6 @@
 
 
 
-/X
                                   THE
                            GREAT OIL OCTOPUS
 
@@ -18,7 +17,6 @@
                         LONDON: ADELPHI TERRACE
                         LEIPSIC: INSELSTRASSE 20
                                   1911
-X/
 
 
                         (_All rights reserved._)
@@ -58,7 +56,6 @@ hemispheres.
                                 CONTENTS
 
 
-/X
       CHAP.                                              PAGE
 
          I. THE MEN AND THE MONOPOLY                        9
@@ -92,20 +89,18 @@ hemispheres.
         XV. THE LUBRICATING OIL TRADE                     237
 
             INDEX                                         251
-X/
 
 
 
 
                         THE MEN AND THE MONOPOLY
 
-/#
+
+
+
   “The oil business belongs to us.”
 
-/R
                         JOHN D. ROCKEFELLER _to an independent refiner_.
-R/
-#/
 
 
 
@@ -218,7 +213,6 @@ and Hyde is well brought out in Miss Ida M. Tarbell’s “History of
 the Standard Oil Company,” the ablest investigation ever made of the
 American activities of this combination. Miss Tarbell says:--
 
-/#
   Mr. Rockefeller was “good.” There was no more faithful Baptist in
   Cleveland than he. Every enterprise of that Church he had supported
   liberally from his youth. He gave to its poor. He visited its sick.
@@ -231,12 +225,10 @@ American activities of this combination. Miss Tarbell says:--
   emotions and sentiments of charity, propriety, and self-denial seem
   to have taken the place in him of notions of justice and regard for
   the rights of others.
-#/
 
 In a character sketch of Mr. Rockefeller which she contributed to
 _McClure’s Magazine_ in January, 1905, Miss Tarbell tells this story:--
 
-/#
   Even in his own Church men say, “He’s a good Baptist, but look out
   how you trade with him.” “I have been in business with John D.
   Rockefeller for thirty-five years,” one of the ablest and richest
@@ -244,7 +236,6 @@ _McClure’s Magazine_ in January, 1905, Miss Tarbell tells this story:--
   of forgetfulness, “and he would do me out of a dollar to-day; that
   is,” he added, with a sudden reversion to the school of cant in which
   he had been trained--“that is, if he could do it honestly.”
-#/
 
 In this picture Mr. Wm. Rockefeller hardly counts. The next figure in
 the gallery of oils is that of the late Mr. Henry H. Rogers, who died
@@ -253,7 +244,6 @@ in Chapter III. of “Frenzied Finance” in _Everybody’s Magazine_ for
 August, 1904, Mr. T. W. Lawson, who knew him well, thus described Mr.
 Rogers:--
 
-/#
   Whenever the bricks, cabbages, or aged eggs were being presented
   to “Standard Oil,” always was Henry H. Rogers’s towering form and
   defiant eye in the foreground where they flew thickest. Whenever
@@ -264,11 +254,9 @@ Rogers:--
   panacea for all opposition, “We’ll see Standard Oil in hell before we
   will allow any body of men on earth to dictate how we shall conduct
   our business.”
-#/
 
 In another passage in “Frenzied Finance” Mr. Lawson wrote of him:--
 
-/#
   Rogers is a marvellously able man, and one of the best fellows
   living. He is considerate, kindly, generous, helpful, and everything
   a man should be to his friends. But when it comes to business--his
@@ -276,7 +264,6 @@ In another passage in “Frenzied Finance” Mr. Lawson wrote of him:--
   aboard his private brig and hoists the Jolly Roger, God help you!...
   He is a relentless, ravenous creature, as pitiless as a shark,
   knowing no law of God or man in the execution of his purpose.
-#/
 
 Now that Mr. Rogers is dead, the active figure in the Trust is Mr. John
 Dustin Archbold, who was originally a bitter opponent of the Standard
@@ -320,7 +307,6 @@ John D. Rockefeller, jun., Oliver H. Payne, and A. C. Bedford. This
 Company controls nine companies which are principally engaged in
 refining oils:--
 
-/x
                                              Capital.
                                                Dols.
   Atlantic Refining Company, Pennsylvania   5,000,000
@@ -332,18 +318,15 @@ refining oils:--
   Security Oil Company, Texas               3,000,000
   Standard Oil Company of Ohio              3,500,000
   Corsicana Refining Company              partnership
-x/
 
 Then comes a group of lubricating oil companies:--
 
-/x
                                               Dols.
   Vacuum Oil Company, N.Y.                  2,500,000
   Borne, Scrymser & Co., N.J.                 200,000
   Chesebrough Manufacturing Company, N.Y.     500,000
   Galena Signal Oil Company, Penn.         10,000,000
   Swan and Finch Company, N.Y.              1,000,000
-x/
 
 It will surprise many readers on this side to find in this list the
 name of the Chesebrough Company, which lights the London sky with the
@@ -378,7 +361,6 @@ of Missouri, has had, perhaps, the most remarkable modern history. Next
 we come to the following foreign marketing companies, the first two of
 which are duly recorded in the files at Somerset House:--
 
-/x
                                                      Capital.
   Anglo-American Oil Company (London)               £1,000,000
   Vacuum Oil Company, Ltd. (London)                    £55,000
@@ -397,7 +379,6 @@ which are duly recorded in the files at Somerset House:--
   International Oil Company (Japan)             Yen.12,000,000
   Imperial Oil Company (Canada)                     Not stated
   Colonial Oil Company (Africa and Australasia)       $250,000
-x/
 
 But even this long list does not complete the companies in this
 combination. It does not include many businesses which have been
@@ -421,16 +402,12 @@ Bombay, Kobe, and Cape Town.
 
 
 
-/#
   “Mr. Rockefeller is the victim of a money-passion which blinds him to
   every other consideration in life, which is stronger than his sense
   of justice, his humanity, his affections, his joy in life, which is
   the one tyrannous insatiable force of his being.”
 
-/R
                              IDA M. TARBELL _in_ “_McClure’s Magazine_.”
-R/
-#/
 
 
 
@@ -461,7 +438,6 @@ at any rate the Standard Oil Company made the practice so much its own
 that it may fairly be regarded as its special system. On page 1 of the
 report this is made perfectly clear:--
 
-/#
   The general result of the investigation has been to disclose
   the existence of numerous and flagrant discriminations by the
   railroads in behalf of the Standard Oil Company and its affiliated
@@ -477,7 +453,6 @@ report this is made perfectly clear:--
   important effect of _giving that Company practically unassailable
   monopolistic control of the oil market_ throughout large sections of
   the country.
-#/
 
 Of course, it was just as iniquitous for an American railroad company,
 with its Government charter, to discriminate in favour of a large
@@ -644,7 +619,6 @@ time_, to a capacity of one-fifth.
 The stockholders in the South Improvement Company held shares as
 follows:--
 
-/#
   Wm. Frew, W. P. Logan, and J. P. Logan, of Philadelphia, 10 shares
   each; Chas. Lockhart and Richard S. Waring, of Pittsburg, 10
   shares each; W. G. Warden, of Philadelphia, and O. F. Waring, of
@@ -657,7 +631,6 @@ follows:--
   railroads as follows: Pennsylvania, J. Edgar Thompson, president; New
   York Central, Wm. H. Vanderbilt, vice-president; Erie, Jay Gould,
   president; Atlantic and Great Western, General Geo. B. McClellan.
-#/
 
 How completely the railroads were got to play the game of Mr.
 Rockefeller and his friends is made still more evident by two other
@@ -666,12 +639,10 @@ railroads contracted to send each day to the South Improvement Company
 manifests on waybills of all petroleum shipped over the roads, which
 manifests
 
-/#
   shall state the name of the consignor, the place of shipment, the
   kind and actual quantity of the article shipped, the name of the
   consignee, and the place of destination, with the rate and gross
   amount of freight and charges.
-#/
 
 This, of course, gave the South Improvement Company a full knowledge of
 everybody else’s business--just what Mr. Rockefeller strove after from
@@ -679,7 +650,6 @@ beginning to end of his career--and also ensured the due payment of the
 drawbacks by the roads. The other provision I refer to was contained
 in Art. 4, whereby each railroad was bound to co-operate
 
-/#
   _as far as it legally might_ to maintain the business of the South
   Improvement Company against loss or injury by competition, to the
   end that it may keep up a remunerative and so a full and regular
@@ -688,17 +658,14 @@ in Art. 4, whereby each railroad was bound to co-operate
   legally may, for such times and to such extent as may be necessary
   to overcome such competition, the rebates and drawbacks to be varied
   _pari passu_ with the gross rates.
-#/
 
 This makes it clear that Art. 3, providing that
 
-/#
   rebates hereintofore provided may be made to any other party who
   shall furnish an equal amount of transportation and who shall possess
   and use works, means, and facilities for carrying on and promoting
   the petroleum trade equal to those possessed and used by the South
   Improvement Company,
-#/
 
 is a mere blind. The South Improvement Company was to be maintained at
 all costs and against all comers by whatever juggling with the rates
@@ -735,7 +702,6 @@ the portion in which he mentions names--is reproduced in the late
 Mr. George Rice’s well-known pamphlet on the Standard Oil Railway
 Discriminations (p. 25), as follows:--
 
-/#
   By the Chairman:
 
   _Q._ What do you mean by the pool--a pool amongst the railroads or
@@ -766,7 +732,6 @@ Discriminations (p. 25), as follows:--
   _Q._ But to the railroad officials?
 
   _A._ To the railroad officials.
-#/
 
 There the matter was left by the Committee of Congress, and there it
 must be left perforce. If the allegation is true, it would explain how
@@ -782,13 +747,9 @@ exhibition of the railroad accounts.
 
 
 
-/#
   “A dollar in those days (1871) looked as large as a cart wheel.”
 
-/R
                       JOHN D. ROCKEFELLER _in_ “_Random Reminiscences_.”
-R/
-#/
 
 
 
@@ -825,14 +786,12 @@ charter of the South Improvement Company, and on March 25th the peccant
 railroads signed a contract with the Petroleum Producers’ Union, of
 which the first and chief clause provided--
 
-/#
   That all arrangements for the transportation of oil after this date
   shall be upon a basis of perfect equality to all shippers, producers,
   and refiners, and that no rebates, drawbacks, or other arrangements
   of any character shall be made or allowed that will give any party
   the slightest difference in rates or discrimination of any character
   whatever.
-#/
 
 On April 4th General McClellan (Atlantic and Great Western), Horace
 F. Clark (Lake Shore and Michigan Southern), Thomas A. Scott
@@ -1015,7 +974,6 @@ gradually created such a hubbub that the State of Pennsylvania
 instituted a suit against it. This is the evidence given by Mr. B. B.
 Campbell, President of the Producers’ Union, on the occasion:--
 
-/#
   “I never heard of a scarcity of cars until the early part of June,
   1878. I came to Parker (a town in Pennsylvania) about five o’clock
   in the evening, and found the citizens in a state of terrible
@@ -1042,7 +1000,6 @@ Campbell, President of the Producers’ Union, on the occasion:--
   Valley Road--between that point and Parker--the express train was
   delayed for over half an hour in passing through _hundreds of empty
   oil cars_!”
-#/
 
 In August, 1872, Mr. Rockefeller, as the result of much plotting and
 planning, succeeded in persuading about four-fifths of the refining
@@ -1119,14 +1076,12 @@ all points! This combination was announced curtly by a private circular
 sent out by James H. Rutter, freight agent of the New York Central,
 containing the paragraph:
 
-/#
   You will observe that under this system the rate is even and fair
   to all parties, preventing one locality taking advantage of its
   neighbour by reason of some alleged or real facility it may possess.
   Oil refiners and shippers have asked the roads from time to time to
   make all rates even, and they would be satisfied. This scheme does
   it, and we trust will work satisfactorily to all.
-#/
 
 The refiners and shippers referred to as complacently as if they formed
 the bulk of the refining and shipping interest were, of course, Mr.
@@ -1144,7 +1099,6 @@ ostensibly fair one. The brief for the Government in the pending appeal
 by the Standard Oil Company of New Jersey against the Missouri judgment
 characterises these discriminatory rates as follows:--
 
-/#
   The testimony in this case will show that in the open published
   rates, as well as in secret and unfiled rates, there was radical
   discrimination against the independent shipping points and in
@@ -1159,7 +1113,6 @@ characterises these discriminatory rates as follows:--
   it could not be possible that it merely happened in the ordinary
   course of business that practically every Standard shipping point
   would be favoured with advantageous rates as against competitors.
-#/
 
 This contention has, of course, been already sustained by the finding
 of the Missouri Circuit Court, as it is sustained by the common sense
@@ -1191,15 +1144,11 @@ chapter of conspiracy all over the States.
 
 
 
-/#
   “The American Beauty rose can be produced in its splendour and
   fragrance only by sacrificing the early buds which grow up around it.”
 
-/R
                                                 J. D. ROCKEFELLER, Jun.,
                                   _to the students of Brown University_.
-R/
-#/
 
 
 
@@ -1255,14 +1204,12 @@ of Pittsburg, after explaining on oath before the House Committee on
 Manufactures how his splendidly organised business gradually became
 non-paying under the Standard Oil influence, added:--
 
-/#
   In 1874 I went to see Rockefeller if we could make arrangements with
   him by which we could run a portion of our works. It was a very brief
   interview. He said there was no hope for us all. He remarked this--I
   cannot give the exact quotation--“There is no hope for us,” and
   probably he said, “There is no hope for any of us”; but he says, “The
   weakest must go first.” And we went!
-#/
 
 The case of Scofield, Shurmer and Teagle, a Cleveland refinery, is
 evidence of the demoralisation of the times. At first the firm showed
@@ -1288,7 +1235,6 @@ had seen them in their struggling days had not Mr. Rockefeller been an
 adept in joining secrecy to fraud as the basis of his operations. To
 quote Miss Tarbell (i. p. 66):--
 
-/#
   According to the testimony of one of the firm given a few years later
   on the witness-stand in Cleveland the contract was signed at night
   at Mr. Rockefeller’s house on Euclid Avenue in Cleveland, where he
@@ -1301,7 +1247,6 @@ quote Miss Tarbell (i. p. 66):--
   a special box at the post-office was employed for these fictitious
   characters. In fact, smugglers and housebreakers never surrounded
   their operations with more mystery.
-#/
 
 “Smuggling,” “housebreaking,” “burglary” are all terms that have been
 used to designate Mr. Rockefeller’s methods, though much has been made
@@ -1309,10 +1254,8 @@ of his mild demeanour and gentle persuasiveness in dealing with his
 rivals. To my mind his persuasiveness is on a par with that of the bold
 highwayman sung of in the “Pickwick Papers”:--
 
-/p
     But Dick put a couple of balls in his nob
     And perwailed on him to stop.
-p/
 
 The Standard Oil Trust has been repeatedly and publicly charged in
 America with using in the pursuits of its ends or the defence of its
@@ -1328,7 +1271,6 @@ Mr. Rockefeller appeared and was questioned as to the _initium
 malorum_--the South Improvement Company. I quote from the official
 report of this investigation:--
 
-/#
   _Q._ There was such a company?
 
   _A._ I have heard of such a company.
@@ -1336,7 +1278,6 @@ report of this investigation:--
   _Q._ Were you not in it?
 
   _A._ I was not.
-#/
 
 As pointed out in my former articles, Mr. J. D. Rockefeller was a
 director with 180 shares in the concern, and the fact is now absolutely
@@ -1345,7 +1286,6 @@ April 30th following Mr. Rockefeller appeared before a Committee of the
 House of Representatives at Washington, and the following colloquy took
 place:--
 
-/#
   _Q._ I want the names particularly of gentlemen who either now or
   in the past have been interested with you gentlemen who were in the
   South Improvement Company?
@@ -1353,7 +1293,6 @@ place:--
   _A._ I think they were O. T. Waring, W. P. Logan, John Logan, W.
   G. Warden, O. H. Payne, H. M. Flagler, William Rockefeller, J. A.
   Bostwick, and--_myself_.
-#/
 
 A direct contradiction of his own words within the space of two months!
 Again, questioned as to railway rates by the New York Senate Committee,
@@ -1362,17 +1301,14 @@ the Trust or the companies controlled by it got transportation at any
 cheaper rates than were allowed to the general public, and his answer
 was:--
 
-/#
   No, we have had no better rates than our neighbours. But, if I may
   be allowed, we have found repeated instances where other parties had
   secured lower rates than we had.
-#/
 
 The Committee, however, was not satisfied, and returned to the charge
 later on in the day, and Mr. Rockefeller, after much wriggling and
 evasion, practically admitted the contrary:--
 
-/#
   _Q._ Has not some company or companies embraced within this Trust
   enjoyed from railroads more favourable freight rates than those rates
   accorded to refineries not in the Trust?
@@ -1430,7 +1366,6 @@ evasion, practically admitted the contrary:--
   favourable than, other freight arrangements; but, in reply to that,
   nothing peculiar in respect to the companies in this association. I
   suppose they make the best freight arrangements they can.
-#/
 
 A commission, known, from the name of its chairman, as the Hepburn
 Commission, was appointed by Congress in 1879 to investigate the New
@@ -1479,17 +1414,16 @@ absolutely secret at the time, and seemingly not likely to be found out.
 
                      BRIBERY: THE ARCHBOLD LETTERS
 
-/#
+
+
+
   “Solid as a prison, towering as a steeple, its cold and forbidding
   façade seems to rebuke the heedless levity of the passing crowd,
   and frown on the frivolity of the stray sunbeams which in the late
   afternoon play around its impassive cornices. The building is No. 26,
   Broadway, New York City, home of the Standard Oil.”
 
-/R
                                  T. W. LAWSON _in_ “_Frenzied Finance_.”
-R/
-#/
 
 
 
@@ -1517,11 +1451,9 @@ in these epistles of corruption is Mr. J. D. Archbold. The first letter
 was addressed to Mr. J. B. Foraker, Senator for Ohio, and one of the
 leading members of the Republican party. It was as follows:--
 
-/#
-/x
+
                                              26, BROADWAY, NEW YORK,
                                                         _March 9, 1900_.
-x/
 
   MY DEAR SENATOR,--I have your favour of last night with inclosure,
   which latter, with letter from Mr. Elliott commenting on same, I
@@ -1533,42 +1465,33 @@ x/
   occurs. Am glad to hear that you think that the situation is fairly
   well in hand.
 
-/x
                                                 Very truly yours,
                                                        JNO. D. ARCHBOLD.
-x/
 
   Hon. J. B. Foraker, Washington, D.C.
 
   [The Mr. Elliott referred to was M. F. Elliott, general counsel for
   the Standard Oil Company.]
-#/
+
 
 Here are some more letters of this series:--
 
-/#
-/x
+
                                             26, BROADWAY, NEW YORK,
                                                        _March 26, 1900_.
 
   Hon. J. B. Foraker, 1500, Sixteenth Street, Washington, D.C.
-x/
 
   DEAR SENATOR,--In accordance with our understanding, now beg to
   enclose you certificate of deposit to your favour for $15,000. Kindly
   acknowledge receipt and oblige.
 
-/x
                                                 Yours very truly,
                                                        JNO. D. ARCHBOLD.
-x/
-#/
 
-/#
-/x
+
                                              26, BROADWAY, NEW YORK,
                                                        _April 17, 1900_.
-x/
 
   MY DEAR SENATOR,--I enclose you certificate of deposit to your favour
   of $14,500. We are really at a loss in the matter, but I send this,
@@ -1576,18 +1499,13 @@ x/
   offers, if you so desire. I need scarcely again express our great
   gratification over the favourable outcome of affairs.
 
-/x
                                                 Very truly yours,
                                                        JNO. D. ARCHBOLD.
-x/
 
   Hon. J. B. Foraker, 1500, Sixteenth Street, Washington, D.C.
-#/
 
-/#
-/x
+
                                                      _January 27, 1902._
-x/
 
   MY DEAR SENATOR,--Responding to your favour of the 25th, it gives me
   pleasure to hand you herewith certificate of deposit for $50,000 in
@@ -1595,19 +1513,14 @@ x/
   correctly, and I trust the transaction will be successfully
   consummated.
 
-/x
                                                 Very truly yours,
                                                        JOHN D. ARCHBOLD.
-x/
 
   Hon. J. B. Foraker, Washington, D.C.
-#/
 
-/#
-/x
+
                                                26, BROADWAY,
                                                     _February 25, 1902_.
-x/
 
   MY DEAR SENATOR,--I venture to write you a word regarding the Bill
   introduced by Senator Jones, of Arkansas, known as “S. 649,” intended
@@ -1621,13 +1534,11 @@ x/
   about it, and I will be greatly pleased to have a word from you on
   the subject. The Bill, I believe, is still in committee.
 
-/x
                          With kind regards, I am, very truly yours,
                                                        JOHN D. ARCHBOLD.
-x/
 
   Hon. J. B. Foraker, Washington, D.C.
-#/
+
 
 Senator Foraker, when these letters were published, explained that
 the 50,000 dollars was sent to him in order to carry out the purchase
@@ -1644,11 +1555,9 @@ Archbold. “Th’ Supreem Court is full of Standard Ile,” says Mr. Dooley,
 the American humorist, and two other letters addressed by Mr. Archbold
 to Senator Foraker show how that consummation has been reached:--
 
-/#
-/x
+
                                                  26, BROADWAY,
                                                     _December 18, 1902_.
-x/
 
   MY DEAR SENATOR,--You, of course, know of Judge Burket’s candidacy
   for re-election to the Supreme Court Bench of Ohio. We understand
@@ -1661,17 +1570,12 @@ x/
   and aid his re-election. Mr. Rogers joins me most heartily in this
   expression to you.
 
-/x
                      With kind regards, I am, very sincerely yours,
                                                        JOHN D. ARCHBOLD.
-x/
-#/
 
-/#
-/x
+
                                                  26, BROADWAY,
                                                        _March 20, 1903_.
-x/
 
   MY DEAR SENATOR,--We are surprised beyond measure to learn that
   Smith W. Bennett, brother-in-law of F. S. Monnett, recently
@@ -1686,10 +1590,8 @@ x/
 
   I would esteem it a favour to have a line from you on the subject.
 
-/x
                                                        JNO. D. ARCHBOLD.
-x/
-#/
+
 
 Mr. F. S. Monnett, whose brother-in-law is attacked here, was one
 of the public officials whom the Standard Oil Trust failed to
@@ -1700,7 +1602,6 @@ denunciation. Mr. Monnett described his personal experiences in the
 matter to a representative of the Press in July, 1899, when on a visit
 to London:--
 
-/#
   It happened in this way: Mr. Chas. B. Squires is a well-known
   business man in Cleveland, president of the Manhattan Insurance
   Company, and in no way connected with the Standard. Owing to my
@@ -1725,7 +1626,6 @@ to London:--
   predecessors, Mr. Watson, was offered $100,000 in much the same way.
   It is, moreover, quite in accordance with the general policy of the
   Trust.
-#/
 
 In fact, in that year--1899--the Annual Report of Mr. Monnett to the
 Governor of the State of Ohio contains detailed charges of _six_
@@ -1748,11 +1648,9 @@ But the Hearst letters show that Judge Burket was not the only judicial
 candidate Mr. Archbold favoured. The following letters were written by
 him to the Hon. W. A. Stone, Governor of Pennsylvania:--
 
-/#
-/x
+
                                                  26, BROADWAY,
                                                      _December 5, 1902_.
-x/
 
   MY DEAR GOVERNOR,--I am sure you will pardon any seeming presumption
   on my part in writing you on a subject in which, both personally and
@@ -1769,21 +1667,16 @@ x/
   Hoping that it may prove possible for you to favourably consider
   Judge Morrison’s appointment.
 
-/x
                       I am, with very high regard, sincerely yours,
                                                        JNO. D. ARCHBOLD.
-x/
 
   Hon. Wm. A. Stone, Harrisburg, Pa.
-#/
 
-/#
-/x
+
                                                  26, BROADWAY,
                                                     _September 5, 1900_.
 
   Hon. Wm. A. Stone, Harrisburg, Pa.
-x/
 
   MY DEAR GOVERNOR,--Will you permit me to say that if it seems
   consistent for you to appoint Judge John Henderson, of Meadville,
@@ -1792,11 +1685,9 @@ x/
   I am sure I need not occupy your time with any argument as to Judge
   Henderson’s fitness, either as to character or legal qualification.
 
-/x
                           With high regard, I am, very truly yours,
                                                        JNO. D. ARCHBOLD.
-x/
-#/
+
 
 Both Judge Morrison and Judge Henderson were appointed to the Supreme
 Court of Pennsylvania, and the former’s familiarity with “oil and gas”
@@ -1812,65 +1703,48 @@ as public prosecutor in his State in enforcing anti-Trust legislation.
 Mr. Elkin’s merits have since raised him also to the Bench of the
 Supreme Court of Pennsylvania:--
 
-/#
-/x
+
                                Telegram.
 
                                                        _March 15, 1900._
 
   Hon. John P. Elkin, Indiana, Pa.
-x/
 
   Telegram received. Will do as requested.
 
-/x
                                                        JNO. D. ARCHBOLD.
-x/
-#/
 
-/#
-/x
+
                                                  26, BROADWAY,
                                                        _March 15, 1900_.
 
   Hon. John P. Elkin, Indiana, Pa.
 
   Personal.
-x/
 
   MY DEAR GENERAL,--In accordance with your telegraphic request of
   to-day, I beg to enclose you certificate of deposit to your favour
   for $5,000, in fulfilment of our understandings.
 
-/x
                                                 Very truly yours,
                                                        JNO. D. ARCHBOLD.
-x/
-#/
 
-/#
-/x
+
                                                  26, BROADWAY,
                                                      _February 5, 1900_.
-x/
 
   MY DEAR GENERAL,--In accordance with the request in your telegram
   of to-day, I now beg to enclose you certificate of deposit to your
   favour for $10,000, kind acknowledgment of which will oblige.
 
-/x
                                                 Yours very truly,
                                                        JNO. D. ARCHBOLD.
-x/
 
   To Hon. John P. Elkin, Indiana, Pa.
-#/
 
-/#
-/x
+
                                                    26, BROADWAY,
                                                           _May 9, 1901_.
-x/
 
   MY DEAR GENERAL,--I enclose copy of a measure pending--I am not sure
   whether in the House or Senate--being an Act to amend an existing
@@ -1878,14 +1752,12 @@ x/
   greatly like to have this proposed amendment killed. Won’t you kindly
   tell me about it and advise me what you think the chances are?
 
-/x
                                                 Very truly yours,
                                                        JNO. D. ARCHBOLD.
 
   To the Hon. John P. Elkin, Attorney-General,
       Harrisburg, Pa.
-x/
-#/
+
 
 This is the sort of campaign the Standard Oil Trust has been carrying
 on in American Legislatures. How would the British people like it to be
@@ -1895,46 +1767,34 @@ Of course, in such a campaign of corruption the Press is not
 overlooked. Here are three interesting letters which show how public
 opinion may be manufactured by that process:--
 
-/#
-/x
+
                                                  26, BROADWAY,
                                                      _October 10, 1902_.
 
   Mr. H. H. Edmonds, Baltimore, Md.
-x/
 
   DEAR SIR,--Responding to your favour of the 9th, it gives me pleasure
   to enclose you herewith certificate of deposit to your favour for
   $3,000, covering a year’s subscription to the _Manufacturers’
   Record_.--Truly yours,
 
-/x
                                                        JNO. D. ARCHBOLD.
-x/
-#/
 
-/#
-/x
+
                                                  26, BROADWAY,
                                                      _January 17, 1899_.
 
   Hon. W. A. Magee, _Pittsburg Times_, Pittsburg, Pa.
-x/
 
   DEAR SIR,--As per understanding, herewith enclosed find certificate
   of deposit to your order for $1,250, the receipt of which kindly
   acknowledge.--Truly yours,
 
-/x
                                                        JNO. D. ARCHBOLD.
-x/
-#/
 
-/#
-/x
+
                                                  26, BROADWAY,
                                                     _December 18, 1901_.
-x/
 
   Mr. Thomas P. Grasty, care of Buck & Pratt, Room 1,203, 27, William
   Street, City.
@@ -1948,10 +1808,8 @@ x/
 
   With good wishes, I am, very truly yours,
 
-/x
                                                        JNO. D. ARCHBOLD.
-x/
-#/
+
 
 These sums are called “subscriptions,” but their real character appears
 from the case of the _Southern Farm Magazine_, the price of which is
@@ -1969,13 +1827,9 @@ of Mr. Thomas P. Grasty, that publicist of such a “helpful” character.
 
 
 
-/#
   “The Oil Trust is evangelical at one end and explosive at the other.”
 
-/R
                     HENRY D. LLOYD _in_ “_Wealth against Commonwealth_.”
-R/
-#/
 
 
 
@@ -2034,7 +1888,6 @@ company for three months, when the latter abandoned the route and set
 its pipes seventy miles back to a place called Athens, Pa. The case for
 the United States Government in the Missouri prosecution says:--
 
-/#
   The obstruction came in part directly from the agents of the Standard
   Oil Company and partly from the railroads, but there is every reason
   to believe that the railroads were acting in the interests of the
@@ -2042,14 +1895,12 @@ the United States Government in the Missouri prosecution says:--
   injured by the pipe line, and as they had (so far as the evidence
   shows) never opposed the construction of pipe lines by the Standard
   Oil Company.
-#/
 
 I select another case from the year 1895, when the United States
 Pipe Line was getting in through the State of New Jersey to New York
 harbour. The account of it may be best given in the words of the United
 States Attorney-General’s brief in the Missouri case:--
 
-/#
   When the Delaware, Lackawanna, and Western Railroad was reached at
   Washington, N.J., serious opposition was again encountered. The
   pipe line company bought the fee simple title to land at a point
@@ -2065,7 +1916,6 @@ States Attorney-General’s brief in the Missouri case:--
   Lackawanna, and Western Railroad in the trouble at Washington, N.J.
   After a delay of six months the lower Court decided in favour of the
   right of the pipe line to cross the tracks.
-#/
 
 In 1879 the owners of the Vacuum Oil Works, of Rochester, N.Y., Messrs.
 H. B. and C. M. Everest, father and son, made over a three-fourths
@@ -2087,7 +1937,6 @@ Truesdale afterwards testified as follows in regard to this interview
 (Proceedings in Relation to Trusts, House of Representatives, 1888,
 Report No. 3,112, p. 864):--
 
-/#
   I told him (Miller) that I did not know the exact terms of his
   contract, but if he had entered into a contract and violated it
   I presumed there would be a liability for damages as well as a
@@ -2107,7 +1956,6 @@ Report No. 3,112, p. 864):--
   to the fact that I had been police justice, had some experience in
   criminal law--and he said that he would like to have me look up the
   law carefully on that point, and that they would see me again.
-#/
 
 Shortly afterwards Miller blew up a still in the Buffalo works twice
 over by overheating, but did no further damage beyond spoiling the
@@ -2191,13 +2039,11 @@ of the States. Just to show how the thing works, here is a typical
 letter received by a retailer who has been caught ordering oil from an
 independent, and has been “persuaded” to countermand the order:--
 
-/#
-/x
+
                                               DES MOINES, IOWA,
                                                      _January 14, 1891_.
 
   John Fowler, Hampton, Iowa.
-x/
 
   DEAR SIR,--Our Marshallstown manager, Mr. Ruth, has explained the
   circumstances regarding the purchase and subsequent countermand of
@@ -2216,21 +2062,17 @@ x/
   in every way, and would kindly ask you to keep this letter strictly
   confidential.
 
-/x
                                                     Yours truly,
                                                             E. P. PRATT.
-x/
-#/
+
 
 Another typical example of Standard methods is revealed in the
 following letter addressed to the Independent Oil Company, of
 Mansfield, Ohio, by one of its customers:--
 
-/#
-/x
+
                                                TIFFIN, OHIO,
                                                      _January 24, 1898_.
-x/
 
   DEAR SIRS,--I am sorry to say that a Standard Oil man from your city
   followed that oil car and oil to my place, and told me that he would
@@ -2244,11 +2086,9 @@ x/
   a carload. Two carloads coming in here inside of a week is more than
   the other company will stand....
 
-/x
                                                     Yours truly,
                                                            H. A. EIRICK.
-x/
-#/
+
 
 Chess, Carley & Co., the Standard marketing agents at Louisville,
 Kentucky, are big offenders in this respect. The late Mr. George Rice,
@@ -2258,7 +2098,6 @@ Chess, Carley & Co. would sell to him at. Armstrong mentioned the offer
 to the latter, and “was scared almost out of his boots,” wrote Rice’s
 agent.
 
-/#
   Carley told him, continues the agent, “he would break him up if he
   bought oil of any one else; that the Standard Company had authorised
   him to spend $10,000 to break up any concern that bought oil from any
@@ -2267,7 +2106,6 @@ agent.
   per cent. below Armstrong’s prices, and turn all Armstrong’s trade
   over to Moore, Bremaker & Co., and settle with Moore, Bremaker & Co.
   for their losses in helping to break Armstrong up, every thirty days.”
-#/
 
 The Waters-Pierce Oil Company, the Standard’s Texas and Mexico branch,
 are equally bad, and their methods are denounced by their customers in
@@ -2314,15 +2152,11 @@ very cheap line of damnation.
 
 
 
-/#
   “The very rich are just like all the rest of us; and if they get
   pleasure from the possession of money it comes from their ability to
   do things which give satisfaction to some one besides themselves.”
 
-/R
                       JOHN D. ROCKEFELLER _in_ “_Random Reminiscences_.”
-R/
-#/
 
 
 
@@ -2403,7 +2237,6 @@ company, posing as an independent oil company and offering these
 “premiums.” Then came the delicate question as to who owned it! Here is
 an extract from Mr. Archbold’s cross-examination:--
 
-/#
   _Q._ Do you know the General Industrials Development Syndicate,
   Limited, of London?
 
@@ -2447,7 +2280,6 @@ an extract from Mr. Archbold’s cross-examination:--
 
   _A._ I may, in connection with this firm. I don’t even recall the
   names now.
-#/
 
 Mr. Kellogg, counsel for the United States Government, pointed out
 that the New York books of the Anglo-American Oil Company Ltd., of
@@ -2464,7 +2296,6 @@ Company in New York could tell why their London branch did this, and
 Mr. Archbold did not even know whether the loan had been repaid! He was
 still more pointedly questioned about the matter:--
 
-/#
   _Q._ Isn’t it a fact, Mr. Archbold, that the Standard Oil Company, or
   some of its companies, indirectly owns the Industrials Development
   Syndicate, Limited, and organised it?
@@ -2498,7 +2329,6 @@ still more pointedly questioned about the matter:--
   English company was?
 
   _A._ No, not beyond that.
-#/
 
 The last question of counsel is a sufficient commentary in itself
 on Mr. Archbold’s pretended ignorance of the General Industrials
@@ -2544,7 +2374,6 @@ shareholders in each case contains some remarkable resemblances. In
 the case of the General Industrials Development Syndicate it was as
 follows:--
 
-/x
                                                            Shares.
   Henry Hassall, 32, Dartmouth Park Road                         1
   E. G. Flower, Elm Villa, Elm Road, Sidcup                      1
@@ -2559,12 +2388,10 @@ follows:--
   Arthur Statham Jecks   ⎭
                                                            -------
                                                            400,000
-x/
 
 Turning to the London Commercial Trading Company, we find the following
 names:--
 
-/x
                                                            Shares.
   Henry Hassall, 5, Florence Road, Finsbury Park                 1
   E. G. Flower, 279, High Road, Lee                              1
@@ -2579,12 +2406,9 @@ names:--
   Arthur Statham Jecks   ⎭
                                                            -------
                                                            722,509
-x/
 
-/#
   (On February 23, 1904, 2,493 more shares were allotted to Messrs.
   Budd, Johnson and Jecks, making up the total capital of £725,000.)
-#/
 
 It must be understood, of course, that the appearance of the names of
 English lawyers in these lists neither conveys any reflection of any
@@ -2625,7 +2449,6 @@ to him in New York he said the General Industrials were “in the oil
 business, but wished to purchase a going company, with wells, and land,
 and cars, and pipe lines.”
 
-/#
   _Q._ And refineries?
 
   _A._ Refineries.
@@ -2638,18 +2461,15 @@ and cars, and pipe lines.”
   _Q._ Do you know?
 
   _A._ No, I do not know that they did.
-#/
 
 One other remarkable feature about this General Industrials Company may
 be mentioned. Mr. Brady produced at this trial the following cable that
 he received:--
 
-/#
   August 31, 1899, London. To A. N. Brady, 54, Wall Street,
   N.Y.--Syndicate accepts options. John H. Cuthbert, its agent,
   will call on you to arrange details and payment. He has full
   authority.--JOHNSON.
-#/
 
 This was signed by Mr. Herbert W. Johnson, the London solicitor, who,
 with the assistance of several other solicitors, a barrister, and an
@@ -2660,7 +2480,6 @@ was “the nigger in the wood-pile.” It is his presence that finally
 When Mr. J. D. Archbold was first questioned about Mr. Cuthbert he was
 as forgetful as ever:--
 
-/#
   Who was Mr. Cuthbert? Do you know him?
 
   _A._ I knew a Mr. Cuthbert.
@@ -2689,12 +2508,10 @@ as forgetful as ever:--
   _A._ He may have been earlier, away back. I do not remember
   distinctly. I am inclined to think that he was--in the earlier
   years--employed by one of our companies.
-#/
 
 After the luncheon adjournment on the same day, however, Mr. Archbold’s
 memory somewhat improved:--
 
-/#
   _Q._ Isn’t it a fact that Mr. John H. Cuthbert was the Standard’s
   representative in the Tide Water Company as director?
 
@@ -2706,21 +2523,18 @@ memory somewhat improved:--
   Standard Oil Company as a director in the Tide Water Company?
 
   _A._ I think he was there as a servant of the business.
-#/
 
 The truth about Mr. John H. Cuthbert’s position in relation to the
 Standard Oil Trust is clearly shown by the following extract from
 the Report of the United States Commissioner of Corporations on the
 Petroleum Industry (Part I. page 54):--
 
-/#
   About the same time (1881) Standard interests succeeded in acquiring
   a minority interest in the Tide Water Company’s stock. This move,
   coupled with the continual hostility of the railroads, led to a
   virtual surrender of the Tide Water interests, and an agreement was
   reached in 1883 by which they substantially became, and have since
   remained, _a part of the Standard Oil system_.
-#/
 
 To sum up the history of this General Industrials Development
 Syndicate, we have an American oil company sold to a London company
@@ -2748,7 +2562,6 @@ Commercial Trading Company, that conclusion is strengthened still more.
 
 
 
-/#
   “From controlling the production and sale of oils, it was but a
   natural progression to rise to the control of legislatures, judges,
   and the executives of the State and Federal Governments. Members,
@@ -2756,10 +2569,7 @@ Commercial Trading Company, that conclusion is strengthened still more.
   ministers of the Supreme Administration in Washington. They have had
   Presidents of the Republic at their beck and call.”
 
-/R
                                               _Investors’ Review_, 1897.
-R/
-#/
 
 
 
@@ -2831,7 +2641,6 @@ in Albany, and Craven forwarded them to Mason. Most of the letters sent
 by Mason in reply were on plain paper and unsigned, but not all. In one
 which is signed, and which was exhibited in court, Mason says:--
 
-/#
   I have your various letters.... Our salesman who visits Oneonta knows
   nothing whatever of who you are, nor does any one except those you
   saw in our office, and under no circumstances whatever do we want
@@ -2845,7 +2654,6 @@ which is signed, and which was exhibited in court, Mason says:--
   it up, for some person might get hold of the pieces of paper and put
   them together, but if you burn it with a match, then it is out of the
   way wholly....
-#/
 
 A further advance in Farrell’s commercial education and moral
 edification took place six months after the Oneonta episode. The poor
@@ -2920,7 +2728,6 @@ all by Mr. J. D. Archbold’s admissions under cross-examination in
 the Missouri case. Here is the official record of evidence on these
 points:--
 
-/#
   _Q._ The Standard Oil Company did not discover the process at all,
   did it?
 
@@ -2973,7 +2780,6 @@ points:--
   Cincinnati, Ohio, from petroleum products?
 
   _A._ If it was I never heard of it. I did not know of it.
-#/
 
 Such being the Standard Oil people’s methods of dealing with their
 neighbours, how have their neighbours dealt with them? The plain answer
@@ -3028,15 +2834,11 @@ and is now expected to be decided in a few weeks.
 
 
 
-/#
   “I know of nothing more despicable and pathetic than a man who
   devotes all the waking hours of the day to making money for money’s
   sake.”
 
-/R
                       JOHN D. ROCKEFELLER _in_ “_Random Reminiscences_.”
-R/
-#/
 
 
 
@@ -3171,7 +2973,6 @@ transfer it to tank cars. In 1898 the late Mr. Henry D. Lloyd, author
 of “Wealth Against Commonwealth,” wrote as follows to the present
 writer with regard to these discriminations:--
 
-/#
   My information came direct from the attorney of one of the principal
   Canadian refiners. This refiner carried on his business with my book
   at his elbow, and he told his attorney that precisely the things that
@@ -3186,7 +2987,6 @@ writer with regard to these discriminations:--
   appeals to the railroad people in Canada to remedy the wrong, but
   found them as determined to favour the American Trust as railroads in
   the United States.
-#/
 
 Finally the Standard clinched the matter by purchasing a Canadian
 refinery, which it runs as the Imperial Oil Company, a nice patriotic
@@ -3205,7 +3005,6 @@ with commendable bluntness and candour by Mr. Robinson, British Consul
 at Amsterdam, in his annual report for the year 1897 (Foreign Office
 Consular Reports, No. 2,054). He says:--
 
-/#
   At present a very important question has been raised by the attempt
   of the well-known American monopolist undertaking, the Standard
   Oil Company, to acquire a footing in the Dutch East Indies by the
@@ -3225,7 +3024,6 @@ Consular Reports, No. 2,054). He says:--
   Oil Company’s monopoly, in so far as this inflicts on this country
   all the dangers and disasters caused by an exclusive supply of
   low-flashing oil, is a constantly increasing one.
-#/
 
 The result was that the Moeara Enim Company were unable to sell, and
 the Standard has never been able to get into the Dutch Indies. Worse
@@ -3338,7 +3136,6 @@ the Bengal Chamber of Commerce to support his little scheme against the
 Indian Government. The correspondent gives us a pretty picture of Mr.
 Libby’s virtuous protestations:--
 
-/#
   The representative of the Standard Oil Company seems to wish the
   Bengal Chamber of Commerce to believe that the motives of his
   Company were not wholly mercenary--that, on the other hand, they
@@ -3354,7 +3151,6 @@ Libby’s virtuous protestations:--
   products, and by distributing the said products in India and other
   Oriental markets, where aggressive efforts might largely increase
   existing consumption.”
-#/
 
 We know, of course, that the Standard has always been willing to
 encourage other people to undertake the risks of oil-well sinking,
@@ -3378,15 +3174,13 @@ decreased from £241,128 to £189,362.
                      RUSSIA, GALICIA, AND ROUMANIA
 
 
-/#
+
+
   “One of our greatest helpers has been the State Department in
   Washington. Our ambassadors and ministers and consuls have aided to
   push our way into new markets to the utmost corners of the world.”
 
-/R
                       JOHN D. ROCKEFELLER _in_ “_Random Reminiscences_.”
-R/
-#/
 
 
 
@@ -3423,19 +3217,16 @@ the British directors of the Suez Canal Company to prevent the transit
 of bulk oil. Lord Salisbury asked them for whom they were acting, and
 received this very significant reply:--
 
-/#
   In view of the opposing commercial interests engaged, and the fact
   that the true promoters of bulk transit have not yet declared
   themselves, we respectfully submit that without pleading the
   privilege of our profession it would be imprudent on our part to
   permit our clients to disclose their names.
-#/
 
 In the reply which the British directors of the Suez Canal Company
 forwarded to Lord Salisbury, this coyness on the part of the Standard
 was thus commented on:--
 
-/#
   They decline to give your lordship any clue for the present as to
   the names of their clients, but an expression in their letter of
   November 10th, which describes the passage of petroleum in bulk
@@ -3445,7 +3236,6 @@ was thus commented on:--
   interests they appear to think may be damaged by facilities being
   given for the more economical conveyance of petroleum by these tank
   ships.
-#/
 
 The Foreign Office then informed Messrs. Russell and Arnholz that
 Her Majesty’s Government could not take action in the direction
@@ -3472,10 +3262,8 @@ tank steamers. While this gentleman was still in Egypt Sir Marcus
 Samuel artfully published in the _Times_ an extract from a paper Mr.
 Redwood read to the Institution of Civil Engineers, in which he said:--
 
-/#
   The tank storage of kerosene oil has undoubtedly a great advantage
   over barrel or case storage in the event of fire.
-#/
 
 Mr. Redwood was thus rather neatly cornered, for he had to admit in his
 report that this statement was still true. So he had to lay the chief
@@ -3484,13 +3272,11 @@ experience of nearly twenty years has proved to be a very trifling
 risk. The directors of the Suez Canal Company took a very accurate
 measure of this report when they replied:--
 
-/#
   Without entering into the question whether the work of Sir F. Abel
   and Mr. Boverton Redwood is not merely a criticism of our regulations
   _bearing too exclusively the impression of the anxiety of parties
   interested in the present mode of transporting petroleum to the
   East_, we, &c.
-#/
 
 After this the agitation fizzled out, and the transport of oil in
 bulk still continues. The subject was referred to at the Institution
@@ -3499,14 +3285,12 @@ Flannery invited Mr. Boverton Redwood to state how his prophecies on
 the carriage of bulk oil through the Canal had been fulfilled. Mr.
 Redwood replied thus (_Proceedings Inst. C.E._, vol. cxvi. p. 250):--
 
-/#
   He could only say that if, _as appeared to be the case_, the
   transport of petroleum through the canal had been going on with
   entire absence of anything approaching to an accident, he was very
   glad to hear it. He did not know, however, that that was to be taken
   as absolute proof that no risk existed. Time alone, and a longer time
   than had as yet elapsed, would demonstrate that.
-#/
 
 Nearly twenty years have now elapsed; the Standard Oil Trust itself has
 tank steamers which convey oil through the Canal, and Mr. Henry in his
@@ -3576,7 +3360,6 @@ was an enormous production in 1908, but the State railways could not
 use the raw oil in its locomotives until the benzine was extracted.
 This is our Consul’s narrative (p. 15):--
 
-/#
   The Producers’ Association, however, had not the capital to build the
   necessary works for this process or the new reservoirs required, and
   at this stage the Standard Oil Company of America saw an opportunity
@@ -3610,7 +3393,6 @@ This is our Consul’s narrative (p. 15):--
   on the part of the trade because they rendered the middleman
   superfluous, and there is little doubt that the Ministry will not
   give the permission required.
-#/
 
 The _Times_ Vienna correspondent on September 14, 1910, reported
 further developments of this war against the Standard. It appears
@@ -3621,7 +3403,6 @@ sort of unconfessed relationship with the Vacuum Oil Company,” and the
 _Times_ correspondent tells us how the Rockefellers have been forced to
 swallow their favourite medicine. He writes:--
 
-/#
   The object of the Standard Oil and its affiliated companies in
   Austria (as in other countries) is to obtain control of the Galician
   oil-fields, which are worked chiefly by a large number of Austrian
@@ -3638,7 +3419,6 @@ swallow their favourite medicine. He writes:--
   Standard Oil Company a byword in the United States. The tactics of
   the Austrian authorities are as indefensible, or as defensible, as
   are those of the Standard Oil Company.
-#/
 
 The Standard did not enjoy railroad discriminations applied to itself,
 and it not only made unavailing representations to the Austrian
@@ -3646,12 +3426,10 @@ Government through the United States Minister at Vienna, but, acting
 through the French shareholders in the Limanova Company, they induced
 the French Minister to remonstrate with Austria.
 
-/#
   These representations having produced little effect, the French
   Government is now stated to be about to adopt measures of
   retaliation, and to impose a prohibitive tariff upon Austrian
   petroleum imported into France.
-#/
 
 In order to help the Standard Oil Trust to crush out the Galician
 oil industry, the French consumer was to pay more for the petroleum
@@ -3726,16 +3504,12 @@ the Shell-Royal-Dutch combine.
 
 
 
-/#
   “We are always short of men to do the things we want to do--young men
   who are honest and therefore loyal, men to whom work is a pleasure;
   above all, men who have no price but our price. To such men we can
   afford to give the only things they have not got--power and money.”
 
-/R
                  H. H. ROGERS _to T. W. Lawson in_ “_Frenzied Finance_.”
-R/
-#/
 
 
 
@@ -3821,7 +3595,6 @@ These personal actions appear to be still pending, but the action
 instituted by the Public Prosecutor was carried as far as a judgment,
 of which the following is a translation:--
 
-/#
   Record Number: F. IV., 360/10.
 
 
@@ -3838,7 +3611,6 @@ of which the following is a translation:--
   The preliminary inquiry was opened against the accused on his
   appearing suspect at Hamburg and elsewhere--
 
-/#
     1. Of having in the years 1906–08, in conspiracy with the merchant
     E. O. Wader, now absent, defrauded the State Electrical Works at
     Kiel of 2,826 marks 5 pfennigs by delivering to the works, instead
@@ -3853,7 +3625,6 @@ of which the following is a translation:--
     descriptions “Etna” and “Fusoline,” quoted in the price-list at
     44 marks per 100 kilos, whereas the two latter descriptions are
     identical with the two former respectively.
-#/
 
   As to the charge of fraudulent conspiracy to the detriment of the
   Kiel Electrical Works, it has not been proved that the accused
@@ -3891,22 +3662,17 @@ of which the following is a translation:--
   Engine E and F,” and greater risk encountered by the users of these
   two brands.
 
-/x
   Hamburg, May 30, 1910.
 
                             The Landgericht, Second Criminal Chamber,
                                      (_Signed_) GOSLICH, LOHMEYER, SICK.
-x/
 
   For the correctness of the copy:
 
-/x
   Hamburg, July 9, 1910.
 
                                   The Chancery of Public Prosecution,
                                         (_Signed_) Voss, Chancery Clerk.
-x/
-#/
 
 It will be seen at once that the judgment exculpates Mr. Quarles
 personally, but obviously inculpates the German Vacuum Oil Company, by
@@ -3924,7 +3690,6 @@ Standard Oil subsidiaries. Here is the text of an affidavit made by
 Mr. Hans Schnell, who had formerly been a representative of the German
 Vacuum Oil Company:--
 
-/#
   I, the undersigned, hereby declare and am ready to testify on oath
   that from September 15, 1906, to March 31, 1908, I was in the employ
   of the German Vacuum Oil Company of Hamburg, as representative for
@@ -3943,23 +3708,18 @@ Vacuum Oil Company:--
   I had to call on I would have had scarcely any new orders, and would
   have lost the old business connection.
 
-/x
   Dresden, November 4, 1909.
 
                                                 (_Signed_) HANS SCHNELL.
-x/
 
   The above signature of Mr. Hans Schnell, Wilhelmruh, near Berlin,
   merchant, was done in my presence, and I hereby officially certify
   that it is genuine.
 
-/x
   Dresden, November 5, 1909.
 
                                 (_Signed_) HORST VON MUELLER-BERNECK,
                                             Royal Saxon Notary, Dresden.
-x/
-#/
 
 In further illustration of Mr. Mié’s efforts, Herr F. Hildebrandt
 publishes a photographed bill of expenses incurred by that gentleman in
@@ -3971,7 +3731,6 @@ many working engineers select the Vacuum oils, when no chemical test
 known to science will indicate any superiority. Its translation is as
 follows:--
 
-/x
                                                         M.
   Evening with Mr. Pampel and Obersteiger Hohner        42
   Evening with Mr. Mié                                  28
@@ -3991,7 +3750,6 @@ follows:--
   Cash, Mr. Hortenbach                                  20.00
                                                        ------
                       Total                         M. 309.25
-x/
 
 Mr. Hortenbach seems to have taken a good deal of lubricating.
 Apparently his machinery remained immovable under the influence of
@@ -4016,12 +3774,9 @@ Mr. Hildebrandt also publishes a letter on this subject from one of the
 Vacuum Oil Company representatives, which seems to have attracted some
 attention in Kiel:--
 
-/#
-/x
                                               KIEL, _November 12, 1903_.
 
   The German Vacuum Oil Company, Hamburg.
-x/
 
   I beg to acknowledge receipt of yours of the 10th of this month, the
   contents of which I note. With reference to my expenditure as your
@@ -4032,11 +3787,8 @@ x/
   cannot remember them now, but they will be found in my memoranda of
   extra expenses.
 
-/x
                                                      Yours truly,
                                                               HUGO COHR.
-x/
-#/
 
 The Vacuum Oil people have always liked to be on good terms with the
 engineer the actual mechanic who has to see to the application of the
@@ -4062,12 +3814,10 @@ strikes me as remarkable. The Company, however, also took occasion to
 state that it never put any employee into its selling business except
 on a contract containing this passage:--
 
-/#
   You pledge yourself in dealing with the employees of our customers
   most carefully to abstain from any transaction that has even the
   appearance of corrupt influence. Any action contrary to this
   regulation is a special reason for instant dismissal.
-#/
 
 But Mr. Hildebrandt unkindly suggests that this is only another way of
 saying “Don’t nail his ears to the pump.” He also says that after the
@@ -4136,14 +3886,12 @@ for the latter.
                   THE TRUST’S “TIED HOUSES” IN ENGLAND
 
 
-/#
+
+
   “According as you put something into the Church or the Sunday-school
   work the greater will be your dividends of salvation.”
 
-/R
                        JOHN D. ROCKEFELLER _in a Sunday-school address_.
-R/
-#/
 
 
 
@@ -4201,11 +3949,9 @@ Andrews (John D. Rockefeller’s first partner). When he returned Mr.
 Redwood was the bearer of a letter from Mr. Wm. Rockefeller, dated
 December 19, 1877, couched in the best Standard Oil vein:--
 
-/#
   It is our desire to furnish at all times refined oil that will
   be acceptable to the trade of all countries. It is our wish and
   intention that our products shall always reach the highest excellence.
-#/
 
 Whatever their wish might be, the prospect of making more money proved
 too strong for these philanthropists, and complaints continued from
@@ -4220,7 +3966,6 @@ or hard lamp-wicks. This great discovery was too much even for Mr.
 Redwood, who has never been a harsh critic of the Standard Oil Trust
 methods. He thus reported:--
 
-/#
   In conclusion, I desire to record as strongly as possible my
   individual opinion that in their own interest the American refiners
   should forthwith institute such arrangements as will ensure
@@ -4233,7 +3978,6 @@ methods. He thus reported:--
   mineral burning oil in this country, and they will find it necessary
   to pay much greater attention than heretofore to the quality of the
   oil they manufacture.
-#/
 
 As an impartial testimony to the then quality of the Standard’s
 illuminating oils and the wonderful processes of manufacture which
@@ -4290,7 +4034,6 @@ which is the central address of the Standard:--
 
                          AMERICAN SHAREHOLDERS.
 
-/x
                                                               Shares.
   H. M. Flagler and J. D. Archbold                             10,239
   John D. Rockefeller                                           6,867
@@ -4341,22 +4084,18 @@ which is the central address of the Standard:--
   A. J. Pouch                                                       1
   T. C. Bushnell                                                    1
   Livingston Roe                                                    1
-x/
 
 
                           LONDON SHAREHOLDERS.
 
-/x
   Frank E. Bliss                                                    1
   James Macdonald                                                   1
   J. H. Usmar                                                       1
   W. A. Hawkins                                                     1
-x/
 
 There have been various changes in the share list, and on June 30,
 1910, the following were the principal shareholders:--
 
-/x
                                                               Shares.
   Standard Oil Company of New Jersey                           49,993
   Trustees Standard Oil Trust                                       1
@@ -4368,7 +4107,6 @@ There have been various changes in the share list, and on June 30,
   William E. Bemis, 26, Broadway, New York                          1
                                                                ------
                                                                50,000
-x/
 
 The capital of the Company was at that date £1,000,000 in £20 shares.
 It is worthy of notice that in 1907–8, at a period when Mr. Roosevelt
@@ -4398,7 +4136,6 @@ for other oil than Standard, since, although there were independent
 dealers in Liverpool, they had for several years a “selling agreement”
 with the Anglo-American Oil Company. Then came these answers:--
 
-/#
   The Chairman: I want to know what there is to prevent you importing
   oil into Liverpool in competition with the Anglo-American Oil Company?
 
@@ -4417,7 +4154,6 @@ with the Anglo-American Oil Company. Then came these answers:--
   _A._ No, it is not an increasing importation; it is not, certainly.
   Of course the Anglo-American Company are getting the whole business
   practically (Report and Evidence, 1897, Q. 4,834).
-#/
 
 This is how an “independent” oil merchant talked of the colossal power
 of the Standard Oil Trust at that date, and their influence extended
@@ -4438,7 +4174,6 @@ the members of his association objected to the Anglo-American Company
 supplying so small a quantity as five gallons to small shops which had
 formerly been supplied by the small wholesaler. He went on:--
 
-/#
   In the first instance, when the Anglo-American put their tanks on the
   ground they gave us their word that no less a quantity than twenty
   gallons would be delivered, but when they found that the retail
@@ -4450,7 +4185,6 @@ formerly been supplied by the small wholesaler. He went on:--
   small wholesale business, and that is why they [his association] are
   objecting to the delivery of anything less than ten gallons of oil
   (Report and Evidence, 1897, Q. 6,052).
-#/
 
 But some of the wholesalers, especially where in the provinces they had
 built up a good business which it would be difficult for the Standard
@@ -4460,7 +4194,6 @@ Mr. M‘Killop, M.P., at the same committee from Mr. Geo. Base, a large
 “independent” oil dealer of Norwich, who had come up to give evidence
 in support of the Standard’s views against raising the flash-point:--
 
-/#
   Mr. M‘Killop, M.P.: Have you any freedom to use any class of oil you
   like?--We prefer American oil. In fact, we have dealt in nothing else.
 
@@ -4513,7 +4246,6 @@ in support of the Standard’s views against raising the flash-point:--
   So that a great number of people enter into the same kind of
   agreement, apparently?--No, I think not. Of course, I have no
   personal knowledge (Report and Evidence, 1897, Q. 3,475 _et seq._).
-#/
 
 We have only to read the evidence of Mr. Leonard and Mr. Rigby, and the
 American evidence already given, to understand why these “tied houses”
@@ -4571,18 +4303,16 @@ Standard monopolist tactics, but that on the whole they hold their own.
                         THE FLASH-POINT SCANDAL
 
 
-/#
+
+
   “The flash-point of 73 deg. was badly founded, because it is the
   flash-point of a substance which is being burned at temperatures
   commonly above 73 deg., and, therefore, you are dealing in every lamp
   so used with an oil beneath your flame which is in a condition of
   danger.”
 
-/R
                                              PROFESSOR ATTFIELD, F.R.S.,
                            _Select Committee on Petroleum, 1896 Report_.
-R/
-#/
 
 
 
@@ -4626,7 +4356,6 @@ Abel tester. What followed is succinctly narrated by Mr. Ure, K.C.,
 M.P. (now the Lord Advocate), in his draft report presented to the
 Petroleum Committee (1898 Report, p. xxxvi):--
 
-/#
   The Report [of the three chemists] was accepted by the Home Office
   and the standard and test were embodied in the Notices of Motion and
   Orders of the Day for the 8th of June, 1868. A week later it will
@@ -4654,7 +4383,6 @@ Petroleum Committee (1898 Report, p. xxxvi):--
   that the test was far less stringent than that prescribed by the
   three chemists, that it would be a fertile source of disputes, and
   that the public would not be protected.
-#/
 
 That 100 deg. flash-point, with the inaccurate tester of the Petroleum
 Association, went into the Act of 1868, and the mischief was done. But
@@ -4676,7 +4404,6 @@ new and accurate timekeeper and then purposely put it back 27 minutes.
 The history of this bureaucratic juggle was effectively summarised by
 Mr. Ure in the House of Commons, March 15, 1899:--
 
-/#
   In 1862 there was a correct flash-point (100 deg.) fixed, and no
   tester for ascertaining it.
 
@@ -4688,24 +4415,20 @@ Mr. Ure in the House of Commons, March 15, 1899:--
 
   Now we demand a correct flash-point (100 deg.) and a correct means of
   finding it out.
-#/
 
 To this day all petroleum which flashes at 73 deg. Fahr. in the Abel
 tester is subject to no restrictions of any kind, and lamp accidents
 and oil fires have carried off hundreds of lives since 1879. Lord
 Kelvin, surely a high authority, said to the Select Committee in 1906:--
 
-/#
   It seems to me that the logical outcome of Sir Frederick Abel’s work
   ought to have been to declare that the 100 deg. test in force in the
   1871 Act must be fulfilled by a proper close test. I cannot think how
   Sir Frederick Abel dropped from 100 deg. to 73 deg.
-#/
 
 Professor Silvanus P. Thompson, in his “Life of Lord Kelvin” (vol. ii.
 p. 962), tells us:--
 
-/#
   Lord Kelvin felt strongly on this question. In 1868 an open test-cup
   was legalised which in practice proved to be erroneous to an average
   extent of 27 degrees. In other words, oil which was actually giving
@@ -4714,7 +4437,6 @@ p. 962), tells us:--
   increased owing to the introduction of cheap low-flash oils. In spite
   of this, in 1879, when a new and more efficient test was adopted, the
   flash-point was by a scandalous manœuvre reduced to 73 deg.
-#/
 
 It is interesting to recall that in the experiments which Sir
 Frederick Abel made during the period when the Abel tester and the
@@ -4736,7 +4458,6 @@ in this matter appears from a memorandum of July 18, 1878, in which he
 gives his reasons for supporting the reduction of the flash-point from
 100 deg. to 73 deg. In it he wrote:--
 
-/#
   The figure is one to which the Petroleum Association, _the body
   really interested_, are prepared to assent, and although the Scottish
   Mineral Oil Association desire a higher flashing-point, it is really
@@ -4745,7 +4466,6 @@ gives his reasons for supporting the reduction of the flash-point from
   trade rivals (the Petroleum Association). I think, therefore, that
   as the matter cannot be usefully carried further, the Abel test of 73
   deg. Fahr. flashing-point should be accepted.
-#/
 
 Mr. Redwood was at this period the paid secretary of the Petroleum
 Association, and had returned only six months before from his American
@@ -4766,14 +4486,12 @@ their own efforts to give the public confidence in them.
                   THE ROCKEFELLERS AND THE HOME OFFICE
 
 
-/#
+
+
   “You have been in politics long enough to know that no man in public
   office owes the public anything.”
 
-/R
                       SENATOR MARK HANNA _to the Ohio Attorney-General_.
-R/
-#/
 
 
 
@@ -4796,7 +4514,6 @@ that there was one subject the pair did _not_ inquire into. It appears
 in Colonel Majendie’s examination before the Select Committee on
 Petroleum by Captain Hope (Report and Evidence, 1894, Q. 206–212):--
 
-/#
   _Q._ Are you aware that in Scotland, where Scotch oil has been mostly
   in use, there have hitherto been very few fires or lamp accidents?
 
@@ -4808,7 +4525,6 @@ Petroleum by Captain Hope (Report and Evidence, 1894, Q. 206–212):--
   the question of the frequency of lamp accidents?
 
   _A._ _Not lamp accidents, I think, at all._
-#/
 
 While this surprising omission was occurring lamp accidents continued
 to go up. In London they rose from 45 in 1873 to 271 in 1890. In that
@@ -4822,7 +4538,6 @@ in 1877 it was the bad wicks; now, in 1890, it was the bad lamps.
 The objections to attempting to secure immunity from petroleum lamp
 accidents by any lamp law are these:--
 
-/#
   1. Nobody has yet guaranteed any absolutely safe lamp.
 
   2. Nobody can guarantee that a safe lamp will remain safe in wear,
@@ -4831,7 +4546,6 @@ accidents by any lamp law are these:--
   3. In both Scotland and America, where petroleum is produced and
   refined, the remedy has been sought, not in a lamp law, but in
   raising the flash-point.
-#/
 
 While the British officials were chasing the lamp-law will o’ th’ wisp
 Mr. Rockefeller was sending over here petroleum oil which could not
@@ -4854,7 +4568,6 @@ sufficiently high for public safety. The most remarkable thing about
 his evidence was the damaging admissions he was compelled to make,
 which gave away his whole case. Here are two:--
 
-/#
   In my opinion a considerable proportion of the lamp accidents which
   occur would not happen if only oil of 120 deg. or even 100 deg. Abel
   test were used (Q. 1,824, 1896 Blue Book).
@@ -4862,7 +4575,6 @@ which gave away his whole case. Here are two:--
   Undoubtedly in a sense the higher the flashing-point the safer the
   oil, and from that point of view oil of 100 deg. flashing-point must
   be safer than oil of 73 deg. flashing-point (Q. 1,893).
-#/
 
 Another very entertaining Standard Oil witness was Professor C. F.
 Chandler, of New York, who explained that he had been coming to Europe
@@ -4871,13 +4583,11 @@ against raising the flash-point. He gave that evidence, and was
 confronted with this passage in a report he made to the New York State
 Board of Health in 1871:--
 
-/#
   There is a strong inducement to turn the heavier portions of the
   naphtha into the kerosene tank so as to get for it the price of
   kerosene. It is therefore the cupidity of the refiner that leads him
   to run as much benzine as possible into the kerosene, regardless of
   the frightful consequences of the frequent explosions.
-#/
 
 As this was exactly what the Standard was doing, this was rather
 awkward for the Professor, but he cynically explained that it was “a
@@ -4898,12 +4608,10 @@ are two big orange-coloured barrels, and the words “White Rose American
 Lamp Oil.” Inside there is an artless panegyric on “White Rose,” of
 which we are told:--
 
-/#
   Its fire test is so high as to make it the safest petroleum lamp oil
   in the world. Explosion is guarded against and families can burn
   White Rose Oil with the same assurance of safety as they can gas ...
   a really safe and reliable illuminant, &c.
-#/
 
 Of course, all this clearly proved that the Anglo-American Oil Company,
 whatever it might say at Westminster, did not believe in Billiter
@@ -4927,18 +4635,14 @@ represented the Russian Government and the Russian petroleum industry),
 and Dr. Hermann Kast (of Karlsruhe), all denouncing the 73 deg.
 flash-point and advocating its being raised. Sir Henry Roscoe said:--
 
-/#
   I think that Americans send over so much mixed oil of the character
   of this “Tea Rose” oil _only became our flash-point is so low_.
-#/
 
 Lord Kelvin told the Select Committee:--
 
-/#
   I am clearly of opinion that in order to avoid accidents the
   flash-point must be raised, and that no construction of lamp will
   meet the difficulty.
-#/
 
 The Select Committee at last reported in favour of raising the
 flash-point, and an agitation started by the _Star_ newspaper in
@@ -4987,18 +4691,15 @@ rebuke from that cautious journal the _Spectator_ on the occasion of
 the debate upon the Flash-point Bill. Writing on March 25, 1899, my
 contemporary observed:--
 
-/#
   The decision as to the proper flash-point for mineral oils really
   involved a possible monopoly of the supply of safe oils, a monopoly
   worth many millions, and the signs of excited personal and pecuniary
   interest in the lobbies were noticed by many observant members of
   Parliament.
-#/
 
 It declared that the practice of “lobbying” tended to “grow into a
 peculiarly subtle and dangerous form of corruption”:--
 
-/#
   It has so grown both in America and France, and it may grow here.
   What with the tendency to create monopolies, the incessant variations
   of the tariff in some great States, and the masses of capital at
@@ -5009,7 +4710,6 @@ peculiarly subtle and dangerous form of corruption”:--
   lives, especially for “information,” and they do not see why they
   should not pay them to induce hostile legislators not to vote against
   them.
-#/
 
 The end of this combined attack was that when the Flash-point Bill came
 up for second reading in March, 1899, it was rejected, on the pledge of
@@ -5028,12 +4728,10 @@ Office bureaucracy. Before even the Select Committee had reported, the
 late Dr. Dupre, chemical adviser to the Home Office, said at Sutton (in
 November, 1897):--
 
-/#
   If people thought they would get legislation on the subject to raise
   the flash-point they would be very much mistaken, for legislation
   would not so upset the trade. What was wanted was education and
   better lamps.
-#/
 
 We have seen how Colonel Majendie was constantly sitting at the feet of
 Mr. Boverton Redwood on this question, and his influence was steadily
@@ -5090,12 +4788,10 @@ accidents has been falling. What is now wanted is that they shall be
 forced by Parliament to make it safer still. As Lord Kelvin said to
 the Select Committee in 1896:--
 
-/#
   The principle of safety is that oil should never in a lamp reach the
   temperature of the close test flash-point. I advise the Committee to
   fix a flash-point which shall be higher than oil is likely to reach
   under ordinary conditions of ordinary use.
-#/
 
 One of the achievements of the Home Office during the controversy was
 the cooking of a list of legal flash-points in American States by
@@ -5109,7 +4805,6 @@ chapter) appearing in the _New York Herald_ of September 3, 1905. After
 describing in Mr. Libby’s words their struggles with Russia for the
 European oil market, the interviewer goes on thus:--
 
-/#
   It is an open secret among people familiar with the oil business
   that the great and important reason for the Standard’s activity in
   Europe is largely due to the fact that the European tests on oil are
@@ -5123,7 +4818,6 @@ European oil market, the interviewer goes on thus:--
   run the Standard naturally has to look to other markets than the
   domestic, and that is why it is so anxious to extend its operations
   in Europe and Asia, as otherwise the oil would be a drug on its hands.
-#/
 
 The case against the Standard and its liquid death could not be more
 concisely put than in the foregoing passage, and so far as they are
@@ -5140,17 +4834,14 @@ then refrigerate them down below 73 deg., and then gradually heat them
 up again to 73 deg. to test them! Here is the exact language of his
 letter:--
 
-/#
   For the above reasons the application of the legal flashing test as
   prescribed by the Act to the examination of petroleum samples which
   are solid or viscid at a temperature about 60 deg. Fahr. _must give
   entirely fallacious results_.
-#/
 
 Then he goes on to suggest a “modification” of the system of testing,
 of which the material portion is as follows:--
 
-/#
   The oil-cup is then to be placed in a refrigerator, or plunged up
   to the projecting collar in water maintained at a sufficiently low
   temperature until both thermometers indicate the temperature at which
@@ -5158,7 +4849,6 @@ of which the material portion is as follows:--
   oil-cup is then to be removed, wiped dry, placed in the water-bath,
   and the testing effected in the manner prescribed in the Act (Select
   Committee’s Report, 1896, Appendix, p. 747).
-#/
 
 Of course, to the mind of any one but an official, it would be
 clear that when oil in a barrel or a tank was itself normally at a
@@ -5187,7 +4877,6 @@ issued a circular to owners of motor-cars and users of petroleum spirit
 signed by Mr. Frank E. Bliss, director. It contained this instructive
 passage:--
 
-/#
   There is more likelihood of our protest being heeded if it be
   supported by similar protests from all users of petroleum spirit. We
   ask, therefore, your co-operation in our endeavour to induce the
@@ -5195,7 +4884,6 @@ passage:--
   and we shall be glad if you will address a letter of protest to your
   local goods agent of the railway-company over whose line you have
   been accustomed to receive your traffic.
-#/
 
 That is the way these spontaneous agitations are got up.
 
@@ -5217,14 +4905,12 @@ the petroleum lamp-oil, which flashes at 73 deg. or above.
                        THE LUBRICATING OIL TRADE
 
 
-/#
+
+
   “Does Mr. Rockefeller know that modesty, benevolence, and piety are
   the tricks which deceive the most people the longest time?”
 
-/R
                              IDA M. TARBELL _in_ “_McClure’s Magazine_.”
-R/
-#/
 
 
 
@@ -5244,13 +4930,11 @@ U.S.A., and it purchased all the assets of that company in the United
 Kingdom for £29,947. Up to October, 1905, its five directors were as
 follows--
 
-/x
   John Dustin Archbold, 26, Broadway, N.Y.
   Charles Millard Pratt, 26, Broadway, N.Y.
   Charles Marvin Everest, Rochester, N.Y.
   Howard B. Case, Norfolk Street, Strand.
   Henry Forster Grierson, Farnborough, Hants.
-x/
 
 Charles M. Pratt is a son of the late Mr. Charles Pratt, who founded
 the refinery already referred to in connection with Mr. H. H. Rogers.
@@ -5263,7 +4947,6 @@ number. The directors are also empowered to refuse to register any
 transfer of shares without giving their reasons. The following were the
 shareholders on November, 30, 1909:--
 
-/x
                                            Shares.
   Vacuum Oil Company of Rochester, N.Y.     50,000
   Charles Marvin Everest, Rochester, N.Y.    2,000
@@ -5275,7 +4958,6 @@ shareholders on November, 30, 1909:--
   Everett Oscar Wader, 29, Broadway, N.Y.       50
                                             ------
                                   Total     55,000
-x/
 
 Mr. Archbold and Mr. Pratt have left the board of directors, which
 included in November, 1909, Messrs. Everest, Case, Grierson, Prizer,
@@ -5341,13 +5023,11 @@ by Mr. William E. Parish, jun., chief technical expert of the Vacuum
 Oil Company, on “Friction as Affected by Lubrication.” The keynote of
 Mr. Parish’s paper may probably be found in these lines:--
 
-/#
   It is possible to exactly duplicate a fine lubricating oil on the
   basis of chemical tests with an improperly manufactured article. The
   results from the use of both oils, _while the chemical readings show
   they are exactly the same_, are widely different when applied to
   actual work.
-#/
 
 Translated into plain English this means that the lubricants supplied
 by the Vacuum’s competitors (manufactured out of the Standard Oil
@@ -5360,11 +5040,9 @@ engineer!
 Further on in his paper Mr. Parish was good enough to give various
 tables and experiments relating to what he called
 
-/#
   A full efficiency test of a textile mill where an effort is being
   made to reduce the total horse-power by means of applying lubricants
   more suited to the work than the oils in use.
-#/
 
 That means, in plain English, by applying Vacuum oils, whose chemical
 readings are exactly the same as those of their competitors, and whose
@@ -5372,23 +5050,19 @@ virtues can only be discovered by the engineer. In the debate on the
 paper I notice that Mr. W. Scott Taggart, while congratulating Mr.
 Parish on his paper, let fall this very valuable observation:--
 
-/#
   I must say there is only one thing that spoils these tests for a
   society like this or any other society of a scientific character,
   and it is that these tests are all made by a person or an engineer
   responsible to the oil company making them. I think they would be of
   much greater value if carried out by some unprejudiced engineer.
-#/
 
 In replying afterwards on this important point, Mr. Parish urged that
 comparative testing was very difficult, and that
 
-/#
   Engineers for work of this kind absolutely cannot exist outside the
   large oil companies, where they have practically all the world to
   operate in, and the unpublished knowledge of many experienced men in
   this particular line of work to draw upon.
-#/
 
 Whether this reply is scientifically sufficient I do not know, but it
 is obvious that it is not likely to satisfy the competitors of the
@@ -5506,7 +5180,6 @@ induce the world to forget.
                                  Index
 
 
-/i
   Abel, Sir F., 159, 210, 220, 233
 
   Acme Oil Company, 67
@@ -5843,13 +5516,10 @@ induce the world to forget.
   Watson, D. K., Attorney-General of Ohio, 82, 134
 
     ”     P. H., President South Improvement Company, 37
-i/
 
 
 
 
-/x
                            The Gresham Press,
                         UNWIN BROTHERS, LIMITED,
                            WOKING AND LONDON.
-x/
