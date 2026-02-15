@@ -14,7 +14,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] From project notes: Please use " for the low level ditto.
+* [x] From project notes: Please use " for the low level ditto.
 * [ ] 007-008: ToC
 * [ ] Chapters start with drop-caps; first instance on 005
 * [ ] Many blockquotes have a font-size change to smaller font, though they don't indent margins.
