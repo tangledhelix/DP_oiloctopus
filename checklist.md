@@ -286,12 +286,12 @@ References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p134
 * [x] Search for `^/[*$pcrflxi]` (regex, no match-case) and make any desired [rewrap marker](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) changes before HTML generation
 * [x] TODO: Figure out how to do `chap_fn` for Footnotes, i.e. `1_1, 1_2, ... 2_1, 2_2, ...` rather than a single numbered list?
 * [x] TODO: Footnotes need to move to landing zones before HTML generation?
-* [ ] Open `HTML → HTML Generator`.
+* [x] Open `HTML → HTML Generator`.
   * Correct the Title if not auto-detected properly.
   * Set options as desired.
   * Use the `Auto-generate HTML` button.
-* [ ] Save the file and open it in a browser.
-* [ ] Scroll through looking for systematic errors. (Title pages, tables, etc. will look terrible; no matter). If automatic conversion messed up, start this step over with a reset file.
+* [x] Save the file and open it in a browser.
+* [x] Scroll through looking for systematic errors. (Title pages, tables, etc. will look terrible; no matter). If automatic conversion messed up, start this step over with a reset file.
 * [ ] Page through the book looking for text that was not handled well by automatic HTML generation, in particular:
   * [Title pages](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Title_Pages).
   * [Tables and Tables of Contents](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Tables). The `Auto Table` button can help format tables.
