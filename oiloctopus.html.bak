@@ -238,11 +238,11 @@ img.w100 {width: 100%;}
 
 /* Poetry */
 /* uncomment the next line for centered poetry */
-/* .poetry-container {display: flex; justify-content: center;} */
-.poetry-container {text-align: center;}
+.poetry-container {display: flex; justify-content: center;}
+/*.poetry-container {text-align: center;}*/
 .poetry           {text-align: left; margin-left: 5%; margin-right: 5%;}
 .poetry .stanza   {margin: 1em auto;}
-.poetry .verse    {text-indent: -3em; padding-left: 3em;}
+.poetry .verse    {text-indent: -3em; padding-left: 3em; font-size:90%;}
 
 /* Transcriber's notes */
 .transnote {background-color: #E6E6FA;
@@ -290,6 +290,7 @@ blockquote {
     padding-left: .7em;
     margin-left: 4%;
     margin-right: 8%;
+    font-size:90%;
 }
 
 /* don't wrap; better than invisible word joiner char? */
@@ -7289,7 +7290,7 @@ time?”</p>
 <p>THE LUBRICATING OIL TRADE</p>
 
 
-<p>It is time now to turn to the Standard’s other
+<p class="drop-cap"><span class="smcap">It</span> is time now to turn to the Standard’s other
 English branch, the Vacuum Oil Company,
 Limited, which posed at first as an American
 company entirely independent and unconnected
