@@ -139,11 +139,10 @@ table.autotable th { padding: 0.05em 0.25em; }
 } /* poetry number */
 
 blockquote {
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-left: 5%;
-    margin-right: 10%;
+    margin: 0 5%;
+    font-size: 90%;
 }
+.blockquote2 {margin: 0 1.5em;}
 
 .sidenote {
     width: 20%;
@@ -308,15 +307,6 @@ abbr {
 }
 /* abbrs that should be read letter-by-letter */
 abbr.spell { speak: spell-out; }
-
-/* "gray bar" blockquotes */
-blockquote {
-    /*border-left: .15em solid #c8c8c8;*/
-    padding-left: .7em;
-    margin-left: 4%;
-    margin-right: 8%;
-    font-size:90%;
-}
 
 /* don't wrap; better than invisible word joiner char? */
 .nowrap { white-space: nowrap; }
@@ -562,7 +552,7 @@ hemispheres.</p>
 <blockquote>
 <p>“The oil business belongs to us.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">John D. Rockefeller</span> <i>to an independent refiner</i>.
 </p>
 </blockquote>
@@ -1129,7 +1119,7 @@ stronger than his sense of justice, his humanity, his affections,
 his joy in life, which is the one tyrannous insatiable force of
 his being.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">Ida M. Tarbell</span> <i>in</i> “<i>McClure’s Magazine</i>.”
 </p>
 </blockquote>
@@ -1613,7 +1603,7 @@ the railroad accounts.</p>
 <p>“A dollar in those days (1871) looked as large as a cart
 wheel.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">John D. Rockefeller</span> <i>in</i> “<i>Random Reminiscences</i>.”
 </p>
 </blockquote>
@@ -2191,7 +2181,7 @@ States.</p>
 and fragrance only by sacrificing the early buds which
 grow up around it.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">J. D. Rockefeller</span>, Jun., <i>to the students
   of Brown University</i>.</span>
 </p>
@@ -2572,7 +2562,7 @@ which in the late afternoon play around its impassive
 cornices. The building is No. 26, Broadway, New York City,
 home of the Standard Oil.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">T. W. Lawson</span> <i>in</i> “<i>Frenzied Finance</i>.”
 </p>
 </blockquote>
@@ -3123,7 +3113,7 @@ a “helpful” character.</p>
 <p>“The Oil Trust is evangelical at one end and explosive at
 the other.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">Henry D. Lloyd</span> <i>in</i> “<i>Wealth against Commonwealth</i>.”
 </p>
 </blockquote>
@@ -3587,7 +3577,7 @@ they get pleasure from the possession of money it comes from
 their ability to do things which give satisfaction to some one
 besides themselves.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">John D. Rockefeller</span> <i>in</i> “<i>Random Reminiscences</i>.”
 </p>
 </blockquote>
@@ -4249,7 +4239,7 @@ Members, or servants, of this modern industrial
 in Washington. They have had Presidents of
 the Republic at their beck and call.”</p>
 
-<p class="right">
+<p class="right pad1">
   <i>Investors’ Review</i>, 1897.
 </p>
 </blockquote>
@@ -4619,7 +4609,7 @@ expected to be decided in a few weeks.</p>
 man who devotes all the waking hours of the day to making
 money for money’s sake.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">John D. Rockefeller</span> <i>in</i> “<i>Random Reminiscences</i>.”
 </p>
 </blockquote>
@@ -5115,7 +5105,7 @@ in Washington. Our ambassadors and ministers and consuls
 have aided to push our way into new markets to the utmost
 corners of the world.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">John D. Rockefeller</span> <i>in</i> “<i>Random Reminiscences</i>.”
 </p>
 </blockquote>
@@ -5578,7 +5568,7 @@ to whom work is a pleasure; above all, men who have no
 price but our price. To such men we can afford to give the
 only things they have not got—power and money.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">H. H. Rogers</span> <i>to T. W. Lawson in</i> “<i>Frenzied Finance</i>.”
 </p>
 </blockquote>
@@ -5709,7 +5699,7 @@ of which the following is a translation:—</p>
 <p>Record Number: F. IV., 360/10.</p>
 
 
-<p><span class="smcap">Judgment.</span></p>
+<p class="center"><span class="smcap">Judgment.</span></p>
 
 <p>On the motion of the Public Prosecutor, the accused,
 Edward Louis Quarles, is discharged with reference to the
@@ -5717,12 +5707,12 @@ accusation of fraudulent practice, on the ground of insufficient
 proof. The costs of the action are charged to the State.</p>
 
 
-<p><span class="smcap">Grounds.</span></p>
+<p class="center"><span class="smcap">Grounds.</span></p>
 
 <p>The preliminary inquiry was opened against the accused
 on his appearing suspect at Hamburg and elsewhere—</p>
 
-<blockquote>
+<div class="blockquote2">
 <p>1. Of having in the years 1906–08, in conspiracy with the
 merchant E. O. Wader, now absent, defrauded the State
 Electrical Works at Kiel of 2,826 marks 5 pfennigs by
@@ -5739,7 +5729,7 @@ are a more valuable article than the descriptions “Etna”
 and “Fusoline,” quoted in the price-list at 44 marks per 100
 kilos, whereas the two latter descriptions are identical with
 the two former respectively.</p>
-</blockquote>
+</div>
 
 <p>As to the charge of fraudulent conspiracy to the detriment of
 the Kiel Electrical Works, it has not been proved that the
@@ -5781,26 +5771,24 @@ two oils were used, the higher running expenses for “Gas
 Engine E and F,” and greater risk encountered by the users
 of these two brands.</p>
 
-<p>
-  Hamburg, May 30, 1910.<br>
-  <br>
-  The Landgericht, Second Criminal Chamber,<br>
-  (<i>Signed</i>) <span class="smcap">Goslich</span>, <span class="smcap">Lohmeyer</span>, <span class="smcap">Sick</span>.
+<p>Hamburg, May 30, 1910.</p>
+
+<p class="right pad1"><span class="pad2">The Landgericht, Second Criminal Chamber,</span><br>
+(<i>Signed</i>) <span class="smcap">Goslich</span>, <span class="smcap">Lohmeyer</span>, <span class="smcap">Sick</span>.
 </p>
 
 <p>For the correctness of the copy:</p>
 
-<p>
-  Hamburg, July 9, 1910.<br>
-  <br>
-  The Chancery of Public Prosecution,<br>
-  (<i>Signed</i>) Voss, Chancery Clerk.
+<p style="padding-left:2em;">Hamburg, July 9, 1910.</p>
+
+<p class="right pad1"><span class="pad2">The Chancery of Public Prosecution,</span><br>
+(<i>Signed</i>) Voss, Chancery Clerk.
 </p>
 </blockquote>
 
 <p><span class="pagenum" id="Page_179">[Pg 179]</span></p>
 
-<p>It will be seen at once that the judgment
+<p class="p2">It will be seen at once that the judgment
 exculpates Mr. Quarles personally, but obviously
 inculpates the German Vacuum Oil Company,
 by assuming that the practices alleged had
@@ -5846,7 +5834,7 @@ any new orders, and would have lost the old business connection.</p>
 
 <p>Dresden, November 4, 1909.</p>
 
-<p class="right">
+<p class="right pad1">
   (<i>Signed</i>) <span class="smcap">Hans Schnell</span>.
 </p>
 
@@ -5856,13 +5844,13 @@ officially certify that it is genuine.</p>
 
 <p>Dresden, November 5, 1909.</p>
 
-<p class="right">
-  (<i>Signed</i>) <span class="smcap">Horst von Mueller-Berneck</span>,<br>
-  <span style="margin-right: 11.5em;">Royal Saxon Notary, Dresden.</span>
+<p class="right pad1">
+<span class="pad2">(<i>Signed</i>) <span class="smcap">Horst von Mueller-Berneck</span>,</span><br>
+Royal Saxon Notary, Dresden.
 </p>
 </blockquote>
 
-<p>In further illustration of Mr. Mié’s efforts,
+<p class="p2">In further illustration of Mr. Mié’s efforts,
 Herr F. Hildebrandt publishes a photographed
 bill of expenses incurred by that gentleman in
 establishing and keeping up the German Vacuum
@@ -6158,7 +6146,7 @@ latter.</p>
 <p>“According as you put something into the Church or the
 Sunday-school work the greater will be your dividends of salvation.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">John D. Rockefeller</span> <i>in a Sunday-school address</i>.
 </p>
 </blockquote>
@@ -6980,7 +6968,7 @@ temperatures commonly above 73 deg., and, therefore, you
 are dealing in every lamp so used with an oil beneath your
 flame which is in a condition of danger.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">Professor Attfield, F.R.S.</span>, <i>Select Committee on Petroleum, 1896 Report</i>.
 </p>
 </blockquote>
@@ -7230,7 +7218,7 @@ to give the public confidence in them.</p>
 <p>“You have been in politics long enough to know that no man
 in public office owes the public anything.”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">Senator Mark Hanna</span> <i>to the Ohio Attorney-General</i>.
 </p>
 </blockquote>
@@ -7837,7 +7825,7 @@ or above.</p>
 piety are the tricks which deceive the most people the longest
 time?”</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">Ida M. Tarbell</span> <i>in</i> “<i>McClure’s Magazine</i>.”
 </p>
 </blockquote>
@@ -8075,7 +8063,7 @@ good enough to give various tables and experiments
 relating to what he called</p>
 
 <blockquote>
-<p>A full efficiency test of a textile mill where an effort is being
+<p class="noindent">A full efficiency test of a textile mill where an effort is being
 made to reduce the total horse-power by means of applying
 lubricants more suited to the work than the oils in use.</p>
 </blockquote>
@@ -8103,7 +8091,7 @@ point, Mr. Parish urged that comparative
 testing was very difficult, and that</p>
 
 <blockquote>
-<p>Engineers for work of this kind absolutely cannot exist outside
+<p class="noindent">Engineers for work of this kind absolutely cannot exist outside
 the large oil companies, where they have practically all
 the world to operate in, and the unpublished knowledge of
 many experienced men in this particular line of work to draw
