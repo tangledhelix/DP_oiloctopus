@@ -80,7 +80,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [x] 069
 * [x] 173: F rounds have left section dividers here. are they h3 or h4?
 * [x] 178, 180: some signature blocks after quoted text?
-* [ ] 251-255: index
+* [x] 251-255: index
 
 ### Project manager notes ###
 
