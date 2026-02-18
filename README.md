@@ -17,43 +17,40 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] From project notes: Please use " for the low level ditto.
 * [x] 007-008: ToC
 * [x] (HTML) Chapters start with drop-caps; first instance on 005
-* [ ] (HTML) Many blockquotes have a font-size change to smaller font, though they don't indent margins.
-* [ ] (HTML) Some things marked as blockquotes have non-uniform indent
-  * [ ] 010
-* [ ] (HTML) Paragraph is `noindent` after a blockquote or table:
-  * [ ] 016-018
-  * [ ] 020
-  * [ ] 038
-  * [ ] 060
-  * [ ] 118
-  * [ ] 119 (2)
-  * [ ] 184
-  * [ ] 193
-  * [ ] 199
-  * [ ] 236
-  * [ ] 240
-* [ ] (HTML) Some blockquotes are noindent
-  * [ ] 037
-  * [ ] 038 (2)
-* [ ] (HTML) Book divides into major sections; should these be h2, chapters h3?
+* [x] (HTML) Many blockquotes have a font-size change to smaller font, though they don't indent margins.
+* [x] (HTML) Paragraph is `noindent` after a blockquote or table:
+  * [x] 016-018
+  * [x] 020
+  * [x] 038
+  * [x] 060
+  * [x] 118
+  * [x] 119 (2)
+  * [x] 184
+  * [x] 193
+  * [x] 199
+  * [x] 236
+* [x] (HTML) Some blockquotes are noindent
+  * [x] 037
+  * [x] 038 (2)
+* [x] (HTML) Book divides into major sections; should these be h2, chapters h3?
   * [x] Or is the start of *every* chapter??
   * [x] Yes, it is. How very dramatic. Someone was flexing on how little they cared about the cost of paper, perhaps.
-  * [ ] 009-011 chapter 1
-  * [ ] 025-027 chapter 2
-  * [ ] 043-045 chapter 3
-  * [ ] 063-065 chapter 4
-  * [ ] 075-077 chapter 5
-  * [ ] 089-091 chapter 6
-  * [ ] 105-107 chapter 7
-  * [ ] 123-125 chapter 8
-  * [ ] 137-139 chapter 9
-  * [ ] 155-157 chapter 10
-  * [ ] 171-173 chapter 11
-  * [ ] 189-191 chapter 12
-  * [ ] 207-209 chapter 13
-  * [ ] 217-219 chapter 14
-  * [ ] 237-239 chapter 15
-* [ ] Tables:
+  * [x] 009-011 chapter 1
+  * [x] 025-027 chapter 2
+  * [x] 043-045 chapter 3
+  * [x] 063-065 chapter 4
+  * [x] 075-077 chapter 5
+  * [x] 089-091 chapter 6
+  * [x] 105-107 chapter 7
+  * [x] 123-125 chapter 8
+  * [x] 137-139 chapter 9
+  * [x] 155-157 chapter 10
+  * [x] 171-173 chapter 11
+  * [x] 189-191 chapter 12
+  * [x] 207-209 chapter 13
+  * [x] 217-219 chapter 14
+  * [x] 237-239 chapter 15
+* [x] Tables:
   * [x] 020 (2)
   * [x] 022
   * [x] 115 (2) - smaller text on 116, part of table bits too?
@@ -66,21 +63,21 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] 083-087
   * [ ] 100-101
   * [ ] 182
-* [ ] Major-section starts with quotes; the signatures need offset or maybe right-align.
-  * [ ] 010
-  * [ ] 026
-  * [ ] 044
-  * [ ] 064
-  * [ ] 076
-  * [ ] 106
-  * [ ] 124
-  * [ ] 138
-  * [ ] 156
-  * [ ] 190
-  * [ ] 208
-  * [ ] 238
-* [ ] Poetry:
-  * [ ] 069
+* [x] Major-section starts with quotes; the signatures need offset or maybe right-align.
+  * [x] 010
+  * [x] 026
+  * [x] 044
+  * [x] 064
+  * [x] 076
+  * [x] 106
+  * [x] 124
+  * [x] 138
+  * [x] 156
+  * [x] 190
+  * [x] 208
+  * [x] 238
+* [x] Poetry:
+  * [x] 069
 * [x] 173: F rounds have left section dividers here. are they h3 or h4?
 * [x] 178, 180: some signature blocks after quoted text?
 * [ ] 251-255: index
