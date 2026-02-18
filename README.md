@@ -58,11 +58,11 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [x] 197-199
   * [x] 239
   * [x] 240
-* [ ] Letters (blockquotes with special formatting inside)
-  * [ ] 078-081
-  * [ ] 083-087
-  * [ ] 100-101
-  * [ ] 182
+* [s] Letters (blockquotes with special formatting inside)
+  * [x] 078-081
+  * [x] 083-087
+  * [x] 100-101
+  * [x] 182
 * [x] Major-section starts with quotes; the signatures need offset or maybe right-align.
   * [x] 010
   * [x] 026

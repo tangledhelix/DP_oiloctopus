@@ -174,6 +174,9 @@ blockquote {
 .center   {text-align: center; text-indent: 0;}
 
 .right    {text-align: right;}
+.pad1     {padding-right: 1em;}
+.pad2     {padding-right: 1.5em;}
+.pad3     {padding-right: 3.5em;}
 
 .smcap    {font-variant: small-caps;}
 
@@ -2611,9 +2614,9 @@ Ohio, and one of the leading members of the
 Republican party. It was as follows:—</p>
 
 <blockquote>
-<p class="right">
-  26, <span class="smcap">Broadway, New York</span>,<br>
-  <span style="margin-right: 5.5em;"><i>March 9, 1900</i>.</span>
+<p class="right pad1">
+<span class="pad2">26, <span class="smcap">Broadway, New York</span>,</span><br>
+<i>March 9, 1900</i>.
 </p>
 
 <p><span class="smcap">My dear Senator</span>,—I have your favour of last night with
@@ -2627,9 +2630,9 @@ in which the same objectionable clause occurs. Am
 glad to hear that you think that the situation is fairly well
 in hand.</p>
 
-<p class="right">
-  <span style="margin-right: 4.5em;">Very truly yours,</span><br>
-  <span class="smcap">Jno. D. Archbold</span>.
+<p class="right pad1">
+<span class="pad3">Very truly yours,</span><br>
+<span class="smcap">Jno. D. Archbold</span>.
 </p>
 
 <p>Hon. J. B. Foraker, Washington, D.C.</p>
@@ -2638,32 +2641,30 @@ in hand.</p>
 for the Standard Oil Company.]</p>
 </blockquote>
 
-<p>Here are some more letters of this series:—</p>
+<p class="p2">Here are some more letters of this series:—</p>
 
-<blockquote>
-<p class="right">
-  26, <span class="smcap">Broadway, New York</span>,<br>
-  <span style="margin-right: 5.0em;"><i>March 26, 1900</i>.</span>
+<blockquote class="p2">
+<p class="right pad1">
+<span class="pad2">26, <span class="smcap">Broadway, New York</span>,</span><br>
+<i>March 26, 1900</i>.
 </p>
 
-<p>Hon. J. B. Foraker, 1500, Sixteenth Street, Washington, D.C.</p>
+<p class="noindent">Hon. J. B. Foraker, 1500, Sixteenth Street, Washington, D.C.</p>
 
 <p><span class="smcap">Dear Senator</span>,—In accordance with our understanding, now
 beg to enclose you certificate of deposit to your favour for
 $15,000. Kindly acknowledge receipt and oblige.</p>
 
-<pre>
-Yours very truly,
+<p class="right pad1">
+<span class="pad3">Yours very truly,</span><br>
 <span class="smcap">Jno. D. Archbold</span>.
-</pre>
+</p>
 </blockquote>
 
-<p><span class="pagenum" id="Page_79">[Pg 79]</span></p>
-
-<blockquote>
-<p class="right">
-  26, <span class="smcap">Broadway, New York</span>,<br>
-  <span style="margin-right: 5.0em;"><i>April 17, 1900</i>.</span>
+<blockquote class="p2">
+<p class="right pad1"><span class="pagenum" id="Page_79">[Pg 79]</span>
+<span class="pad2">26, <span class="smcap">Broadway, New York</span>,</span><br>
+<i>April 17, 1900</i>.
 </p>
 
 <p><span class="smcap">My dear Senator</span>,—I enclose you certificate of deposit to
@@ -2673,17 +2674,17 @@ you when opportunity offers, if you so desire. I need scarcely
 again express our great gratification over the favourable outcome
 of affairs.</p>
 
-<p class="right">
-  <span style="margin-right: 4.5em;">Very truly yours,</span><br>
-  <span class="smcap">Jno. D. Archbold</span>.
+<p class="right pad1">
+<span class="pad3">Very truly yours,</span><br>
+<span class="smcap">Jno. D. Archbold</span>.
 </p>
 
 <p>Hon. J. B. Foraker, 1500, Sixteenth Street, Washington, D.C.</p>
 </blockquote>
 
-<blockquote>
-<p class="right">
-  <i>January 27, 1902.</i>
+<blockquote class="p2">
+<p class="right pad1">
+<i>January 27, 1902.</i>
 </p>
 
 <p><span class="smcap">My dear Senator</span>,—Responding to your favour of the 25th,
@@ -2692,18 +2693,18 @@ for $50,000 in accordance with our understanding. Your letter
 states the conditions correctly, and I trust the transaction will
 be successfully consummated.</p>
 
-<p class="right">
-  <span style="margin-right: 4.5em;">Very truly yours,</span><br>
-  <span class="smcap">John D. Archbold</span>.
+<p class="right pad1">
+<span class="pad3">Very truly yours,</span><br>
+<span class="smcap">John D. Archbold</span>.
 </p>
 
 <p>Hon. J. B. Foraker, Washington, D.C.</p>
 </blockquote>
 
-<blockquote>
-<p class="right">
-  <span style="margin-right: 1.5em;">26, <span class="smcap">Broadway</span>,</span><br>
-  <i>February 25, 1902</i>.
+<blockquote class="p2">
+<p class="right pad1">
+<span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
+<i>February 25, 1902</i>.
 </p>
 
 <p><span class="smcap">My dear Senator</span>,—I venture to write you a word regarding
@@ -2719,9 +2720,9 @@ will feel so about it, and I will be greatly pleased to have a
 word from you on the subject. The Bill, I believe, is still
 in committee.</p>
 
-<p class="right">
-  With kind regards, I am, very truly yours,<br>
-  <span style="margin-right: 8.0em;"><span class="smcap">John D. Archbold</span>.</span>
+<p class="right pad1">
+<span class="pad3">With kind regards, I am, very truly yours,</span><br>
+<span class="smcap">John D. Archbold</span>.
 </p>
 
 <p>Hon. J. B. Foraker, Washington, D.C.</p>
@@ -2729,7 +2730,7 @@ in committee.</p>
 
 <p><span class="pagenum" id="Page_80">[Pg 80]</span></p>
 
-<p>Senator Foraker, when these letters were published,
+<p class="p2">Senator Foraker, when these letters were published,
 explained that the 50,000 dollars was sent
 to him in order to carry out the purchase of an
 Ohio newspaper, and that when the deal fell
@@ -2752,9 +2753,9 @@ show how that consummation has been
 reached:—</p>
 
 <blockquote>
-<p class="right">
-  <span style="margin-right: 1.5em;">26, <span class="smcap">Broadway</span>,</span><br>
-  <i>December 18, 1902</i>.
+<p class="right pad1">
+<span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
+<i>December 18, 1902</i>.
 </p>
 
 <p><span class="smcap">My dear Senator</span>,—You, of course, know of Judge Burket’s
@@ -2768,18 +2769,16 @@ entitle him to this further recognition.</p>
 will favour and aid his re-election. Mr. Rogers joins me most
 heartily in this expression to you.</p>
 
-<p class="right">
-  With kind regards, I am, very sincerely yours,<br>
-  <span style="margin-right: 10.0em;"><span class="smcap">John D. Archbold</span>.</span>
+<p class="right pad1">
+<span class="pad3">With kind regards, I am, very sincerely yours,</span><br>
+<span class="smcap">John D. Archbold</span>.
 </p>
 </blockquote>
 
-<p><span class="pagenum" id="Page_81">[Pg 81]</span></p>
-
-<blockquote>
-<p class="right">
-  26, <span class="smcap">Broadway</span>,<br>
-  <i>March 20, 1903</i>.
+<blockquote class="p2">
+<p class="right pad1"><span class="pagenum" id="Page_81">[Pg 81]</span>
+<span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
+<i>March 20, 1903</i>.
 </p>
 
 <p><span class="smcap">My dear Senator</span>,—We are surprised beyond measure to
@@ -2797,8 +2796,8 @@ view.</p>
 <p>I would esteem it a favour to have a line from you on the
 subject.</p>
 
-<p class="right">
-  <span class="smcap">Jno. D. Archbold.</span>
+<p class="right pad1">
+<span class="smcap">Jno. D. Archbold.</span>
 </p>
 </blockquote>
 
@@ -2876,9 +2875,9 @@ by him to the Hon. W. A. Stone, Governor of
 Pennsylvania:—</p>
 
 <blockquote>
-<p class="right">
-  <span style="margin-right: 1.0em;">26, <span class="smcap">Broadway</span>,</span><br>
-  <i>December 5, 1902</i>.
+<p class="right pad1">
+<span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
+<i>December 5, 1902</i>.
 </p>
 
 <p><span class="smcap">My dear Governor</span>,—I am sure you will pardon any seeming
@@ -2899,21 +2898,21 @@ of the Court from that section.</p>
 <p>Hoping that it may prove possible for you to favourably
 consider Judge Morrison’s appointment.</p>
 
-<p class="right">
-  I am, with very high regard, sincerely yours,<br>
-  <span style="margin-right: 9.5em;"><span class="smcap">Jno. D. Archbold</span>.</span>
+<p class="right pad1">
+<span class="pad3">I am, with very high regard, sincerely yours,</span><br>
+<span class="smcap">Jno. D. Archbold</span>.
 </p>
 
 <p>Hon. Wm. A. Stone, Harrisburg, Pa.</p>
 </blockquote>
 
-<blockquote>
-<p class="right">
-  <span style="margin-right: 1.5em;">26, <span class="smcap">Broadway</span>,</span><br>
+<blockquote class="p2">
+<p class="right pad1">
+  <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>September 5, 1900</i>.
 </p>
 
-<p>Hon. Wm. A. Stone, Harrisburg, Pa.</p>
+<p class="noindent">Hon. Wm. A. Stone, Harrisburg, Pa.</p>
 
 <p><span class="smcap">My dear Governor</span>,—Will you permit me to say that if it
 seems consistent for you to appoint Judge John Henderson, of
@@ -2923,13 +2922,13 @@ personal satisfaction to me. I am sure I need not occupy your
 time with any argument as to Judge Henderson’s fitness, either
 as to character or legal qualification.</p>
 
-<p class="right">
-  With high regard, I am, very truly yours,<br>
-  <span style="margin-right: 7.5em;"><span class="smcap">Jno. D. Archbold</span>.</span>
+<p class="right pad1">
+  <span class="pad3">With high regard, I am, very truly yours,</span><br>
+  <span class="smcap">Jno. D. Archbold</span>.
 </p>
 </blockquote>
 
-<p>Both Judge Morrison and Judge Henderson
+<p class="p2">Both Judge Morrison and Judge Henderson
 were appointed to the Supreme Court of Pennsylvania,
 and the former’s familiarity with “oil
 and gas” no doubt proved acceptable to Mr.
@@ -2951,46 +2950,46 @@ also to the Bench of the Supreme Court of
 Pennsylvania:—</p>
 
 <blockquote>
-<pre>
+<p class="center">
 Telegram.
-</pre>
+</p>
 
-<p class="right">
+<p class="right pad1">
   <i>March 15, 1900.</i>
 </p>
 
-<p>Hon. John P. Elkin, Indiana, Pa.</p>
+<p class="noindent">Hon. John P. Elkin, Indiana, Pa.</p>
 
 <p>Telegram received. Will do as requested.</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">Jno. D. Archbold</span>.
 </p>
 </blockquote>
 
-<blockquote>
-<p class="right">
-  26, <span class="smcap">Broadway</span>,<br>
+<blockquote class="p2">
+<p class="right pad1">
+  <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>March 15, 1900</i>.
 </p>
 
-<p>Hon. John P. Elkin, Indiana, Pa.</p>
+<p class="noindent">Hon. John P. Elkin, Indiana, Pa.</p>
 
-<p>Personal.</p>
+<p class="noindent">Personal.</p>
 
 <p><span class="smcap">My dear General</span>,—In accordance with your telegraphic
 request of to-day, I beg to enclose you certificate of deposit to
 your favour for $5,000, in fulfilment of our understandings.</p>
 
-<p class="right">
-  <span style="margin-right: 4.5em;">Very truly yours,</span><br>
+<p class="right pad1">
+  <span class="pad3">Very truly yours,</span><br>
   <span class="smcap">Jno. D. Archbold</span>.
 </p>
 </blockquote>
 
-<blockquote>
-<p class="right">
-  <span style="margin-right: 1.0em;">26, <span class="smcap">Broadway</span>,</span><br>
+<blockquote class="p2">
+<p class="right pad1">
+  <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>February 5, 1900</i>.
 </p>
 
@@ -2999,18 +2998,18 @@ telegram of to-day, I now beg to enclose you certificate of
 deposit to your favour for $10,000, kind acknowledgment of
 which will oblige.</p>
 
-<p class="right">
-  <span style="margin-right: 4.5em;">Yours very truly,</span><br>
+<p class="right pad1">
+  <span class="pad3">Yours very truly,</span><br>
   <span class="smcap">Jno. D. Archbold</span>.
 </p>
 
 <p>To Hon. John P. Elkin, Indiana, Pa.</p>
 </blockquote>
 
-<blockquote>
-<p class="right">
-  26, <span class="smcap">Broadway</span>,<br>
-  <span style="margin-right: 1.5em;"><i>May 9, 1901</i>.</span>
+<blockquote class="p2">
+<p class="right pad1">
+  <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
+  <i>May 9, 1901</i>.
 </p>
 
 <p><span class="smcap">My dear General</span>,—I enclose copy of a measure pending—I
@@ -3020,8 +3019,8 @@ seem to us potent, we would greatly like to have this proposed
 amendment killed. Won’t you kindly tell me about it and
 advise me what you think the chances are?</p>
 
-<p class="right">
-  <span style="margin-right: 4.5em;">Very truly yours,</span><br>
+<p class="right pad1">
+  <span class="pad3">Very truly yours,</span><br>
   <span class="smcap">Jno. D. Archbold</span>.
 </p>
 
@@ -3029,7 +3028,7 @@ advise me what you think the chances are?</p>
 Harrisburg, Pa.</p>
 </blockquote>
 
-<p>This is the sort of campaign the Standard Oil
+<p class="p2">This is the sort of campaign the Standard Oil
 Trust has been carrying on in American Legislatures.
 How would the British people like it
 to be extended to the House of Commons?</p>
@@ -3040,49 +3039,47 @@ interesting letters which show how public
 opinion may be manufactured by that process:—</p>
 
 <blockquote>
-<p class="right">
-  <span style="margin-right: 1.0em;">26, <span class="smcap">Broadway</span>,</span><br>
+<p class="right pad1">
+  <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>October 10, 1902</i>.
 </p>
 
-<p>Mr. H. H. Edmonds, Baltimore, Md.</p>
+<p class="noindent">Mr. H. H. Edmonds, Baltimore, Md.</p>
 
 <p><span class="smcap">Dear Sir</span>,—Responding to your favour of the 9th, it gives
 me pleasure to enclose you herewith certificate of deposit to
 your favour for $3,000, covering a year’s subscription to the
 <i>Manufacturers’ Record</i>.—Truly yours,</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">Jno. D. Archbold.</span>
 </p>
 </blockquote>
 
-<blockquote>
-<p class="right">
-  <span style="margin-right: 1.0em;">26, <span class="smcap">Broadway</span>,</span><br>
+<blockquote class="p2">
+<p class="right pad1">
+  <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>January 17, 1899</i>.
 </p>
 
-<p>Hon. W. A. Magee, <i>Pittsburg Times</i>, Pittsburg, Pa.</p>
+<p class="noindent">Hon. W. A. Magee, <i>Pittsburg Times</i>, Pittsburg, Pa.</p>
 
 <p><span class="smcap">Dear Sir</span>,—As per understanding, herewith enclosed find
 certificate of deposit to your order for $1,250, the receipt of
 which kindly acknowledge.—Truly yours,</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">Jno. D. Archbold.</span>
 </p>
 </blockquote>
 
-<p><span class="pagenum" id="Page_87">[Pg 87]</span></p>
-
-<blockquote>
-<p class="right">
-  <span style="margin-right: 1.5em;">26, <span class="smcap">Broadway</span>,</span><br>
+<blockquote class="p2">
+<p class="right pad1"><span class="pagenum" id="Page_87">[Pg 87]</span>
+  <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>December 18, 1901</i>.
 </p>
 
-<p>Mr. Thomas P. Grasty, care of Buck &amp; Pratt, Room 1,203,
+<p class="noindent">Mr. Thomas P. Grasty, care of Buck &amp; Pratt, Room 1,203,
 27, William Street, City.</p>
 
 <p><span class="smcap">Dear Mr. Grasty</span>,—I have your favour of yesterday, and
@@ -3095,12 +3092,12 @@ South is of the most helpful character.</p>
 
 <p>With good wishes, I am, very truly yours,</p>
 
-<p class="right">
+<p class="right pad1">
   <span class="smcap">Jno. D. Archbold.</span>
 </p>
 </blockquote>
 
-<p>These sums are called “subscriptions,” but
+<p class="p2">These sums are called “subscriptions,” but
 their real character appears from the case of
 the <i>Southern Farm Magazine</i>, the price of which
 is 50 cents a year. Mr. Archbold was therefore
@@ -3429,12 +3426,12 @@ has been “persuaded” to countermand the
 order:—</p>
 
 <blockquote>
-<p class="right">
-  <span class="smcap">Des Moines, Iowa</span>,<br>
-  <span style="margin-right: 1.0em;"><i>January 14, 1891</i>.</span>
+<p class="right pad1">
+  <span class="pad3"><span class="smcap">Des Moines, Iowa</span>,</span><br>
+  <i>January 14, 1891</i>.
 </p>
 
-<p>John Fowler, Hampton, Iowa.</p>
+<p class="noindent">John Fowler, Hampton, Iowa.</p>
 
 <p><span class="smcap">Dear Sir</span>,—Our Marshallstown manager, Mr. Ruth, has
 explained the circumstances regarding the purchase and subsequent
@@ -3455,22 +3452,22 @@ back of you in this matter, and will protect you in every
 way, and would kindly ask you to keep this letter strictly
 confidential.</p>
 
-<p class="right">
-  <span style="margin-right: 4.5em;">Yours truly,</span><br>
+<p class="right pad1">
+  <span class="pad3">Yours truly,</span><br>
   <span class="smcap">E. P. Pratt</span>.
 </p>
 </blockquote>
 
 <p><span class="pagenum" id="Page_101">[Pg 101]</span></p>
 
-<p>Another typical example of Standard methods
+<p class="p2">Another typical example of Standard methods
 is revealed in the following letter addressed to
 the Independent Oil Company, of Mansfield,
 Ohio, by one of its customers:—</p>
 
 <blockquote>
-<p class="right">
-  <span style="margin-right: 1.0em;"><span class="smcap">Tiffin, Ohio</span>,</span><br>
+<p class="right pad1">
+  <span class="pad3"><span class="smcap">Tiffin, Ohio</span>,</span><br>
   <i>January 24, 1898</i>.
 </p>
 
@@ -3487,13 +3484,13 @@ oil was all right. I now see the mistake, and that is of getting
 a carload. Two carloads coming in here inside of a week is
 more than the other company will stand....</p>
 
-<p class="right">
-  <span style="margin-right: 5.0em;">Yours truly,</span><br>
+<p class="right pad1">
+  <span class="pad3">Yours truly,</span><br>
   <span class="smcap">H. A. Eirick</span>.
 </p>
 </blockquote>
 
-<p>Chess, Carley &amp; Co., the Standard marketing
+<p class="p2">Chess, Carley &amp; Co., the Standard marketing
 agents at Louisville, Kentucky, are big offenders
 in this respect. The late Mr. George Rice,
 of Marietta, Ohio, a well-known independent,
@@ -8625,11 +8622,11 @@ should ever induce the world to forget.</p>
 
 <p><span class="pagenum" id="Page_256">[Pg 256]</span></p>
 
-
+<div class="chapter">
 <p class="center p4">The Gresham Press,<br>
 UNWIN BROTHERS, LIMITED,<br>
 WOKING AND LONDON.</p>
-
+</div>
 
 </body>
 </html>
