@@ -54,13 +54,13 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] 217-219 chapter 14
   * [ ] 237-239 chapter 15
 * [ ] Tables:
-  * [ ] 020 (2)
-  * [ ] 022
-  * [ ] 115 (2) - smaller text on 116, part of table bits too?
-  * [ ] 181
-  * [ ] 197-199
-  * [ ] 239
-  * [ ] 240
+  * [x] 020 (2)
+  * [x] 022
+  * [x] 115 (2) - smaller text on 116, part of table bits too?
+  * [x] 181
+  * [x] 197-199
+  * [x] 239
+  * [x] 240
 * [ ] Letters (blockquotes with special formatting inside)
   * [ ] 078-081
   * [ ] 083-087

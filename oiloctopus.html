@@ -89,11 +89,19 @@ table {
 }
 table.autotable    { border-collapse: collapse; }
 table.autotable td,
-table.autotable th { padding: 0.25em; }
+table.autotable th { padding: 0.05em 0.25em; }
 
 .tdl      {text-align: left;}
 .tdr      {text-align: right;}
 .tdc      {text-align: center;}
+
+.lr-brace { height: 5.25em; max-height: 5.25em; width: 0.5em; }
+.td-hangindent p {
+  margin-left: 1.5em;
+  margin-right: 0.25em;
+  padding-left: 4.5em;
+  text-indent: -4.5em;
+}
 
 .pagenum { /* uncomment the next line for invisible page numbers */
     /*  visibility: hidden;  */
@@ -830,30 +838,95 @@ Bedford. This Company controls nine companies
 which are principally engaged in refining
 oils:—</p>
 
-<pre>
-                                           Capital.
-                                             Dols.
-Atlantic Refining Company, Pennsylvania   5,000,000
-Solar Refining Company, Ohio                500,000
-Standard Oil Company of California       25,000,000
-Standard Oil Company of Kansas            1,000,000
-Standard Oil Company of Indiana           1,000,000
-Standard Oil Company of New York         15,000,000
-Security Oil Company, Texas               3,000,000
-Standard Oil Company of Ohio              3,500,000
-Corsicana Refining Company               partnership
-</pre>
+<table class="autotable">
 
-<p>Then comes a group of lubricating oil companies:—</p>
+<tr>
+<td></td>
+<td class="tdc tp-s">Capital.<br>Dols.</td>
+</tr>
 
-<pre>
-                                           Dols.
-Vacuum Oil Company, N.Y.                  2,500,000
-Borne, Scrymser &amp; Co., N.J.                 200,000
-Chesebrough Manufacturing Company, N.Y.     500,000
-Galena Signal Oil Company, Penn.         10,000,000
-Swan and Finch Company, N.Y.              1,000,000
-</pre>
+<tr>
+<td class="tdl">Atlantic Refining Company, Pennsylvania</td>
+<td class="tdr">5,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Solar Refining Company, Ohio</td>
+<td class="tdr">500,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Standard Oil Company of California</td>
+<td class="tdr">25,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Standard Oil Company of Kansas</td>
+<td class="tdr">1,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Standard Oil Company of Indiana</td>
+<td class="tdr">1,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Standard Oil Company of New York</td>
+<td class="tdr">15,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Security Oil Company, Texas</td>
+<td class="tdr">3,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Standard Oil Company of Ohio</td>
+<td class="tdr">3,500,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Corsicana Refining Company</td>
+<td class="tdr">partnership</td>
+</tr>
+
+</table>
+
+<p class="p2">Then comes a group of lubricating oil companies:—</p>
+
+<table class="autotable">
+
+<tr>
+<td></td>
+<td class="tdc tp-s">Dols.</td>
+</tr>
+
+<tr>
+<td class="tdl">Vacuum Oil Company, N.Y.</td>
+<td class="tdr">2,500,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Borne, Scrymser &amp; Co., N.J.</td>
+<td class="tdr">200,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Chesebrough Manufacturing Company, N.Y.</td>
+<td class="tdr">500,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Galena Signal Oil Company, Penn.</td>
+<td class="tdr">10,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Swan and Finch Company, N.Y.</td>
+<td class="tdr">1,000,000</td>
+</tr>
+
+</table>
 
 <p>It will surprise many readers on this side to
 find in this list the name of the Chesebrough
@@ -907,26 +980,99 @@ following foreign marketing companies, the
 first two of which are duly recorded in the files
 at Somerset House:—</p>
 
-<pre>
-                                                   Capital.
-Anglo-American Oil Company (London)               £1,000,000
-Vacuum Oil Company, Ltd. (London)                    £55,000
-American Petroleum Company (Holland)            Fl.7,850,000
-Amerikanische Petroleum Company (Germany)          M.200,000
-Deutsche-Amerikanische Company (Germany)        M.30,000,000
-Danish Petroleum Company                          Not stated
-Konigsberger-Handels Company (Germany)           M.2,300,000
-Mannheim-Bremen Company (Germany)                M.3,000,000
-Korff Refinery Company (Bremen)                  M.1,500,000
-Stettin-Amerikanische Company (Germany)           Not stated
-Roumanian-American Petroleum Company          Lei.12,500,000
-Société ci-devant H. Reith et Cie. (Belgium)    Fr.1,650,000
-Italian American Petroleum Company                Not stated
-Vacuum Oil Company (Austria)                   Kr.10,000,000
-International Oil Company (Japan)             Yen.12,000,000
-Imperial Oil Company (Canada)                     Not stated
-Colonial Oil Company (Africa and Australasia)       $250,000
-</pre>
+<table class="autotable">
+
+<tr>
+<td></td>
+<td class="tdc tp-s">Capital.</td>
+</tr>
+
+<tr>
+<td class="tdl">Anglo-American Oil Company (London)</td>
+<td class="tdr">£1,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Vacuum Oil Company, Ltd. (London)</td>
+<td class="tdr">£55,000</td>
+</tr>
+
+<tr>
+<td class="tdl">American Petroleum Company (Holland)</td>
+<td class="tdr">Fl.7,850,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Amerikanische Petroleum Company (Germany)</td>
+<td class="tdr">M.200,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Deutsche-Amerikanische Company (Germany)</td>
+<td class="tdr">M.30,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Danish Petroleum Company</td>
+<td class="tdr">Not stated</td>
+</tr>
+
+<tr>
+<td class="tdl">Konigsberger-Handels Company (Germany)</td>
+<td class="tdr">M.2,300,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Mannheim-Bremen Company (Germany)</td>
+<td class="tdr">M.3,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Korff Refinery Company (Bremen)</td>
+<td class="tdr">M.1,500,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Stettin-Amerikanische Company (Germany)</td>
+<td class="tdr">Not stated</td>
+</tr>
+
+<tr>
+<td class="tdl">Roumanian-American Petroleum Company</td>
+<td class="tdr">Lei.12,500,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Société ci-devant H. Reith et Cie. (Belgium)</td>
+<td class="tdr">Fr.1,650,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Italian American Petroleum Company</td>
+<td class="tdr">Not stated</td>
+</tr>
+
+<tr>
+<td class="tdl">Vacuum Oil Company (Austria)</td>
+<td class="tdr">Kr.10,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">International Oil Company (Japan)</td>
+<td class="tdr">Yen.12,000,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Imperial Oil Company (Canada)</td>
+<td class="tdr">Not stated</td>
+</tr>
+
+<tr>
+<td class="tdl">Colonial Oil Company (Africa and Australasia)</td>
+<td class="tdr">$250,000</td>
+</tr>
+
+</table>
 
 <p>But even this long list does not complete the
 <span class="pagenum" id="Page_23">[Pg 23]</span>companies in this combination. It does not
@@ -3722,42 +3868,148 @@ case contains some remarkable resemblances.
 In the case of the General Industrials Development
 Syndicate it was as follows:—</p>
 
-<pre>
-                                                            Shares.
-Henry Hassall, 32, Dartmouth Park Road                         1
-E. G. Flower, Elm Villa, Elm Road, Sidcup                      1
-Robert Cave, 26, Beversbrook Road, Tufnell Park                1
-Sydney Lowenthal, 59, Sidney Street, South Kensington          1
-Francis Glover Sharpe, 16, Foyle Road, Westcombe Park          1
-Ernest Luff Smith, 73, Ramsden Road, Balham                    1
-Horace Maxwell Johnson, 1, Dr. Johnson’s Buildings, barrister  1
-John Wreford Budd,    }
-Murray Johnson,       } all of 24, Austin Friars,
-Herbert Walter Johnson}   solicitors, jointly            399,993
-Arthur Statham Jecks  }
-                                                         ———-
-                                                         400,000
-</pre>
+<table class="autotable">
+
+<tr>
+<td colspan="3"></td>
+<td class="tdr">Shares.</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">Henry Hassall, 32, Dartmouth Park Road</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">E. G. Flower, Elm Villa, Elm Road, Sidcup</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">Robert Cave, 26, Beversbrook Road, Tufnell Park</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">Sydney Lowenthal, 59, Sidney Street, South Kensington</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">Francis Glover Sharpe, 16, Foyle Road, Westcombe Park</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">Ernest Luff Smith, 73, Ramsden Road, Balham</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">Horace Maxwell Johnson, 1, Dr. Johnson’s Buildings, barrister</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">John Wreford Budd,</td>
+<td class="tdl" rowspan="4">
+<img class="lr-brace" alt="right curly bracket" src="images/right-brace.png">
+</td>
+<td class="tdl" rowspan="4">all of 24, Austin Friars, solicitors, jointly</td>
+<td class="tdr" rowspan="4">399,993</td>
+</tr>
+
+<tr>
+<td class="tdl">Murray Johnson,</td>
+</tr>
+
+<tr>
+<td class="tdl">Herbert Walter Johnson</td>
+</tr>
+
+<tr>
+<td class="tdl">Arthur Statham Jecks</td>
+</tr>
+
+<tr>
+<td colspan="3"></td>
+<td class="tdr bt">400,000</td>
+</tr>
+
+</table>
 
 <p>Turning to the London Commercial Trading
 Company, we find the following names:—</p>
 
-<pre>
-                                                           Shares.
-Henry Hassall, 5, Florence Road, Finsbury Park                1
-E. G. Flower, 279, High Road, Lee                             1
-Robert Cave, 26, Beversbrook Park, Tufnell Park               1
-F. G. Sharpe, 27, Walbrook                                    1
-E. Luff Smith, 73, Ramsden Road, Balham                       1
-John Rayner, 8, Woodside Villas, Ewell Road, Surbiton         1
-G. Dudley Colclough, 47, Inverness Terrace                    1
-John Wreford Budd,    }
-Murray Johnson,       } of 24, Austin Friars, jointly,  722,502
-Herbert Walter Johnson}
-Arthur Statham Jecks  }
+<table class="autotable">
 
-                                                        722,509
-</pre>
+<tr>
+<td colspan="3"></td>
+<td class="tdr">Shares.</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">Henry Hassall, 5, Florence Road, Finsbury Park</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">E. G. Flower, 279, High Road, Lee</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">Robert Cave, 26, Beversbrook Park, Tufnell Park</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">F. G. Sharpe, 27, Walbrook</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">E. Luff Smith, 73, Ramsden Road, Balham</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">John Rayner, 8, Woodside Villas, Ewell Road, Surbiton</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl" colspan="3">G. Dudley Colclough, 47, Inverness Terrace</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">John Wreford Budd,</td>
+<td class="tdl" rowspan="4">
+<img class="lr-brace" alt="right curly bracket" src="images/right-brace.png">
+</td>
+<td class="tdl" rowspan="4">of 24, Austin Friars, jointly,</td>
+<td class="tdr" rowspan="4">722,502</td>
+</tr>
+
+<tr>
+<td class="tdl">Murray Johnson,</td>
+</tr>
+
+<tr>
+<td class="tdl">Herbert Walter Johnson</td>
+</tr>
+
+<tr>
+<td class="tdl">Arthur Statham Jecks</td>
+</tr>
+
+<tr>
+<td colspan="3"></td>
+<td class="tdr bt">722,509</td>
+</tr>
+
+</table>
 
 <p><span class="pagenum" id="Page_116">[Pg 116]</span></p>
 
@@ -3767,7 +4019,7 @@ Messrs. Budd, Johnson and Jecks, making up the total capital
 of £725,000.)</p>
 </blockquote>
 
-<p>It must be understood, of course, that the
+<p class="p2">It must be understood, of course, that the
 appearance of the names of English lawyers
 in these lists neither conveys any reflection of
 any kind upon them nor identifies them in
@@ -5615,29 +5867,81 @@ is as follows:—</p>
 
 <p><span class="pagenum" id="Page_181">[Pg 181]</span></p>
 
-<pre>
-                                                   M.
-Evening with Mr. Pampel and Obersteiger Hohner     42
-Evening with Mr. Mié                               28
+<table class="autotable">
 
-[<span class="smcap">Note.</span>—We had invited these gentlemen, and threw
+<tr>
+<td></td>
+<td class="tdr">M.</td>
+</tr>
+
+<tr>
+<td class="tdl">Evening with Mr. Pampel and Obersteiger Hohner</td>
+<td class="tdr">42</td>
+</tr>
+
+<tr>
+<td class="tdl">Evening with Mr. Mié</td>
+<td class="tdr">28</td>
+</tr>
+
+<tr>
+<td class="tdl td-hangindent">
+<p>[<span class="smcap">Note.</span>—We had invited these gentlemen, and threw
 about a good deal of money in order to
 accomplish something. Besides the M. 28
 entered here I added M. 48 out of my own
 pocket, which I have had entered in my
-own account.—(<i>Signed</i>) <span class="smcap">Mié</span>.]
+own account.—(<i>Signed</i>) <span class="smcap">Mié</span>.]</p>
+</td>
+<td></td>
+</tr>
 
-Cash, Mr. Müller, foreman                        100
-Cash, Mr. Plaintz, engineer, of Gustav Toelle     50
-Foreman of S. Wolle                                5
-Cigars for foreman Müller                         12.50
-Cigars for foreman Hortenbach                      6.25
-Carriage and beer—call on Hortenbach             10.30
-Wine, dinner, cigars, &amp;c., with Hortenbach        35.20
-Cash, Mr. Hortenbach                              20.00
-                                                 ———
-                    Total                     M. 309.25
-</pre>
+<tr>
+<td class="tdl">Cash, Mr. Müller, foreman</td>
+<td class="tdr">100</td>
+</tr>
+
+<tr>
+<td class="tdl">Cash, Mr. Plaintz, engineer, of Gustav Toelle</td>
+<td class="tdr">50</td>
+</tr>
+
+<tr>
+<td class="tdl">Foreman of S. Wolle</td>
+<td class="tdr">5</td>
+</tr>
+
+<tr>
+<td class="tdl">Cigars for foreman Müller</td>
+<td class="tdr">12.50</td>
+</tr>
+
+<tr>
+<td class="tdl">Cigars for foreman Hortenbach</td>
+<td class="tdr">6.25</td>
+</tr>
+
+<tr>
+<td class="tdl">Carriage and beer—call on Hortenbach</td>
+<td class="tdr">10.30</td>
+</tr>
+
+<tr>
+<td class="tdl">Wine, dinner, cigars, &amp;c., with Hortenbach</td>
+<td class="tdr">35.20</td>
+</tr>
+
+<tr>
+<td class="tdl">Cash, Mr. Hortenbach</td>
+<td class="tdr">20.00</td>
+</tr>
+
+<tr>
+<td class="tdc">Total</td>
+<td class="tdr bt">M.&nbsp;309.25</td>
+</tr>
+
+</table>
 
 <p>Mr. Hortenbach seems to have taken a good
 deal of lubricating. Apparently his machinery
@@ -6048,93 +6352,345 @@ below, the return at Somerset House has “26,
 Broadway, New York,” which is the central
 address of the Standard:—</p>
 
+<table class="autotable p2">
 
-<p><span class="smcap">American Shareholders.</span></p>
+<tr>
+<td colspan="2" class="tdc"><span class="smcap">American Shareholders.</span></td>
+</tr>
 
-<pre>
-                                                            Shares.
-H. M. Flagler and J. D. Archbold                             10,239
-John D. Rockefeller                                           6,867
-C. W. Harkness, 611, Fifth Avenue, N.Y.                       1,542
-Mrs. Mary Pratt, Chas. M. Pratt, and Fred B. Pratt            1,336
-Oliver H. Payne, 2, West Fifty-seventh Street, N.Y.           1,068
-H. M. Flagler (separately)                                      748
-H. H. Rogers                                                    503
-Laman V. Harkness, Greenwich, Conn.                             349
-W. L. Harkness, 10, West Forty-third Street, N.Y.               347
-Wm. Rockefeller                                                 347
-Chas. Lockhart, Pittsburg                                       320
-John D. Archbold                                                213
+<tr>
+<td></td>
+<td class="tdr">Shares.</td>
+</tr>
 
-<p><span class="pagenum" id="Page_198">[Pg 198]</span></p>
-W. Everitt Macy                                                 199
-Mrs. Esther Jennings, 48, Park Avenue, N.Y.                     146
-Miss A. B. Jennings, 48, Park Avenue, N.Y.                       63
-Oliver Jennings                                                  63
-Walter Jennings                                                  64
-Mrs. Mary B. Jennings, Fairfield, Conn.                          53
-Mrs. Elmira D. Brewster                                          53
-George S. Brewster                                               53
-F. F. Brewster, Newhaven, Conn.                                  53
-R. Stanton Brewster                                              53
-J. M. Constable, draper                                          82
-H. Melville Hanna, Cleveland, Ohio                               80
-Wesley H. Tilford                                                80
-C. F. Heye                                                       98
-J. S. Kennedy                                                    80
-Ed. T. Bedford                                                   66
-Ambrose M. McGregor                                              53
-Louis H. Severance                                              142
-C. M. Chapin                                                     26
-H. C. Folger, jun.                                               26
-W. H. Macy, jun.                                                 13
-W. T. Wardwell (treasurer of the Standard Oil Trust)             21
-Daniel O’Day, banker, N.Y.                                       47
-Hugh J. Jewett, Morristown, New Jersey                           32
-J. H. Alexander, Elizabeth, New Jersey                           18
-Mrs. Emma B. Auchinloss, 17, West Forty-ninth Street, N.Y.       63
-L. S. Thompson, Redbank, New Jersey                              29
-W. P. Thompson, Redbank, New Jersey                              34
-Mrs. Mary E. Thompson                                            37
-Mrs. Eliz. T. Preston, 1,228, Wood Avenue, Colorado Springs      26
-Mrs. Helen James                                                 63
-Mrs. Salome Jones, Boston, Mass.                                 29
-Joseph Seep, banker, Oil City, Penn.                             26
-C. F. Akerman                                                     1
+<tr>
+<td class="tdl">H. M. Flagler and J. D. Archbold</td>
+<td class="tdr">10,239</td>
+</tr>
 
-<p><span class="pagenum" id="Page_199">[Pg 199]</span></p>
-A. J. Pouch                                                       1
-T. C. Bushnell                                                    1
-Livingston Roe                                                    1
-</pre>
+<tr>
+<td class="tdl">John D. Rockefeller</td>
+<td class="tdr">6,867</td>
+</tr>
 
+<tr>
+<td class="tdl">C. W. Harkness, 611, Fifth Avenue, N.Y.</td>
+<td class="tdr">1,542</td>
+</tr>
 
-<p><span class="smcap">London Shareholders.</span></p>
+<tr>
+<td class="tdl">Mrs. Mary Pratt, Chas. M. Pratt, and Fred B. Pratt</td>
+<td class="tdr">1,336</td>
+</tr>
 
-<pre>
-Frank E. Bliss                                                    1
-James Macdonald                                                   1
-J. H. Usmar                                                       1
-W. A. Hawkins                                                     1
-</pre>
+<tr>
+<td class="tdl">Oliver H. Payne, 2, West Fifty-seventh Street, N.Y.</td>
+<td class="tdr">1,068</td>
+</tr>
+
+<tr>
+<td class="tdl">H. M. Flagler (separately)</td>
+<td class="tdr">748</td>
+</tr>
+
+<tr>
+<td class="tdl">H. H. Rogers</td>
+<td class="tdr">503</td>
+</tr>
+
+<tr>
+<td class="tdl">Laman V. Harkness, Greenwich, Conn.</td>
+<td class="tdr">349</td>
+</tr>
+
+<tr>
+<td class="tdl">W. L. Harkness, 10, West Forty-third Street, N.Y.</td>
+<td class="tdr">347</td>
+</tr>
+
+<tr>
+<td class="tdl">Wm. Rockefeller</td>
+<td class="tdr">347</td>
+</tr>
+
+<tr>
+<td class="tdl">Chas. Lockhart, Pittsburg</td>
+<td class="tdr">320</td>
+</tr>
+
+<tr>
+<td class="tdl">John D. Archbold</td>
+<td class="tdr">213</td>
+</tr>
+
+<tr>
+<td class="tdl"><span class="pagenum" id="Page_198">[Pg 198]</span>W. Everitt Macy</td>
+<td class="tdr">199</td>
+</tr>
+
+<tr>
+<td class="tdl">Mrs. Esther Jennings, 48, Park Avenue, N.Y.</td>
+<td class="tdr">146</td>
+</tr>
+
+<tr>
+<td class="tdl">Miss A. B. Jennings, 48, Park Avenue, N.Y.</td>
+<td class="tdr">63</td>
+</tr>
+
+<tr>
+<td class="tdl">Oliver Jennings</td>
+<td class="tdr">63</td>
+</tr>
+
+<tr>
+<td class="tdl">Walter Jennings</td>
+<td class="tdr">64</td>
+</tr>
+
+<tr>
+<td class="tdl">Mrs. Mary B. Jennings, Fairfield, Conn.</td>
+<td class="tdr">53</td>
+</tr>
+
+<tr>
+<td class="tdl">Mrs. Elmira D. Brewster</td>
+<td class="tdr">53</td>
+</tr>
+
+<tr>
+<td class="tdl">George S. Brewster</td>
+<td class="tdr">53</td>
+</tr>
+
+<tr>
+<td class="tdl">F. F. Brewster, Newhaven, Conn.</td>
+<td class="tdr">53</td>
+</tr>
+
+<tr>
+<td class="tdl">R. Stanton Brewster</td>
+<td class="tdr">53</td>
+</tr>
+
+<tr>
+<td class="tdl">J. M. Constable, draper</td>
+<td class="tdr">82</td>
+</tr>
+
+<tr>
+<td class="tdl">H. Melville Hanna, Cleveland, Ohio</td>
+<td class="tdr">80</td>
+</tr>
+
+<tr>
+<td class="tdl">Wesley H. Tilford</td>
+<td class="tdr">80</td>
+</tr>
+
+<tr>
+<td class="tdl">C. F. Heye</td>
+<td class="tdr">98</td>
+</tr>
+
+<tr>
+<td class="tdl">J. S. Kennedy</td>
+<td class="tdr">80</td>
+</tr>
+
+<tr>
+<td class="tdl">Ed. T. Bedford</td>
+<td class="tdr">66</td>
+</tr>
+
+<tr>
+<td class="tdl">Ambrose M. McGregor</td>
+<td class="tdr">53</td>
+</tr>
+
+<tr>
+<td class="tdl">Louis H. Severance</td>
+<td class="tdr">142</td>
+</tr>
+
+<tr>
+<td class="tdl">C. M. Chapin</td>
+<td class="tdr">26</td>
+</tr>
+
+<tr>
+<td class="tdl">H. C. Folger, jun.</td>
+<td class="tdr">26</td>
+</tr>
+
+<tr>
+<td class="tdl">W. H. Macy, jun.</td>
+<td class="tdr">13</td>
+</tr>
+
+<tr>
+<td class="tdl">W. T. Wardwell (treasurer of the Standard Oil Trust)</td>
+<td class="tdr">21</td>
+</tr>
+
+<tr>
+<td class="tdl">Daniel O’Day, banker, N.Y.</td>
+<td class="tdr">47</td>
+</tr>
+
+<tr>
+<td class="tdl">Hugh J. Jewett, Morristown, New Jersey</td>
+<td class="tdr">32</td>
+</tr>
+
+<tr>
+<td class="tdl">J. H. Alexander, Elizabeth, New Jersey</td>
+<td class="tdr">18</td>
+</tr>
+
+<tr>
+<td class="tdl">Mrs. Emma B. Auchinloss, 17, West Forty-ninth Street, N.Y.</td>
+<td class="tdr">63</td>
+</tr>
+
+<tr>
+<td class="tdl">L. S. Thompson, Redbank, New Jersey</td>
+<td class="tdr">29</td>
+</tr>
+
+<tr>
+<td class="tdl">W. P. Thompson, Redbank, New Jersey</td>
+<td class="tdr">34</td>
+</tr>
+
+<tr>
+<td class="tdl">Mrs. Mary E. Thompson</td>
+<td class="tdr">37</td>
+</tr>
+
+<tr>
+<td class="tdl">Mrs. Eliz. T. Preston, 1,228, Wood Avenue, Colorado Springs</td>
+<td class="tdr">26</td>
+</tr>
+
+<tr>
+<td class="tdl">Mrs. Helen James</td>
+<td class="tdr">63</td>
+</tr>
+
+<tr>
+<td class="tdl">Mrs. Salome Jones, Boston, Mass.</td>
+<td class="tdr">29</td>
+</tr>
+
+<tr>
+<td class="tdl">Joseph Seep, banker, Oil City, Penn.</td>
+<td class="tdr">26</td>
+</tr>
+
+<tr>
+<td class="tdl">C. F. Akerman</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl"><span class="pagenum" id="Page_199">[Pg 199]</span>A. J. Pouch</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">T. C. Bushnell</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">Livingston Roe</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdc" colspan="2"><span class="smcap">London Shareholders.</span></td>
+</tr>
+
+<tr>
+<td class="tdl">Frank E. Bliss</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">James Macdonald</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">J. H. Usmar</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">W. A. Hawkins</td>
+<td class="tdr">1</td>
+</tr>
+
+</table>
 
 <p>There have been various changes in the share
 list, and on June 30, 1910, the following were
 the principal shareholders:—</p>
 
-<pre>
-                                                            Shares.
-Standard Oil Company of New Jersey                           49,993
-Trustees Standard Oil Trust                                       1
-Frederick D. Asche                                                1
-J. H. Usmar, 22, Billiter Street, E.C., merchant                  1
-Francis Edward Powell, 22, Billiter Street, merchant              1
-Thomas H. Hawkins, secretary, 22, Billiter Street                 1
-James Hamilton, 22, Billiter Street, merchant                     1
-William E. Bemis, 26, Broadway, New York                          1
-                                                             ———
-                                                             50,000
-</pre>
+<table class="autotable">
+
+<tr>
+<td></td>
+<td class="tdr">Shares.</td>
+</tr>
+
+<tr>
+<td class="tdl">Standard Oil Company of New Jersey</td>
+<td class="tdr">49,993</td>
+</tr>
+
+<tr>
+<td class="tdl">Trustees Standard Oil Trust</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">Frederick D. Asche</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">J. H. Usmar, 22, Billiter Street, E.C., merchant</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">Francis Edward Powell, 22, Billiter Street, merchant</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">Thomas H. Hawkins, secretary, 22, Billiter Street</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">James Hamilton, 22, Billiter Street, merchant</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td class="tdl">William E. Bemis, 26, Broadway, New York</td>
+<td class="tdr">1</td>
+</tr>
+
+<tr>
+<td></td>
+<td class="tdr bt">50,000</td>
+</tr>
+
+</table>
 
 <p>The capital of the Company was at that date
 £1,000,000 in £20 shares. It is worthy of
@@ -7298,13 +7854,23 @@ company in the United Kingdom for £29,947.
 Up to October, 1905, its five directors were as
 follows—</p>
 
-<pre>
-John Dustin Archbold, 26, Broadway, N.Y.
-Charles Millard Pratt, 26, Broadway, N.Y.
-Charles Marvin Everest, Rochester, N.Y.
-Howard B. Case, Norfolk Street, Strand.
-Henry Forster Grierson, Farnborough, Hants.
-</pre>
+<table class="autotable">
+<tr>
+<td class="tdl">John Dustin Archbold, 26, Broadway, N.Y.</td>
+</tr>
+<tr>
+<td class="tdl">Charles Millard Pratt, 26, Broadway, N.Y.</td>
+</tr>
+<tr>
+<td class="tdl">Charles Marvin Everest, Rochester, N.Y.</td>
+</tr>
+<tr>
+<td class="tdl">Howard B. Case, Norfolk Street, Strand.</td>
+</tr>
+<tr>
+<td class="tdl">Henry Forster Grierson, Farnborough, Hants.</td>
+</tr>
+</table>
 
 <p><span class="pagenum" id="Page_240">[Pg 240]</span></p>
 
@@ -7324,19 +7890,59 @@ refuse to register any transfer of shares without
 giving their reasons. The following were
 the shareholders on November, 30, 1909:—</p>
 
-<pre>
-                                          Shares.
-Vacuum Oil Company of Rochester, N.Y.     50,000
-Charles Marvin Everest, Rochester, N.Y.    2,000
-Howard B. Case, managing director             50
-Henry Forster Grierson, Farnborough           10
-Louis Chas. Panizzardi, Paris, merchant       50
-Edward Prizer, 29, Broadway, N.Y.          2,790
-Ernest Michaelson, Copenhagen, merchant       50
-Everett Oscar Wader, 29, Broadway, N.Y.       50
-                                          ———
-                                Total     55,000
-</pre>
+<table class="autotable">
+
+<tr>
+<td></td>
+<td class="tdr">Shares.</td>
+</tr>
+
+<tr>
+<td class="tdl">Vacuum Oil Company of Rochester, N.Y.</td>
+<td class="tdr">50,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Charles Marvin Everest, Rochester, N.Y.</td>
+<td class="tdr">2,000</td>
+</tr>
+
+<tr>
+<td class="tdl">Howard B. Case, managing director</td>
+<td class="tdr">50</td>
+</tr>
+
+<tr>
+<td class="tdl">Henry Forster Grierson, Farnborough</td>
+<td class="tdr">10</td>
+</tr>
+
+<tr>
+<td class="tdl">Louis Chas. Panizzardi, Paris, merchant</td>
+<td class="tdr">50</td>
+</tr>
+
+<tr>
+<td class="tdl">Edward Prizer, 29, Broadway, N.Y.</td>
+<td class="tdr">2,790</td>
+</tr>
+
+<tr>
+<td class="tdl">Ernest Michaelson, Copenhagen, merchant</td>
+<td class="tdr">50</td>
+</tr>
+
+<tr>
+<td class="tdl">Everett Oscar Wader, 29, Broadway, N.Y.</td>
+<td class="tdr">50</td>
+</tr>
+
+<tr>
+<td class="tdr">Total<span style="padding-right:2em"></span></td>
+<td class="tdr bt">55,000</td>
+</tr>
+
+</table>
 
 <p>Mr. Archbold and Mr. Pratt have left the
 board of directors, which included in November,
