@@ -81,6 +81,9 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] 173: F rounds have left section dividers here. are they h3 or h4?
 * [x] 178, 180: some signature blocks after quoted text?
 * [x] 251-255: index
+* [ ] A number of `Q.` and `A.` in italics here, should get `<abbr>` tags
+  * [ ] Add `Q.`, `A.` to abbr.json?
+* [x] Add `v.` to abbr.json? `versus`, `lang="la"`
 
 ### Project manager notes ###
 
