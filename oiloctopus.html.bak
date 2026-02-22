@@ -108,6 +108,8 @@ table.autotable th { padding: 0.05em 0.25em; }
 .tdl      {text-align: left;}
 .tdr      {text-align: right;}
 .tdc      {text-align: center;}
+.tdt      {vertical-align: top;}
+.tdb      {vertical-align: bottom;}
 
 .lr-brace { height: 5.25em; max-height: 5.25em; width: 0.5em; }
 .td-hangindent p {
@@ -330,10 +332,11 @@ p.drop-cap {
 p.drop-cap:first-letter
 {
   float: left;
-  margin: 0.15em 0.1em 0em 0em;
+  margin: 0 0.1em 0 0;
   font-size: 250%;
   line-height:0.85em;
 }
+.uppercase { text-transform: uppercase; }
 .x-ebookmaker  p.drop-cap:first-letter
 {
   float: none;
@@ -442,93 +445,93 @@ hemispheres.</p>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="1">I.</abbr></td>
+<td class="tdr tdt"><abbr title="1">I.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_I">THE MEN AND THE MONOPOLY</a></td>
-<td class="tdr">9</td>
+<td class="tdr tdb">9</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="2">II.</abbr></td>
+<td class="tdr tdt"><abbr title="2">II.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_II">THE SECRET REBATE</a></td>
-<td class="tdr">25</td>
+<td class="tdr tdb">25</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="3">III.</abbr></td>
+<td class="tdr tdt"><abbr title="3">III.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_III">THE RAILROADS AND THE PIPE LINES</a></td>
-<td class="tdr">43</td>
+<td class="tdr tdb">43</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="4">IV.</abbr></td>
+<td class="tdr tdt"><abbr title="4">IV.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_IV">THE BIRTH OF THE TRUST</a></td>
-<td class="tdr">63</td>
+<td class="tdr tdb">63</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="5">V.</abbr></td>
+<td class="tdr tdt"><abbr title="5">V.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_V">BRIBERY: THE ARCHBOLD LETTERS</a></td>
-<td class="tdr">75</td>
+<td class="tdr tdb">75</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="6">VI.</abbr></td>
+<td class="tdr tdt"><abbr title="6">VI.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_VI">ARSON AND ESPIONAGE</a></td>
-<td class="tdr">89</td>
+<td class="tdr tdb">89</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="7">VII.</abbr></td>
+<td class="tdr tdt"><abbr title="7">VII.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_VII">THE “BOGUS INDEPENDENTS”</a></td>
-<td class="tdr">105</td>
+<td class="tdr tdb">105</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="8">VIII.</abbr></td>
+<td class="tdr tdt"><abbr title="8">VIII.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_VIII">THE STANDARD’S “INVENTIONS”</a></td>
-<td class="tdr">123</td>
+<td class="tdr tdb">123</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="9">IX.</abbr></td>
+<td class="tdr tdt"><abbr title="9">IX.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_IX">THE TRUST IN AMERICA AND ASIA</a></td>
-<td class="tdr">137</td>
+<td class="tdr tdb">137</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="10">X.</abbr></td>
+<td class="tdr tdt"><abbr title="10">X.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_X">RUSSIA, GALICIA, AND ROUMANIA</a></td>
-<td class="tdr">155</td>
+<td class="tdr tdb">155</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="11">XI.</abbr></td>
+<td class="tdr tdt"><abbr title="11">XI.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_XI">THE TRUST IN GERMANY, SWEDEN, AND FRANCE</a></td>
-<td class="tdr">171</td>
+<td class="tdr tdb">171</td>
 </tr>
 
 <tr>
-<td class="tdr"><span class="pagenum" id="Page_8">[Pg 8]</span><abbr title="12">XII.</abbr></td>
+<td class="tdr tdt"><span class="pagenum" id="Page_8">[Pg 8]</span><abbr title="12">XII.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_XII">THE TRUST’S “TIED HOUSES” IN ENGLAND</a></td>
-<td class="tdr">189</td>
+<td class="tdr tdb">189</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="13">XIII.</abbr></td>
+<td class="tdr tdt"><abbr title="13">XIII.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_XIII">THE FLASH-POINT SCANDAL</a></td>
-<td class="tdr">207</td>
+<td class="tdr tdb">207</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="14">XIV.</abbr></td>
+<td class="tdr tdt"><abbr title="14">XIV.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_XIV">THE ROCKEFELLERS AND THE HOME OFFICE</a></td>
-<td class="tdr">217</td>
+<td class="tdr tdb">217</td>
 </tr>
 
 <tr>
-<td class="tdr"><abbr title="15">XV.</abbr></td>
+<td class="tdr tdt"><abbr title="15">XV.</abbr></td>
 <td class="tdl"><a href="#CHAPTER_XV">THE LUBRICATING OIL TRADE</a></td>
-<td class="tdr">237</td>
+<td class="tdr tdb">237</td>
 </tr>
 
 <tr>
@@ -568,7 +571,7 @@ hemispheres.</p>
 <p class="center">THE MEN AND THE MONOPOLY</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">There</span> has lately arisen at Queen Anne’s
+<p class="drop-cap p2"><span class="smcap uppercase">There</span> has lately arisen at Queen Anne’s
 Gate, on the site of a fine Victorian
 mansion demolished to make room for it, a
 gigantic palace, steel-framed in the up-to-date
@@ -996,12 +999,12 @@ at Somerset House:—</p>
 
 <tr>
 <td class="tdl">Anglo-American Oil Company (London)</td>
-<td class="tdr">£1,000,000</td>
+<td class="tdr"><abbr title="1,000,000 pounds">£1,000,000</abbr></td>
 </tr>
 
 <tr>
 <td class="tdl">Vacuum Oil Company, <abbr title="Limited">Ltd.</abbr> (London)</td>
-<td class="tdr">£55,000</td>
+<td class="tdr"><abbr title="55,000 pounds">£55,000</abbr></td>
 </tr>
 
 <tr>
@@ -1133,7 +1136,7 @@ his being.”</p>
 <p class="center">THE SECRET REBATE</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">How</span> has this vast combination been built
+<p class="drop-cap p2"><span class="smcap uppercase">How</span> has this vast combination been built
 up? There are those who will tell you
 that it has been accomplished because John D.
 Rockefeller was thrifty; there are others who
@@ -1501,9 +1504,9 @@ Improvement Company, who appeared before
 the Investigating Committee appointed by Congress
 in March, 1872, that the discrimination
 would have turned over to the Company fully
-$6,000,000 (£1,200,000) annually on the carrying
+$6,000,000 (<abbr title="1,200,000 pounds">£1,200,000</abbr>) annually on the carrying
 trade, while the railroads expected to make
-<span class="pagenum" id="Page_39">[Pg 39]</span>about $1,500,000 (£300,000) more than on the
+<span class="pagenum" id="Page_39">[Pg 39]</span>about $1,500,000 (<abbr title="300,000 pounds">£300,000</abbr>) more than on the
 previously existing rates. The Company would
 thus make four times as good a bargain as the
 railroads. It is difficult to see how shrewd
@@ -1617,7 +1620,7 @@ wheel.”</p>
 <p class="center">THE RAILROADS AND THE PIPE LINES</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">The</span> contract between the railroads and
+<p class="drop-cap p2"><span class="smcap uppercase">The</span> contract between the railroads and
 the South Improvement Company was
 signed, and armed with this deadly weapon, <abbr>Mr.</abbr>
 Rockefeller went round to all the rival refineries
@@ -1725,7 +1728,7 @@ well down to date by a concrete instance—the
 United States Court of Appeal confirmed a
 decree of the Circuit Court of the Western
 District of New York State fining the Standard
-Oil Company $20,000 (£4,000) “for accepting
+Oil Company $20,000 (<abbr title="4,000 pounds">£4,000</abbr>) “for accepting
 concessions from the published rate of the
 Pennsylvania, New York Central, and Rutland
 <span class="pagenum" id="Page_49">[Pg 49]</span>Railroads in violation of Inter-State Commercial
@@ -2196,7 +2199,7 @@ grow up around it.”</p>
 <p class="center">THE BIRTH OF THE TRUST</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">The</span> arrangements which have now been
+<p class="drop-cap p2"><span class="smcap uppercase">The</span> arrangements which have now been
 described were the foundation on which
 the Standard Oil Trust was built. Some time in
 the summer of 1874, when he had become sure
@@ -2576,7 +2579,7 @@ home of the Standard Oil.”</p>
 <p class="center">BRIBERY: THE ARCHBOLD LETTERS</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">The</span> Standard Oil people have undoubtedly
+<p class="drop-cap p2"><span class="smcap uppercase">The</span> Standard Oil people have undoubtedly
 practised bribery throughout a long series
 of years and on the most comprehensive scale,
 and that not merely to avert a temporary
@@ -2820,7 +2823,7 @@ Attorney-General, and that there would be a liberal reward for
 him if things were dickered. The man offered Squires $100,000.
 Squires said that would amount to nothing at all; that he
 would not attempt such a job for less than $500,000. Finally
-he was authorised to offer $400,000 (£80,000) to the Attorney-General
+he was authorised to offer $400,000 (<abbr title="80,000 pounds">£80,000</abbr>) to the Attorney-General
 if he would let the case stand adjourned over his term
 of office [this was the prosecution of the Standard by the State
 of Ohio as an illegal Trust], and $100,000 was for Squires and
@@ -3127,7 +3130,7 @@ the other.”</p>
 <p class="center">ARSON AND ESPIONAGE</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">It</span> will be necessary to return to the subject
+<p class="drop-cap p2"><span class="smcap uppercase">It</span> will be necessary to return to the subject
 of bribery when we come to the marketing
 business of the Trust. We will now pass to a
 few examples of the resort to open violence for
@@ -3337,7 +3340,7 @@ as the Court was authorised by law to fix. In
 the result the two Everests were each fined $250
 for the criminal offence, and the Vacuum Oil
 Company settled the civil suits for $85,000
-(£17,000). This is the case on which the late
+(<abbr title="17,000 pounds">£17,000</abbr>). This is the case on which the late
 <abbr>Mr.</abbr> Henry D. Lloyd (whose work, “Wealth
 against Commonwealth,” was the first to expose
 the Standard’s misdeeds), based the caustic comment:
@@ -3526,7 +3529,7 @@ negro boy who was induced by the Atlantic
 Refining Company of Philadelphia (Standard Oil
 subsidiary), to supply regular details of the
 business of the Lewis Emery Oil Company, his
-employers, was only paid $90 (£18) for supplying
+employers, was only paid $90 (<abbr title="18 pounds">£18</abbr>) for supplying
 <span class="pagenum" id="Page_103">[Pg 103]</span>information as to the firm’s daily shipments
 for about six months and also for
 smuggling his company’s price-book to the
@@ -3541,7 +3544,7 @@ sense of the rising generation on much more
 economic principles. E. M. Wilhoit, Standard
 agent at Topeka, Kansas, from 1891 to 1898,
 testified in the Missouri trial that his agency
-was allowed $8 (£1 <abbr title="12 shillings">12s.</abbr> <abbr title="6 pence">6d.</abbr>) a month for paying
+was allowed $8 (<abbr title="1 pound">£1</abbr> <abbr title="12 shillings">12s.</abbr> <abbr title="6 pence">6d.</abbr>) a month for paying
 railroad employees for information of competitive
 shipments, <abbr>Mr.</abbr> E. P. Pratt, the manager
 of the Kansas City branch of the Consolidated
@@ -3591,7 +3594,7 @@ besides themselves.”</p>
 <p class="center">THE “BOGUS INDEPENDENTS.”</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">The</span> constant policy of the Standard throughout
+<p class="drop-cap p2"><span class="smcap uppercase">The</span> constant policy of the Standard throughout
 its whole career has been superabundantly
 proved to be to cut prices where there
 is competition, and where there is none to raise
@@ -3747,7 +3750,7 @@ the names now.</p>
 Government, pointed out that the New York
 books of the Anglo-American Oil Company
 <abbr title="Limited">Ltd.</abbr>, of London, showed that the Company
-between 1899 and 1906 loaned over £540,000
+between 1899 and 1906 loaned over <abbr title="540,000 pounds">£540,000</abbr>
 to <abbr>Mr.</abbr> James McDonald, who was then
 its managing director, and he suggested
 that it was to provide the money to enable the
@@ -4017,7 +4020,7 @@ Company, we find the following names:—</p>
 <blockquote>
 <p>(On February 23, 1904, 2,493 more shares were allotted to
 Messrs. Budd, Johnson and Jecks, making up the total capital
-of £725,000.)</p>
+of <abbr title="725,000 pounds">£725,000</abbr>.)</p>
 </blockquote>
 
 <p class="p2">It must be understood, of course, that the
@@ -4042,23 +4045,23 @@ share was transferred to him). In both cases
 almost the entire assets of the Company are
 represented in the balance-sheet by shares of
 foreign companies. In the case of the General
-Industrials, out of its £100,526 assets £94,613
+Industrials, out of its <abbr title="100,526 pounds">£100,526</abbr> assets <abbr title="94,613 pounds">£94,613</abbr>
 represented such shares, while in the case of
 the London Commercial this item represents
-£718,685 out of total assets of £734,979.</p>
+<abbr title="718,685 pounds">£718,685</abbr> out of total assets of <abbr title="734,979 pounds">£734,979</abbr>.</p>
 
 <p>There is only one difference in the history
 <span class="pagenum" id="Page_117">[Pg 117]</span>of these companies. While the London Commercial
 has increased its original capital of
-£110,000 to £725,000, the General Industrials
+<abbr title="110,000 pounds">£110,000</abbr> to <abbr title="725,000 pounds">£725,000</abbr>, the General Industrials
 has reduced its capital. It consisted at first
-of 400,000 £1 shares, but in June, 1901, the
-capital was reduced to £230,000 by the repayment
+of 400,000 <abbr title="1 pound">£1</abbr> shares, but in June, 1901, the
+capital was reduced to <abbr title="230,000 pounds">£230,000</abbr> by the repayment
 of <abbr title="8 shillings">8s.</abbr> <abbr title="6 pence">6d.</abbr> on each share. On
 December 13, 1905, the capital was further
-reduced to £120,000 by the repayment of a
+reduced to <abbr title="120,000 pounds">£120,000</abbr> by the repayment of a
 further <abbr title="5 shillings">5s.</abbr> <abbr title="6 pence">6d.</abbr> on each share, and on August
-10, 1906, this was further reduced to £100,000
+10, 1906, this was further reduced to <abbr title="100,000 pounds">£100,000</abbr>
 by refunding a further <abbr title="1 shilling">1s.</abbr> per share. This world
 is full of strange coincidences, but it is distinctly
 worth noting that the capital of the
@@ -4066,9 +4069,9 @@ Manhattan Oil Company showed a synchronous
 tendency to fall. From an exhibit put in by <abbr>Mr.</abbr>
 Kellogg in the Missouri case it appeared that
 the capital of the Manhattan Oil Company was
-reduced from $2,000,000 (£400,000) to $500,000
-(£100,000) on May 23, 1902, and to $150,000
-(£30,000) on October 23, 1905.</p>
+reduced from $2,000,000 (<abbr title="400,000 pounds">£400,000</abbr>) to $500,000
+(<abbr title="100,000 pounds">£100,000</abbr>) on May 23, 1902, and to $150,000
+(<abbr title="30,000 pounds">£30,000</abbr>) on October 23, 1905.</p>
 
 <p><abbr>Mr.</abbr> Brady testified that when <abbr>Mr.</abbr> Herbert
 Johnson, of London, came to him in New York
@@ -4253,7 +4256,7 @@ the Republic at their beck and call.”</p>
 <p class="center">THE STANDARD’S “INVENTIONS”</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">The</span> Standard achieved other ends by its
+<p class="drop-cap p2"><span class="smcap uppercase">The</span> Standard achieved other ends by its
 system of creating bogus competitors,
 besides avoiding public odium. It was enabled
 by their operation to carry on a competitive
@@ -4576,7 +4579,7 @@ person of one of its subsidiaries, the Standard
 Oil Company of Indiana, for the same old
 charges of unjust and illegal railway discriminations,
 and condemned on August 3, 1907, to
-pay a fine of $29,240,000 (£5,848,000). This fine
+pay a fine of $29,240,000 (<abbr title="5,848,000 pounds">£5,848,000</abbr>). This fine
 <span class="pagenum" id="Page_135">[Pg 135]</span>was set aside on appeal on the ground that it
 had been assessed on the capital of the Standard
 Oil Company of New Jersey instead of on that
@@ -4623,7 +4626,7 @@ money for money’s sake.”</p>
 <p class="center">THE TRUST IN AMERICA AND ASIA</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">Hitherto</span> we have been dealing with the
+<p class="drop-cap p2"><span class="smcap uppercase">Hitherto</span> we have been dealing with the
 history of the Standard Oil Trust on its
 native heath, the United States of America. It
 is now time to pass in brief review some of
@@ -4899,7 +4902,7 @@ of 80,000,000 florins, which carries on all the
 pumping and refining operations of the combine
 in the Far East, while a new English company,
 the Anglo-Saxon Petroleum Company, with a
-capital of £4,000,000, owns all the petroleum
+capital of <abbr title="4,000,000 pounds">£4,000,000</abbr>, owns all the petroleum
 fields in which they operate, and also the
 very large fleet of tank steamers formerly
 owned by the Shell Company, in which their
@@ -4913,10 +4916,10 @@ who were competitors of the Standard Oil Trust.
 In 1909 the Royal Dutch-Shell combine took
 over the business of many of their agents.
 For this purpose the Shell Company provided
-additional capital amounting to £440,000,
-the Royal Dutch put up £660,000, and the
-Asiatic Petroleum Company £200,000, making
-an additional outlay of £1,300,000 for one
+additional capital amounting to <abbr title="440,000 pounds">£440,000</abbr>,
+the Royal Dutch put up <abbr title="660,000 pounds">£660,000</abbr>, and the
+Asiatic Petroleum Company <abbr title="200,000 pounds">£200,000</abbr>, making
+an additional outlay of <abbr title="1,300,000 pounds">£1,300,000</abbr> for one
 branch of their business. A large Roumanian
 oil company, the Astra, has been secured, and
 the Shanghai-Langkat Company, which operates
@@ -5084,10 +5087,10 @@ Burma did not lack either zeal or ability. But
 it failed, and the Trust cannot get into Burma.
 The imports of all classes of oils from Burma
 into Madras Presidency during 1909–10
-amounted to £317,868, as compared with
-£212,982 in 1908–9. In the same period the
+amounted to <abbr title="317,868 pounds">£317,868</abbr>, as compared with
+<abbr title="212,982 pounds">£212,982</abbr> in 1908–9. In the same period the
 imports of American oils decreased from
-£241,128 to £189,362.</p>
+<abbr title="241,128 pounds">£241,128</abbr> to <abbr title="189,362 pounds">£189,362</abbr>.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
@@ -5119,7 +5122,7 @@ corners of the world.”</p>
 <p class="center">RUSSIA, GALICIA, AND ROUMANIA</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">Passing</span> next to Russia, there is no doubt
+<p class="drop-cap p2"><span class="smcap uppercase">Passing</span> next to Russia, there is no doubt
 that in the past this was a far more
 dangerous competitor of the Standard than it
 now is. The Baku output was at first so
@@ -5409,7 +5412,7 @@ of this war against the Standard. It appears
 that there is also operating in Galicia a certain
 Limanova Petroleum Company, which, though
 registered as an Austrian company, has about
-£500,000 of French capital invested in it. It
+<abbr title="500,000 pounds">£500,000</abbr> of French capital invested in it. It
 has been working “in some sort of unconfessed
 relationship with the Vacuum Oil Company,”
 and the <cite>Times</cite> correspondent tells us how the
@@ -5527,7 +5530,7 @@ keen rivalry has been going on in the
 Roumanian oil-field, and only last year the
 Shell-Royal-Dutch party purchased a large
 Roumanian oil company, the Astra, which is
-now valued at £1,200,000. In the spring of 1907
+now valued at <abbr title="1,200,000 pounds">£1,200,000</abbr>. In the spring of 1907
 the Standard came to a “selling arrangement”
 with the European Petroleum Union, and this
 was followed by a similar arrangement with the
@@ -5546,7 +5549,7 @@ if the “oil war” lasts much longer. Sir M.
 Samuel has stated that the Bataafsche Petroleum
 Maatschappij and the Anglo-Saxon Petroleum
 Company, <abbr title="Limited">Ltd.</abbr>, distributed in dividends
-in 1909 £1,500,000, and that the profits for 1910
+in 1909 <abbr title="1,500,000 pounds">£1,500,000</abbr>, and that the profits for 1910
 will not be lower, so that apparently that
 contest has not seriously affected the Shell-Royal-Dutch
 combine.</p>
@@ -5582,7 +5585,7 @@ only things they have not got—power and money.”</p>
 <p class="center">THE TRUST IN GERMANY, SWEDEN, AND FRANCE</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">In</span> Germany the Standard was artful enough
+<p class="drop-cap p2"><span class="smcap uppercase">In</span> Germany the Standard was artful enough
 to strengthen its position by acquiring
 existing oil companies and retaining certain
 prominent German oil merchants as shareholders,
@@ -6122,7 +6125,7 @@ monopoly of the benzine trade. The latest
 news last September was that the French
 Government has been induced to reduce the
 <span class="pagenum" id="Page_187">[Pg 187]</span>import duty on Dutch East Indian benzine
-from £1 to <abbr title="10 shillings">10s.</abbr>, and this has enabled the
+from <abbr title="1 pound">£1</abbr> to <abbr title="10 shillings">10s.</abbr>, and this has enabled the
 Royal Dutch combine to start a refinery in
 France for the purpose of competing with
 the Standard. As I have explained, the
@@ -6160,7 +6163,7 @@ Sunday-school work the greater will be your dividends of salvation.”</p>
 <p class="center">THE TRUST’S “TIED HOUSES” IN ENGLAND</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">I have</span> reserved until the end of my survey
+<p class="drop-cap p2"><span class="smcap uppercase">I have</span> reserved until the end of my survey
 the examination of the Standard Oil Trust’s
 operations in Great Britain, because, as they
 have not been investigated so closely here as
@@ -6308,7 +6311,7 @@ Charles Pratt &amp; <abbr title="Company">Co.</abbr> Nobody knew what
 appeared in the <cite>Financial News</cite> the brief record
 of the registration at Somerset House on April
 27, 1888, of the Anglo-American Oil Company,
-Limited. It had a capital of £500,000 in £20
+Limited. It had a capital of <abbr title="500,000 pounds">£500,000</abbr> in <abbr title="20 pound">£20</abbr>
 shares. The first list of signatories contained
 several clerks and agents, but it also bore
 the name of Frank E. Bliss, and that told
@@ -6332,12 +6335,12 @@ of the directors’ meetings took place. This
 also helps us to appreciate the amount of
 truth in <abbr>Mr.</abbr> J. D. Archbold’s Missouri evidence
 that he did not know why the Anglo-American
-Oil Company made loans amounting to £500,000
+Oil Company made loans amounting to <abbr title="500,000 pounds">£500,000</abbr>
 <span class="pagenum" id="Page_197">[Pg 197]</span>to its managing director, <abbr>Mr.</abbr> James A. Macdonald.
 <abbr>Mr.</abbr> Archbold was a director of the
 “Anglo” from the outset until somewhere
 between July, 1907, and July, 1908. In 1893
-its capital was increased to £520,000, and at
+its capital was increased to <abbr title="520,000 pounds">£520,000</abbr>, and at
 this time <abbr>Mr.</abbr> John D. Rockefeller’s name first
 appears on the share list as the owner of
 6,867 shares out of a total of 26,000. In July,
@@ -6692,7 +6695,7 @@ the principal shareholders:—</p>
 </table>
 
 <p class="noindent">The capital of the Company was at that date
-£1,000,000 in £20 shares. It is worthy of
+<abbr title="1,000,000 pounds">£1,000,000</abbr> in <abbr title="20 pound">£20</abbr> shares. It is worthy of
 notice that in 1907–8, at a period when <abbr>Mr.</abbr>
 Roosevelt and his party were out after the
 Trusts, <abbr>Mr.</abbr> Archbold, <abbr>Mr.</abbr> Rogers, and nearly
@@ -6982,7 +6985,7 @@ flame which is in a condition of danger.”</p>
 <p class="center">THE FLASH-POINT SCANDAL</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">It</span> is now time to devote a little attention to
+<p class="drop-cap p2"><span class="smcap uppercase">It</span> is now time to devote a little attention to
 one of the Standard’s great triumphs in
 this country—the staving off until this present
 day of the legislative raising of the flash-point
@@ -7232,7 +7235,7 @@ in public office owes the public anything.”</p>
 <p class="center">THE ROCKEFELLERS AND THE HOME OFFICE</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">Naturally</span> the juggle by which the low
+<p class="drop-cap p2"><span class="smcap uppercase">Naturally</span> the juggle by which the low
 flash-point was thus stereotyped in the
 Act of 1879 had its effects. The number of
 petroleum accidents began to increase, and so
@@ -7839,17 +7842,17 @@ time?”</p>
 <p class="center">THE LUBRICATING OIL TRADE</p>
 </div>
 
-<p class="drop-cap p2"><span class="smcap">It</span> is time now to turn to the Standard’s other
+<p class="drop-cap p2"><span class="smcap uppercase">It</span> is time now to turn to the Standard’s other
 English branch, the Vacuum Oil Company,
 Limited, which posed at first as an American
 company entirely independent and unconnected
 with the Standard. It was registered at Somerset
 House as a limited liability company, with
-a capital of £55,000, on May 13, 1901. Its object
+a capital of <abbr title="55,000 pounds">£55,000</abbr>, on May 13, 1901. Its object
 was to take over the business of its parent, the
 Vacuum Oil Company of Rochester, <abbr title="New York">N.Y.</abbr>,
 U.S.A., and it purchased all the assets of that
-company in the United Kingdom for £29,947.
+company in the United Kingdom for <abbr title="29,947 pounds">£29,947</abbr>.
 Up to October, 1905, its five directors were as
 follows—</p>
 
