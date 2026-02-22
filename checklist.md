@@ -304,11 +304,11 @@ References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p134
   * Where you see a problem, make a correction in Guiguts, save the file, and click the "reload" button in the web browser.
 * [x] Hyperlink page references in text, TOC, and index (discussed [here](https://www.pgdp.net/wiki/PPTools/Guiguts/HTML#Hyperlinking_Page_Numbers) and [here](https://www.pgdp.net/wiki/Indexes)).
 * [x] Remove the [Generated TOC](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC) if it is not needed.
-* [ ] Semantic fixup for italics
+* [x] Semantic fixup for italics
   * Use the Regex Library tool and italic_semantics.json.
   * Note: `lang="xx"` can be used on **any** HTML tag including `cite`, `em`, ...
   * [List of language codes](http://www.w3schools.com/tags/ref_language_codes.asp)
-* [ ] Using Regex Library and my `abbr.json` file, add `abbr` tags as appropriate. ([Reference](https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations))
+* [x] Using Regex Library and my `abbr.json` file, add `abbr` tags as appropriate. ([Reference](https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations))
 * [ ] Handle any `<abbr>` for fractions that's needed?
 
 ### Table notes
