@@ -174,12 +174,6 @@ p.noindent { text-indent: 0; }
 /* de-emphasize page numbers */
 .pagenum { color: #bbbbbb; }
 
-/* footnote block styling */
-.footnotes {
-    border: 1px dashed #aaaaaa;
-    margin-top: 1.5em;
-}
-
 /* TN styling */
 .transnote {
     background-color: inherit;
@@ -738,47 +732,47 @@ oils:—</p>
 
 <tr>
 <td class="tdl">Atlantic Refining Company, Pennsylvania</td>
-<td class="tdr">5,000,000</td>
+<td class="tdr tdb">5,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Solar Refining Company, Ohio</td>
-<td class="tdr">500,000</td>
+<td class="tdr tdb">500,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Standard Oil Company of California</td>
-<td class="tdr">25,000,000</td>
+<td class="tdr tdb">25,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Standard Oil Company of Kansas</td>
-<td class="tdr">1,000,000</td>
+<td class="tdr tdb">1,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Standard Oil Company of Indiana</td>
-<td class="tdr">1,000,000</td>
+<td class="tdr tdb">1,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Standard Oil Company of New York</td>
-<td class="tdr">15,000,000</td>
+<td class="tdr tdb">15,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Security Oil Company, Texas</td>
-<td class="tdr">3,000,000</td>
+<td class="tdr tdb">3,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Standard Oil Company of Ohio</td>
-<td class="tdr">3,500,000</td>
+<td class="tdr tdb">3,500,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Corsicana Refining Company</td>
-<td class="tdr">partnership</td>
+<td class="tdr tdb">partnership</td>
 </tr>
 
 </table>
@@ -794,27 +788,27 @@ oils:—</p>
 
 <tr>
 <td class="tdl">Vacuum Oil Company, <abbr title="New York">N.Y.</abbr></td>
-<td class="tdr">2,500,000</td>
+<td class="tdr tdb">2,500,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Borne, Scrymser &amp; <abbr title="Company">Co.</abbr>, <abbr title="New Jersey">N.J.</abbr></td>
-<td class="tdr">200,000</td>
+<td class="tdr tdb">200,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Chesebrough Manufacturing Company, <abbr title="New York">N.Y.</abbr></td>
-<td class="tdr">500,000</td>
+<td class="tdr tdb">500,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Galena Signal Oil Company, <abbr title="Pennsylvania">Penn.</abbr></td>
-<td class="tdr">10,000,000</td>
+<td class="tdr tdb">10,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Swan and Finch Company, <abbr title="New York">N.Y.</abbr></td>
-<td class="tdr">1,000,000</td>
+<td class="tdr tdb">1,000,000</td>
 </tr>
 
 </table>
@@ -880,87 +874,87 @@ at Somerset House:—</p>
 
 <tr>
 <td class="tdl">Anglo-American Oil Company (London)</td>
-<td class="tdr"><abbr title="1,000,000 pounds">£1,000,000</abbr></td>
+<td class="tdr tdb"><abbr title="1,000,000 pounds">£1,000,000</abbr></td>
 </tr>
 
 <tr>
 <td class="tdl">Vacuum Oil Company, <abbr title="Limited">Ltd.</abbr> (London)</td>
-<td class="tdr"><abbr title="55,000 pounds">£55,000</abbr></td>
+<td class="tdr tdb"><abbr title="55,000 pounds">£55,000</abbr></td>
 </tr>
 
 <tr>
 <td class="tdl">American Petroleum Company (Holland)</td>
-<td class="tdr">Fl.7,850,000</td>
+<td class="tdr tdb">Fl.7,850,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Amerikanische Petroleum Company (Germany)</td>
-<td class="tdr">M.200,000</td>
+<td class="tdr tdb">M.200,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Deutsche-Amerikanische Company (Germany)</td>
-<td class="tdr">M.30,000,000</td>
+<td class="tdr tdb">M.30,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Danish Petroleum Company</td>
-<td class="tdr">Not stated</td>
+<td class="tdr tdb">Not stated</td>
 </tr>
 
 <tr>
 <td class="tdl">Konigsberger-Handels Company (Germany)</td>
-<td class="tdr">M.2,300,000</td>
+<td class="tdr tdb">M.2,300,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Mannheim-Bremen Company (Germany)</td>
-<td class="tdr">M.3,000,000</td>
+<td class="tdr tdb">M.3,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Korff Refinery Company (Bremen)</td>
-<td class="tdr">M.1,500,000</td>
+<td class="tdr tdb">M.1,500,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Stettin-Amerikanische Company (Germany)</td>
-<td class="tdr">Not stated</td>
+<td class="tdr tdb">Not stated</td>
 </tr>
 
 <tr>
 <td class="tdl">Roumanian-American Petroleum Company</td>
-<td class="tdr">Lei.12,500,000</td>
+<td class="tdr tdb">Lei.12,500,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Société ci-devant H. Reith et Cie. (Belgium)</td>
-<td class="tdr">Fr.1,650,000</td>
+<td class="tdr tdb">Fr.1,650,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Italian American Petroleum Company</td>
-<td class="tdr">Not stated</td>
+<td class="tdr tdb">Not stated</td>
 </tr>
 
 <tr>
 <td class="tdl">Vacuum Oil Company (Austria)</td>
-<td class="tdr">Kr.10,000,000</td>
+<td class="tdr tdb">Kr.10,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">International Oil Company (Japan)</td>
-<td class="tdr">Yen.12,000,000</td>
+<td class="tdr tdb">Yen.12,000,000</td>
 </tr>
 
 <tr>
 <td class="tdl">Imperial Oil Company (Canada)</td>
-<td class="tdr">Not stated</td>
+<td class="tdr tdb">Not stated</td>
 </tr>
 
 <tr>
 <td class="tdl">Colonial Oil Company (Africa and Australasia)</td>
-<td class="tdr">$250,000</td>
+<td class="tdr tdb">$250,000</td>
 </tr>
 
 </table>
@@ -3762,37 +3756,37 @@ Syndicate it was as follows:—</p>
 
 <tr>
 <td class="tdl" colspan="3">Henry Hassall, 32, Dartmouth Park Road</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">E. G. Flower, Elm Villa, Elm Road, Sidcup</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">Robert Cave, 26, Beversbrook Road, Tufnell Park</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">Sydney Lowenthal, 59, Sidney Street, South Kensington</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">Francis Glover Sharpe, 16, Foyle Road, Westcombe Park</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">Ernest Luff Smith, 73, Ramsden Road, Balham</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">Horace Maxwell Johnson, 1, <abbr>Dr.</abbr> Johnson’s Buildings, barrister</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
@@ -3835,37 +3829,37 @@ Company, we find the following names:—</p>
 
 <tr>
 <td class="tdl" colspan="3">Henry Hassall, 5, Florence Road, Finsbury Park</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">E. G. Flower, 279, High Road, Lee</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">Robert Cave, 26, Beversbrook Park, Tufnell Park</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">F. G. Sharpe, 27, Walbrook</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">E. Luff Smith, 73, Ramsden Road, Balham</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">John Rayner, 8, Woodside Villas, Ewell Road, Surbiton</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl" colspan="3">G. Dudley Colclough, 47, Inverness Terrace</td>
-<td class="tdr">1</td>
+<td class="tdr tdb
 </tr>
 
 <tr>
@@ -5757,12 +5751,12 @@ is as follows:—</p>
 
 <tr>
 <td class="tdl">Evening with <abbr>Mr.</abbr> Pampel and Obersteiger Hohner</td>
-<td class="tdr">42</td>
+<td class="tdr tdb">42</td>
 </tr>
 
 <tr>
 <td class="tdl">Evening with <abbr>Mr.</abbr> Mié</td>
-<td class="tdr">28</td>
+<td class="tdr tdb">28</td>
 </tr>
 
 <tr>
@@ -5779,42 +5773,42 @@ own account.—(<i>Signed</i>) <span class="smcap">Mié</span>.]</p>
 
 <tr>
 <td class="tdl">Cash, <abbr>Mr.</abbr> Müller, foreman</td>
-<td class="tdr">100</td>
+<td class="tdr tdb">100</td>
 </tr>
 
 <tr>
 <td class="tdl">Cash, <abbr>Mr.</abbr> Plaintz, engineer, of Gustav Toelle</td>
-<td class="tdr">50</td>
+<td class="tdr tdb">50</td>
 </tr>
 
 <tr>
 <td class="tdl">Foreman of S. Wolle</td>
-<td class="tdr">5</td>
+<td class="tdr tdb">5</td>
 </tr>
 
 <tr>
 <td class="tdl">Cigars for foreman Müller</td>
-<td class="tdr">12.50</td>
+<td class="tdr tdb">12.50</td>
 </tr>
 
 <tr>
 <td class="tdl">Cigars for foreman Hortenbach</td>
-<td class="tdr">6.25</td>
+<td class="tdr tdb">6.25</td>
 </tr>
 
 <tr>
 <td class="tdl">Carriage and beer—call on Hortenbach</td>
-<td class="tdr">10.30</td>
+<td class="tdr tdb">10.30</td>
 </tr>
 
 <tr>
 <td class="tdl">Wine, dinner, cigars, <abbr title="etc.">&amp;c.</abbr>, with Hortenbach</td>
-<td class="tdr">35.20</td>
+<td class="tdr tdb">35.20</td>
 </tr>
 
 <tr>
 <td class="tdl">Cash, <abbr>Mr.</abbr> Hortenbach</td>
-<td class="tdr">20.00</td>
+<td class="tdr tdb">20.00</td>
 </tr>
 
 <tr>
@@ -6246,247 +6240,247 @@ address of the Standard:—</p>
 
 <tr>
 <td class="tdl">H. M. Flagler and J. D. Archbold</td>
-<td class="tdr">10,239</td>
+<td class="tdr tdb">10,239</td>
 </tr>
 
 <tr>
 <td class="tdl">John D. Rockefeller</td>
-<td class="tdr">6,867</td>
+<td class="tdr tdb">6,867</td>
 </tr>
 
 <tr>
 <td class="tdl">C. W. Harkness, 611, Fifth Avenue, <abbr title="New York">N.Y.</abbr></td>
-<td class="tdr">1,542</td>
+<td class="tdr tdb">1,542</td>
 </tr>
 
 <tr>
 <td class="tdl"><abbr>Mrs.</abbr> Mary Pratt, Chas. M. Pratt, and Fred B. Pratt</td>
-<td class="tdr">1,336</td>
+<td class="tdr tdb">1,336</td>
 </tr>
 
 <tr>
 <td class="tdl">Oliver H. Payne, 2, West Fifty-seventh Street, <abbr title="New York">N.Y.</abbr></td>
-<td class="tdr">1,068</td>
+<td class="tdr tdb">1,068</td>
 </tr>
 
 <tr>
 <td class="tdl">H. M. Flagler (separately)</td>
-<td class="tdr">748</td>
+<td class="tdr tdb">748</td>
 </tr>
 
 <tr>
 <td class="tdl">H. H. Rogers</td>
-<td class="tdr">503</td>
+<td class="tdr tdb">503</td>
 </tr>
 
 <tr>
 <td class="tdl">Laman V. Harkness, Greenwich, Conn.</td>
-<td class="tdr">349</td>
+<td class="tdr tdb">349</td>
 </tr>
 
 <tr>
 <td class="tdl">W. L. Harkness, 10, West Forty-third Street, <abbr title="New York">N.Y.</abbr></td>
-<td class="tdr">347</td>
+<td class="tdr tdb">347</td>
 </tr>
 
 <tr>
 <td class="tdl"><abbr title="William">Wm.</abbr> Rockefeller</td>
-<td class="tdr">347</td>
+<td class="tdr tdb">347</td>
 </tr>
 
 <tr>
 <td class="tdl">Chas. Lockhart, Pittsburg</td>
-<td class="tdr">320</td>
+<td class="tdr tdb">320</td>
 </tr>
 
 <tr>
 <td class="tdl">John D. Archbold</td>
-<td class="tdr">213</td>
+<td class="tdr tdb">213</td>
 </tr>
 
 <tr>
 <td class="tdl"><span class="pagenum" id="Page_198">[Pg 198]</span>W. Everitt Macy</td>
-<td class="tdr">199</td>
+<td class="tdr tdb">199</td>
 </tr>
 
 <tr>
 <td class="tdl"><abbr>Mrs.</abbr> Esther Jennings, 48, Park Avenue, <abbr title="New York">N.Y.</abbr></td>
-<td class="tdr">146</td>
+<td class="tdr tdb">146</td>
 </tr>
 
 <tr>
 <td class="tdl">Miss A. B. Jennings, 48, Park Avenue, <abbr title="New York">N.Y.</abbr></td>
-<td class="tdr">63</td>
+<td class="tdr tdb">63</td>
 </tr>
 
 <tr>
 <td class="tdl">Oliver Jennings</td>
-<td class="tdr">63</td>
+<td class="tdr tdb">63</td>
 </tr>
 
 <tr>
 <td class="tdl">Walter Jennings</td>
-<td class="tdr">64</td>
+<td class="tdr tdb">64</td>
 </tr>
 
 <tr>
 <td class="tdl"><abbr>Mrs.</abbr> Mary B. Jennings, Fairfield, Conn.</td>
-<td class="tdr">53</td>
+<td class="tdr tdb">53</td>
 </tr>
 
 <tr>
 <td class="tdl"><abbr>Mrs.</abbr> Elmira D. Brewster</td>
-<td class="tdr">53</td>
+<td class="tdr tdb">53</td>
 </tr>
 
 <tr>
 <td class="tdl">George S. Brewster</td>
-<td class="tdr">53</td>
+<td class="tdr tdb">53</td>
 </tr>
 
 <tr>
 <td class="tdl">F. F. Brewster, Newhaven, Conn.</td>
-<td class="tdr">53</td>
+<td class="tdr tdb">53</td>
 </tr>
 
 <tr>
 <td class="tdl">R. Stanton Brewster</td>
-<td class="tdr">53</td>
+<td class="tdr tdb">53</td>
 </tr>
 
 <tr>
 <td class="tdl">J. M. Constable, draper</td>
-<td class="tdr">82</td>
+<td class="tdr tdb">82</td>
 </tr>
 
 <tr>
 <td class="tdl">H. Melville Hanna, Cleveland, Ohio</td>
-<td class="tdr">80</td>
+<td class="tdr tdb">80</td>
 </tr>
 
 <tr>
 <td class="tdl">Wesley H. Tilford</td>
-<td class="tdr">80</td>
+<td class="tdr tdb">80</td>
 </tr>
 
 <tr>
 <td class="tdl">C. F. Heye</td>
-<td class="tdr">98</td>
+<td class="tdr tdb">98</td>
 </tr>
 
 <tr>
 <td class="tdl">J. S. Kennedy</td>
-<td class="tdr">80</td>
+<td class="tdr tdb">80</td>
 </tr>
 
 <tr>
 <td class="tdl">Ed. T. Bedford</td>
-<td class="tdr">66</td>
+<td class="tdr tdb">66</td>
 </tr>
 
 <tr>
 <td class="tdl">Ambrose M. McGregor</td>
-<td class="tdr">53</td>
+<td class="tdr tdb">53</td>
 </tr>
 
 <tr>
 <td class="tdl">Louis H. Severance</td>
-<td class="tdr">142</td>
+<td class="tdr tdb">142</td>
 </tr>
 
 <tr>
 <td class="tdl">C. M. Chapin</td>
-<td class="tdr">26</td>
+<td class="tdr tdb">26</td>
 </tr>
 
 <tr>
 <td class="tdl">H. C. Folger, jun.</td>
-<td class="tdr">26</td>
+<td class="tdr tdb">26</td>
 </tr>
 
 <tr>
 <td class="tdl">W. H. Macy, jun.</td>
-<td class="tdr">13</td>
+<td class="tdr tdb">13</td>
 </tr>
 
 <tr>
 <td class="tdl">W. T. Wardwell (treasurer of the Standard Oil Trust)</td>
-<td class="tdr">21</td>
+<td class="tdr tdb">21</td>
 </tr>
 
 <tr>
 <td class="tdl">Daniel O’Day, banker, <abbr title="New York">N.Y.</abbr></td>
-<td class="tdr">47</td>
+<td class="tdr tdb">47</td>
 </tr>
 
 <tr>
 <td class="tdl">Hugh J. Jewett, Morristown, New Jersey</td>
-<td class="tdr">32</td>
+<td class="tdr tdb">32</td>
 </tr>
 
 <tr>
 <td class="tdl">J. H. Alexander, Elizabeth, New Jersey</td>
-<td class="tdr">18</td>
+<td class="tdr tdb">18</td>
 </tr>
 
 <tr>
 <td class="tdl"><abbr>Mrs.</abbr> Emma B. Auchinloss, 17, West Forty-ninth Street, <abbr title="New York">N.Y.</abbr></td>
-<td class="tdr">63</td>
+<td class="tdr tdb">63</td>
 </tr>
 
 <tr>
 <td class="tdl">L. S. Thompson, Redbank, New Jersey</td>
-<td class="tdr">29</td>
+<td class="tdr tdb">29</td>
 </tr>
 
 <tr>
 <td class="tdl">W. P. Thompson, Redbank, New Jersey</td>
-<td class="tdr">34</td>
+<td class="tdr tdb">34</td>
 </tr>
 
 <tr>
 <td class="tdl"><abbr>Mrs.</abbr> Mary E. Thompson</td>
-<td class="tdr">37</td>
+<td class="tdr tdb">37</td>
 </tr>
 
 <tr>
 <td class="tdl"><abbr>Mrs.</abbr> Eliz. T. Preston, 1,228, Wood Avenue, Colorado Springs</td>
-<td class="tdr">26</td>
+<td class="tdr tdb">26</td>
 </tr>
 
 <tr>
 <td class="tdl"><abbr>Mrs.</abbr> Helen James</td>
-<td class="tdr">63</td>
+<td class="tdr tdb">63</td>
 </tr>
 
 <tr>
 <td class="tdl"><abbr>Mrs.</abbr> Salome Jones, Boston, Mass.</td>
-<td class="tdr">29</td>
+<td class="tdr tdb">29</td>
 </tr>
 
 <tr>
 <td class="tdl">Joseph Seep, banker, Oil City, <abbr title="Pennsylvania">Penn.</abbr></td>
-<td class="tdr">26</td>
+<td class="tdr tdb">26</td>
 </tr>
 
 <tr>
 <td class="tdl">C. F. Akerman</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl"><span class="pagenum" id="Page_199">[Pg 199]</span>A. J. Pouch</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">T. C. Bushnell</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">Livingston Roe</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
@@ -6495,22 +6489,22 @@ address of the Standard:—</p>
 
 <tr>
 <td class="tdl">Frank E. Bliss</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">James Macdonald</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">J. H. Usmar</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">W. A. Hawkins</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 </table>
@@ -6528,42 +6522,42 @@ the principal shareholders:—</p>
 
 <tr>
 <td class="tdl">Standard Oil Company of New Jersey</td>
-<td class="tdr">49,993</td>
+<td class="tdr tdb">49,993</td>
 </tr>
 
 <tr>
 <td class="tdl">Trustees Standard Oil Trust</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">Frederick D. Asche</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">J. H. Usmar, 22, Billiter Street, E.C., merchant</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">Francis Edward Powell, 22, Billiter Street, merchant</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">Thomas H. Hawkins, secretary, 22, Billiter Street</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">James Hamilton, 22, Billiter Street, merchant</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
 <td class="tdl">William E. Bemis, 26, Broadway, New York</td>
-<td class="tdr">1</td>
+<td class="tdr tdb">1</td>
 </tr>
 
 <tr>
