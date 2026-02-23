@@ -494,11 +494,11 @@ e.g. for scrolling, use Shift-Option instead.
 * Also a utility `kepubify` (link below) that converts; it's unclear what this conversion does that's any better than just renaming the file. Changing the filename is enough to invoke a different / better rendering engine on Kobo devices.
 
 ### Build and upload Ebooks
-* [ ] HTML → Ebookmaker (online)
-* [ ] Optional: Convert epub3 with [kepubify](https://pgaskin.net/kepubify/try/)
-* [ ] Optional: Upload epub3 with [Send to Kindle](https://www.amazon.com/gp/sendtokindle)
-* [ ] Add epub3 to Apple Books
-* [ ] Optional: Add epub, epub3, renamed-kepub, converted-kepub to Dropbox for Kobo
+* [x] HTML → Ebookmaker (online)
+* [x] Optional: Convert epub3 with [kepubify](https://pgaskin.net/kepubify/try/)
+* [x] Optional: Upload epub3 with [Send to Kindle](https://www.amazon.com/gp/sendtokindle)
+* [x] Add epub3 to Apple Books
+* [x] Optional: Add epub, epub3, renamed-kepub, converted-kepub to Dropbox for Kobo
 
 ### Ebook review
 <details>
