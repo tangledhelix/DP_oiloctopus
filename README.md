@@ -111,6 +111,8 @@ Images from [TIA](https://archive.org/details/greatoiloctopus00trutrich).
 
 smallcaps in use.
 
+(HTML, TN at front of book): Due to damage to the original book cover, this book contains a restored cover image created by the transcriber. The new cover art included with this eBook is granted to the public domain.
+
 p. 7: changed location of quotation marks for Chapters VII, VIII entries to match the chapter titles
 
 p. 72: changed “Insterstate” to “Interstate” (the Interstate Commerce Commission)
