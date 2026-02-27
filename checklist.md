@@ -506,22 +506,21 @@ e.g. for scrolling, use Shift-Option instead.
 Don't necessarily have to do *all* of these, but these are what I have.
 </summary>
 
-* [ ] Review Ebook ToC in at least one e-reader, for structure & content
+* [x] Review Ebook ToC in at least one e-reader, for structure & content
   * Can try using `title=` attr if a header title has footnote marker etc.
-* [ ] Mac
-  * [ ] Adobe Digital Editions (epub3)
-  * [ ] Apple Books
-  * [ ] Kindle Previewer (epub3)
-  * [ ] Calibre (epub3)
-* [ ] Phone
-  * [ ] Apple Books (iPhone)
-  * [ ] Kindle (iPhone)
-* [ ] Tablet
-  * [ ] Kindle (Android)
-  * [ ] Google Play Books - Android (Dropbox)
+* [x] Mac
+  * [x] Adobe Digital Editions (epub3)
+  * [x] Apple Books
+  * [x] Kindle Previewer (epub3)
+  * [x] Calibre (epub3)
+* [x] Phone
+  * [x] Apple Books (iPhone)
+  * [x] Kindle (iPhone)
+* [x] Tablet
+  * [x] Kindle (Android)
+  * [x] Google Play Books - Android (Dropbox)
 * [ ] E-ink
-  * [ ] Kobo Libra Colour (renamed-kepub)
-  * [ ] Kobo Libra Colour (converted-kepub)
+  * [x] Kobo Libra Colour (converted-kepub)
   * [ ] Kindle Colorsoft
 
 </details>
