@@ -210,7 +210,9 @@ p.drop-cap:first-letter
   line-height:0.85em;
 }
 .uppercase { text-transform: uppercase; }
-.x-ebookmaker  p.drop-cap:first-letter
+
+/* disable drop-caps for EPUB2 */
+.x-ebookmaker-2  p.drop-cap:first-letter
 {
   float: none;
   margin: 0;

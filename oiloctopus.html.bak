@@ -210,12 +210,12 @@ p.drop-cap:first-letter
   line-height:0.85em;
 }
 .uppercase { text-transform: uppercase; }
-.x-ebookmaker  p.drop-cap:first-letter
+/*.x-ebookmaker  p.drop-cap:first-letter
 {
   float: none;
   margin: 0;
   font-size: 100%;
-}
+}*/
     </style>
 </head>
 <body>
@@ -318,7 +318,7 @@ hemispheres.</p>
   </h2>
 </div>
 
-<table class="toc autotable">
+<table class="toc">
 
 <tr>
 <td class="tdr tp-xs">CHAP.</td>
