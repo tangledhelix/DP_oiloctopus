@@ -152,7 +152,7 @@ The iPhone/iPad simulators can't use `file://` URLs. Start a local web server wi
 * [x] Table on p.181 renders *very* wide on Kindle, seems wrong. Double-check code.
   * Seen on both Android tablet & phone simulator, so far.
   * Tried various things including `width, max-width` in CSS, doesn't help in Kindle version. Other readers render normally.
-* [ ] ToC: add more vertical spacing between rows.
+* [x] ToC: add more vertical spacing between rows.
 * [ ] In many tables: fix cell wrapping? Hanging indent?
 
 ### Smooth Reading ###

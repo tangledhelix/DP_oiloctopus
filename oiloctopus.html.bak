@@ -86,6 +86,10 @@ table.autotable    { border-collapse: collapse; }
 table.autotable td,
 table.autotable th { padding: 0.05em 0.25em; }
 
+table.toc    { border-collapse: collapse; }
+table.toc td,
+table.toc th { padding: 0.2em 0.25em; }
+
 .tdl      {text-align: left;}
 .tdr      {text-align: right;}
 .tdc      {text-align: center;}
@@ -314,7 +318,7 @@ hemispheres.</p>
   </h2>
 </div>
 
-<table class="autotable">
+<table class="toc autotable">
 
 <tr>
 <td class="tdr tp-xs">CHAP.</td>
@@ -2952,7 +2956,9 @@ which kindly acknowledge.—Truly yours,</p>
 </p>
 </blockquote>
 
-<blockquote class="p2">
+<hr class="r5">
+
+<blockquote>
 <p class="right pad1"><span class="pagenum" id="Page_87">[Pg 87]</span>
   <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>December 18, 1901</i>.
