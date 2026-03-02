@@ -47,6 +47,8 @@ hr.tb   {width: 45%; margin-left: 27.5%; margin-right: 27.5%;}
 hr.chap {width: 65%; margin-left: 17.5%; margin-right: 17.5%;}
 @media print { hr.chap {display: none; visibility: hidden;} }
 
+hr.r5  {width: 5%; margin-top: 1em; margin-bottom: 1em; margin-left: 47.5%; margin-right: 47.5%;}
+
 div.chapter {page-break-before: always;}
 h2.nobreak  {page-break-before: avoid;}
 
@@ -96,7 +98,7 @@ table.autotable th { padding: 0.05em 0.25em; }
   margin-right: 0.25em;
   padding-left: 4.5em;
   text-indent: -4.5em;
-  width: 18em; max-width: 18em;
+  max-width: 20em;
 }
 
 .pagenum { /* uncomment the next line for invisible page numbers */
@@ -2520,7 +2522,9 @@ $15,000. Kindly acknowledge receipt and oblige.</p>
 </p>
 </blockquote>
 
-<blockquote class="p2">
+<hr class="r5">
+
+<blockquote>
 <p class="right pad1"><span class="pagenum" id="Page_79">[Pg 79]</span>
 <span class="pad2">26, <span class="smcap">Broadway, New York</span>,</span><br>
 <i>April 17, 1900</i>.
@@ -2541,7 +2545,9 @@ of affairs.</p>
 <p><abbr title="Honorable">Hon.</abbr> J. B. Foraker, 1500, Sixteenth Street, Washington, D.C.</p>
 </blockquote>
 
-<blockquote class="p2">
+<hr class="r5">
+
+<blockquote>
 <p class="right pad1">
 <i>January 27, 1902.</i>
 </p>
@@ -2560,7 +2566,9 @@ be successfully consummated.</p>
 <p><abbr title="Honorable">Hon.</abbr> J. B. Foraker, Washington, D.C.</p>
 </blockquote>
 
-<blockquote class="p2">
+<hr class="r5">
+
+<blockquote>
 <p class="right pad1">
 <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
 <i>February 25, 1902</i>.
@@ -2634,7 +2642,9 @@ heartily in this expression to you.</p>
 </p>
 </blockquote>
 
-<blockquote class="p2">
+<hr class="r5">
+
+<blockquote>
 <p class="right pad1"><span class="pagenum" id="Page_81">[Pg 81]</span>
 <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
 <i>March 20, 1903</i>.
@@ -2765,7 +2775,9 @@ consider Judge Morrison’s appointment.</p>
 <p><abbr title="Honorable">Hon.</abbr> <abbr title="William">Wm.</abbr> A. Stone, Harrisburg, <abbr title="Pennsylvania">Pa.</abbr></p>
 </blockquote>
 
-<blockquote class="p2">
+<hr class="r5">
+
+<blockquote>
 <p class="right pad1">
   <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>September 5, 1900</i>.
@@ -2826,7 +2838,9 @@ Telegram.
 </p>
 </blockquote>
 
-<blockquote class="p2">
+<hr class="r5">
+
+<blockquote>
 <p class="right pad1">
   <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>March 15, 1900</i>.
@@ -2846,7 +2860,9 @@ your favour for $5,000, in fulfilment of our understandings.</p>
 </p>
 </blockquote>
 
-<blockquote class="p2">
+<hr class="r5">
+
+<blockquote>
 <p class="right pad1">
   <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>February 5, 1900</i>.
@@ -2865,7 +2881,9 @@ which will oblige.</p>
 <p>To <abbr title="Honorable">Hon.</abbr> John P. Elkin, Indiana, <abbr title="Pennsylvania">Pa.</abbr></p>
 </blockquote>
 
-<blockquote class="p2">
+<hr class="r5">
+
+<blockquote>
 <p class="right pad1">
   <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>May 9, 1901</i>.
@@ -2915,7 +2933,9 @@ your favour for $3,000, covering a year’s subscription to the
 </p>
 </blockquote>
 
-<blockquote class="p2">
+<hr class="r5">
+
+<blockquote>
 <p class="right pad1">
   <span class="pad3">26, <span class="smcap">Broadway</span>,</span><br>
   <i>January 17, 1899</i>.
