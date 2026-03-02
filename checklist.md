@@ -501,10 +501,7 @@ e.g. for scrolling, use Shift-Option instead.
 * [x] Optional: Add epub, epub3, renamed-kepub, converted-kepub to Dropbox for Kobo
 
 ### Ebook review
-<details>
-<summary>
 Don't necessarily have to do *all* of these, but these are what I have.
-</summary>
 
 * [x] Review Ebook ToC in at least one e-reader, for structure & content
   * Can try using `title=` attr if a header title has footnote marker etc.
@@ -522,8 +519,6 @@ Don't necessarily have to do *all* of these, but these are what I have.
 * [ ] E-ink
   * [x] Kobo Libra Colour (converted-kepub)
   * [ ] Kindle Colorsoft
-
-</details>
 
 ## Smooth Reading
 
