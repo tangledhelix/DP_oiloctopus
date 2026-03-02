@@ -144,8 +144,8 @@ The iPhone/iPad simulators can't use `file://` URLs. Start a local web server wi
 
 ### Ebook review ###
 
-* [ ] Can we do drop-caps on EPUB now? EPUB3, at least?
-   * [ ] Could still drop with `.x-ebookmaker-drop-2`
+* [x] Can we do drop-caps on EPUB now? EPUB3, at least?
+   * [x] Could still drop with `.x-ebookmaker-2`
 * [x] The letters that abut each other, perhaps `hr.r5` to separate them?
 * [x] The curly brace in a couple of tables for grouping doesn't render very well on Kindle, Kobo, etc. Need a different approach? The height isn't being honored by some of them. Maybe need to use `min-height` or something instead?
   * There's just not a good way to do these on e-readers. Discussed on forum.
@@ -153,6 +153,6 @@ The iPhone/iPad simulators can't use `file://` URLs. Start a local web server wi
   * Seen on both Android tablet & phone simulator, so far.
   * Tried various things including `width, max-width` in CSS, doesn't help in Kindle version. Other readers render normally.
 * [x] ToC: add more vertical spacing between rows.
-* [ ] In many tables: fix cell wrapping? Hanging indent?
+* [x] In many tables: fix cell wrapping? Hanging indent?
 
 ### Smooth Reading ###
