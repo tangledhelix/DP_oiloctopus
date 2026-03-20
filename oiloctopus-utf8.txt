@@ -3750,7 +3750,7 @@ attention in Kiel:--
                                                               HUGO COHR.
 
 The Vacuum Oil people have always liked to be on good terms with the
-engineer the actual mechanic who has to see to the application of the
+engineer, the actual mechanic who has to see to the application of the
 lubricating oils to the machinery, and whose opinion on their merits
 is naturally deferred to by his employers. Mr. Heinrich Gremmler, a
 director of the German Vacuum Oil Company, and manager of the Berlin
@@ -4587,7 +4587,7 @@ and Dr. Hermann Kast (of Karlsruhe), all denouncing the 73 deg.
 flash-point and advocating its being raised. Sir Henry Roscoe said:--
 
   I think that Americans send over so much mixed oil of the character
-  of this “Tea Rose” oil _only became our flash-point is so low_.
+  of this “Tea Rose” oil _only because our flash-point is so low_.
 
 Lord Kelvin told the Select Committee:--
 
